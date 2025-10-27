@@ -1,6 +1,14 @@
+---
+Title: Piano Sonata No. 14 in C-sharp minor, “Moonlight Sonata”
+Year: 1801
+Genre: Music
+Disease: Deafness
+ICD: AB52
+---
+
 # Piano Sonata No. 14 in C-sharp minor, “Moonlight Sonata”
 
-In "Moonlight Sonata"(1801), by Ludwig van Beethoven, Beethoven portrays the stages of his deafness and emotional struggle through its three movements. The first movement’s steady triplet rhythm represents the tinnitus that tormented him before total deafness, while its blurred harmonies in the latter half depict the gradual collapse of sound as if he were playing in near silence. The second movement’s simple, repetitive melody reflects his reliance on memory rather than real hearing, conveying the emptiness of a world fading into silence. In the third movement, the melody disintegrates at the opening and the rhythm breaks apart at the finale, symbolizing the violent despair of complete deafness. Through this musical progression from ringing to remembrance to ruin, Beethoven expressed the process of deafness due to hearing impairment, the pain he felt during that process, and his emotions through music.
+Beethoven discribed the stages of his deafness and emotional struggle through three movements in "Moonlight Sonata"(1801). The first movement’s steady triplet rhythm represents the tinnitus that tormented him before total deafness, while its blurred harmonies in the latter half depict the gradual collapse of sound as if he were playing in near silence. The second movement’s simple, repetitive melody reflects his reliance on memory rather than real hearing, conveying the emptiness of a world fading into silence. In the third movement, the melody disintegrates at the opening and the rhythm breaks apart at the finale, symbolizing the violent despair of complete deafness. Through this musical progression from ringing to remembrance to ruin, Beethoven expressed the process of deafness due to hearing impairment, the pain he felt during that process, and his emotions through music.
 
 # 피아노 소나타 제14번 "월광"
 
