@@ -1,6 +1,13 @@
+---
+title: Gombo Taryeong
+Genre: jopga
+Disease: smallpox
+ICD: B03
+---
+
 # Gombo Taryeong
 
-Gombo Taryeong uses a person with smallpox scars as its subject to satirize an appearance-focused society. Sung by Seoul-area jopga performers, it is performed in Jin-gyeong tori with a ja-jin-taryeong rhythm, using the notes 'Sol-La-Do-Re-Mi.' The lyrics exaggerate the features of the scarred face and cleverly link tangled objects to the face, describing even fish as fleeing from nets, creating a highly humorous effect.
+Gombo Taryeong uses a person with smallpox scars as its subject to satirize an appearance-focused society. Sung by Seoul-area jopga performers, it is performed in Jin-gyeong tori with a ja-jin-taryeong rhythm, using the notes 'Sol-La-Do-Re-Mi'. The lyrics exaggerate the features of the scarred face and cleverly link tangled objects to the face, describing even fish as fleeing from nets, creating a highly humorous effect.
 
 Gombo Taryeong evokes laughter by humorously portraying the traces of disease while revealing societal prejudice, reflecting the emotional wisdom of late Joseon urban commoners who used humor to cope with discrimination and social stigma.
 
