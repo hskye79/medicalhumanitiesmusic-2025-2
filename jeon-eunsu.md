@@ -1,3 +1,11 @@
+---
+Title: Wonder
+Year: 2017
+Genre: Film
+Disease: Treacher Collins Syndrome
+ICD: Q75.4
+---
+
 # Wonder
 
 In "Wonder" (2017), directed by Stephen Chbosky, Marcelo Zarvos’s score plays a subtle yet profound role in expressing the emotional journey of Auggie, a boy born with Treacher Collins syndrome. In the track “Ordinary Kid,” Zarvos uses gentle piano lines and gradually expanding string textures to mirror Auggie’s transition from isolation to acceptance. The music begins in a minor key, reflecting his initial anxiety and vulnerability, and slowly shifts toward major harmonies that evoke warmth, empathy, and self-confidence. Through these delicate musical transformations, Zarvos conveys disability not as tragedy but as a process of inner growth and reconciliation.
