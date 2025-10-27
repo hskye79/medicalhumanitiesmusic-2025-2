@@ -1,3 +1,11 @@
+---
+Title: A Beautiful Mind
+Year: 2001
+Genre: Film
+Disease: Schizophrenia
+ICD: F20
+---
+
 # A Beautiful Mind
 
 A Beautiful Mind (2001) is a biographical drama film based on the true story of Nobel Prize–winning economist John Nash, portraying his struggle with schizophrenia. The main theme, A Kaleidoscope of Mathematics, composed by James Horner (1953–2015, USA), is an instrumental piece that uses repetitive and symmetrical structures to express both mathematical order and hallucinatory chaos. The film follows a brilliant mathematician who suffers between reality and delusion but gradually learns to accept his illness and regain balance through love. The interplay of piano and strings creates unstable harmonies symbolizing the thin line between genius and madness, while the ethereal female humming represents the constant voices echoing in Nash’s mind. Rather than depicting schizophrenia as horror, the music transforms it into an auditory form of empathy, revealing the illness as a complex and dignified aspect of human existence rather than mere disorder.
