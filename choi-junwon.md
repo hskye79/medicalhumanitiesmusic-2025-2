@@ -1,3 +1,11 @@
+---
+Title: Daily Dose of Sunshine
+Year: 2023
+Genre: drama
+Disease: Bipolar Disorder, Delusional Disorder, Social Anxiety Disorder, Panic Disorder, Depression, etc.
+ICD: F31 (Bipolar Affective Disorder), F20 (Schizophrenia and other psychotic disorders), F40 (Phobic anxiety disorders), F41 (Other anxiety disorders), F32 (Depressive episodes)
+---
+
 #Daily Dose of Sunshine
 
 "Daily Dose of Sunshine" is a drama about Jung Dae-eun (Park Bo-young), a nurse who worked in the internal medicine department for three years, who was first appointed to the mental health department and worked in the mental ward. Daeun meets patients with various mental illnesses in the mental ward, experiences their heartache stories, and grows as a nurse and a person who overcomes mental illness in the process. The drama realistically depicts various mental illnesses such as bipolar disorder, delusional disorder, social anxiety disorder, panic disorder, and depression, and beyond prejudice against mental illness, it sheds light on the human side of patients and their pain with a warm gaze. The original is a webtoon of the same name by Iraha, who actually worked in the psychiatric ward for six years, and contains vivid experiences of the scene.
