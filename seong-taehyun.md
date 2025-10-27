@@ -1,6 +1,15 @@
+---
+Title: The Kng's speech
+year: 2010
+Genre: Film
+Disease: Stuttering
+ICD: F98.5
+---
+
 # The King's Speech
 
 Artwork Depicting Illness or Disability The film : <The King's Speech> (2010)
+
 Music Information from the Selected Work
 Title: Symphony No. 7 in A major, Op. 92 - II. Allegretto
 Composer: Ludwig van Beethoven
