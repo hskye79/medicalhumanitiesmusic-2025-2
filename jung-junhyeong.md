@@ -1,3 +1,11 @@
+---
+Title: Forrest Gump
+Year: 1994
+Genre: Film
+Disease: intellectual disability
+ICD: F71
+---
+
 # Forrest Gump (1994)
 
 1. Art Work
