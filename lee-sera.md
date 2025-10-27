@@ -1,3 +1,11 @@
+---
+Title: La Traviata
+Dates: October 10, 1813 – January 27, 1901 (Italy)
+Genre: Opera
+Disease: Tuberculosis
+ICD: 1B10
+---
+
 # *La Traviata*
 
 In *La Traviata*, Verdi does not portray tuberculosis as mere physical suffering but as a poetic symbol of love, sacrifice, and spiritual purification. Violetta’s arias reveal not the weakness of her body but the conflict between freedom and devotion. The rapid rhythms and dazzling coloratura of “Sempre libera” express her yearning for freedom even as she is bound by fate, while the fading melody of “Addio del passato” unites the end of love with the release of the soul. Through Violetta’s illness, Verdi transforms pain into beauty and death into transcendence — creating one of the most romantic depictions of human fragility in opera.
