@@ -1,3 +1,11 @@
+---
+Title: La Traviata
+Year: 1853
+Genre: Opera
+Disease: Tuberculosis
+ICD: 1B12
+---
+
 # La Traviata
 
 The opera ‘La Traviata’ features the aria ‘Addio del passato’ composed by Giuseppe Verdi. Verdi, born in Italy in 1813 and passing away in 1901, was one of the leading opera composers of the Romantic era. The aria “Addio del passato” is sung by the protagonist Violetta, who lies on her deathbed suffering from tuberculosis. In this final solo, she recalls the happiness and love of her past, prays for divine forgiveness, and quietly accepts her approaching death. Verdi delicately portrays the fading vitality caused by the disease through music. The weakening breath, slow tempo, and chromatic progressions vividly convey the limits of the body and the nearness of death. The music is not merely an accompaniment but it becomes the very 'breath' that connects Violetta’s frail body with her final emotions.
