@@ -1,8 +1,15 @@
+---
+Title: Ludwig van Beethoven, Symphony No. 9 in D minor, Op. 125 ('Choral')
+Year: 1824
+Genre: Music
+Disease: Hearing Impairment
+ICD: H90.3
+---
+
 # Ludwig van Beethoven, Symphony No. 9 in D minor, Op. 125 ('Choral')
 
 This is Beethoven’s final symphony, completed while he was almost completely deaf. The fourth movement famously sets Friedrich Schiller's poem *“Ode to Joy”* to music, expressing **universal fellowship, brotherhood, and hope.** The work is considered the **pinnacle of artistic will**, achieved despite the composer’s severe disability, making it a **testament to humanity.** Beethoven’s *Ninth Symphony* transforms his **hearing impairment into a narrative of triumph.**  
 
----
 
 # 루트비히 판 베토벤, 교향곡 9번 라단조, Op. 125 ('합창')
 
