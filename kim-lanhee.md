@@ -1,3 +1,11 @@
+---
+Title: Jekyll & Hyde
+Year: 1990
+Genre: Musical
+Dsease: Dissociative Identity Disorder
+ICD: F44.81
+---
+
 # Jekyll & Hyde
 
 The musical Jekyll & Hyde (1990), composed by Frank Wildhorn (1958~ ) with lyrics by Leslie Bricusse (1931–2021), is based on Robert Louis Stevenson’s novel The Strange Case of Dr. Jekyll and Mr. Hyde. Dr. Henry Jekyll, seeking to separate the good and evil within human nature, conducts an experiment that creates his dark alter ego, Hyde. Losing control over his transformation, Jekyll is ultimately consumed and destroyed by his other self. The work explores Dissociative Identity Disorder as a reflection of the inner conflict within humanity, rather than merely a psychological defect. Its notable songs include This Is the Moment, Someone Like You, and Confrontation. In particular, Confrontation portrays the disorder as an embodiment of the divided human psyche, using dramatic shifts in tempo and key to express the struggle between Jekyll and Hyde. Sung by the same actor, the two voices clash and intertwine, revealing mental illness not as an external evil but as the internal battle between instinct and morality, thus exploring the complexity and instability of human identity through a pathological lens.
