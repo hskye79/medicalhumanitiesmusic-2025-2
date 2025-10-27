@@ -1,8 +1,8 @@
 ---
 Title： Jekyll Hyde
-Year：1990
-Genre：musical
-Disease：DID
+Year： 1990
+Genre： musical
+Disease： DID
 ---
 
 # Jekyll Hyde
