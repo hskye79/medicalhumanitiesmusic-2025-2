@@ -1,6 +1,14 @@
+---
+Title: Extraordinary Attorney Woo
+Year: 2022
+Genre: Drama
+Disease: Autism Spectrum Disorder
+ICD: F84.0
+---
+
 # Extraordinary Attorney Woo
 
-In *Extraordinay Attorney Woo*, Woo Young-woo often faces prejudice and discomfort in society due to his autism spectrum. However, she manages her anxiety and confusion through <imagination>, which evokes whales. For Woo Young-woo, 'imagination’ is both a ‘solitary thing’ and his own sanctuary that helps him endure reality. In the lyrics her ‘autism’ is seen not as ‘inferior’ or ‘wrong,’ but as 'another way of being, of sensing and living in the world differently. Moreover, within that ‘imagination,’ Woo Young-woo wants to embrace the ‘you’ within it and ‘wipe away his tears.’ Here, we come to understand that the ‘imagination’ stemming from autism is not exclusive or weird but can become a medium for love and understanding
+In *Extraordinay Attorney Woo*, Woo Young-woo often faces prejudice and discomfort in society due to her autism spectrum disorder. However, she manages her anxiety and confusion through <imagination>, which evokes whales. For Woo Young-woo, 'imagination’ is both a ‘solitary thing’ and her own sanctuary that helps endure reality. In the lyrics her ‘autism’ is seen not as ‘inferior’ or ‘wrong,’ but as 'another way of being, of sensing and living in the world differently. Moreover, within that ‘imagination,’ Woo Young-woo wants to embrace the ‘you’ within it and ‘wipe away his tears.’ Here, we come to understand that the ‘imagination’ stemming from autism is not exclusive or weird but can become a medium for love and understanding
 
 # 이상한 변호사 우영우
 
