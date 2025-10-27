@@ -2,7 +2,7 @@
 Title: Extraordinary Attorney Woo
 Year: 2022
 Genre: Drama
-Disease: Autism Spectrum Disorder
+Disorder: Autism Spectrum Disorder
 ICD: F84.0
 ---
 
