@@ -19,6 +19,7 @@ Please Forget Me captures the emotional state of a woman who begins to forget ev
 # 내 머리 속의 지우개
 
 영화 "내 머리 속의 지우개" (2004, 감독 이재한)
+
 음악 제목 : 날 그만 잊어요
 작곡가 : 김태원 (Kim Tae-Won, 1965년 4월 12일 출생) 
 가사 일부 :
