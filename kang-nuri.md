@@ -1,5 +1,5 @@
 ---
-Title: Requem for a dream
+Title: Requiem for a dream
 Year: 2000
 Genre: Film
 Disease: Mental and behavioral disorders due to psychoactive substance use
