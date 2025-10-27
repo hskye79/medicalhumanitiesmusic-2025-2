@@ -8,7 +8,7 @@ ICD: F20.0
 
 # Pierrot Lunaire
 
-Pierrot Lunaire  is a piece composed by Arnold Schoenberg (1874-1951) in 1912, based on the poem cycle of the same name by Belgian poet Albert Giraud. Each part consists of seven poems: the first part deals with love, sex, and religion; the second part with violence, crime, and blasphemy; and the third part with homesickness and recollections of the past. This work expresses mental illness (such as madness and schizophrenia) through atonality and expressionist art
+Pierrot Lunaire  is a piece composed by Arnold Schoenberg (1874-1951) in 1912, based on the poem cycle of the same name by Belgian poet Albert Giraud. Each part consists of seven poems: the first part deals with love, sex, and religion; the second part with violence, crime, and blasphemy; and the third part with homesickness and recollections of the past. This work expresses mental illness (such as madness and schizophrenia) through atonality and expressionist art.
 
 # 달에 홀린 피에로
 
