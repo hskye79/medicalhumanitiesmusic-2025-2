@@ -1,3 +1,11 @@
+---
+Title: Listen before i go
+Year: 2019
+Genre: Pop
+Disease: Depression
+ICD: F32
+---
+
 # Listen before I go
 
 I chose Billie Eilish’s 2019 song "listen before i go", which reflects the artist’s own experiences with depression and suicidal thoughts. The lyrics depict the final moments of someone who has decided to end their life, quietly saying goodbye to the world. Through minimal sound design, realistic ambience, and emotionally restrained lyrics, the song portrays depression not as an outburst of emotion, but as a state of collapse—calm, detached, and numb. The accompaniment consists solely of piano, with faint ambulance sirens in the end. This sparse arrangement and slow tempo create a sense of auditory emptiness, delivering a haunting feeling of void to the listener. The use of siren ambience metaphorically represents an emergency—an echo of the song’s psychological weight and tragic conclusion. Lines like “I’m not okay, I feel so scattered” and “Sorry can’t save me now, sorry I don’t know how” are sung with quiet resignation, allowing the audience to hear the sound of depression’s final surrender.
