@@ -1,3 +1,11 @@
+---
+Title: OMORI
+Year: 2020
+Genre: Game
+Disease: Dissociative Identity Disorder (DID)
+ICD: F44.8
+---
+
 # OMORI
 1. Artwork Depicting Illness or Disorder: OMORI
 After experiencing a terrible past trauma (the death of his sister 'Mari'), the protagonist 'Sunny' confines himself to his room and escapes into a dream world called 'Headspace' as an alter-ego named 'Omori'. In this dream world, he goes on adventures with his friends, but when his real-world friend 'Kel' knocks on his door, he begins to confront the reality and truth he desperately wanted to forget.
