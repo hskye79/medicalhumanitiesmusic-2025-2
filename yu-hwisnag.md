@@ -2,7 +2,7 @@
 Title: Recipe for Farewell
 Year: 2022
 Genre: Drama
-Disease: Colon cancer
+Disease: Malignant neoplasm of colon
 ICD: C18
 ---
 
