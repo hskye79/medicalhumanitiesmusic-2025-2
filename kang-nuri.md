@@ -1,3 +1,12 @@
+---
+Title: Requem for a dream
+Year: 2000
+Genre: Film
+Disease: Mental and behavioral disorders due to psychoactive substance use
+ICD: 6C4G.2Z
+---
+
+
 # Requiem for a dream
 
 In the movie «Requiem for a dream» (2000), directed by Darren Aronofsky, the story follows four individuals whose lives are consumed by drug addiction. The music in the movie called «Lux Aeterna» goes beyond serving as mere background - it vividly reflects the obsessive and repetitive nature of addiction. As the characters repeatedly use drugs, the soundtrack mirrors this through recurring motifs and intensifying patterns. The repeated chords create a tense, heavy atmosphere that amplifies the sense of despair. Together with the visuals, the music enables the audience to feel the psychological and physical toll of addiction alongside the characters.
