@@ -1,3 +1,11 @@
+---
+Title : Joker
+Year : 2019
+Genre : Film
+Disease : Pseudobulbar Affect (PBA) & Schizophrenia Spectrum Disorder
+ICD : F20.0
+---
+
 # Joker
 
 Title: Bathroom Dance Composers: Hildur Guðnadóttir (1982–) Plot Context: This original score plays during the scene where Arthur Fleck, after committing his first murders on the subway, retreats to a grubby public restroom and performs a spontaneous dance of self-liberation. The score is based on the film's main cello motif, capturing the chaotic moment where Arthur feels he has gained control for the first time. The music dramatically narrates the essence of Arthur's mental illness and uncontrollable laughter as a 'disability.' Guðnadóttir's low, unsettling cello melody embodies Arthur’s profound isolation, despair, and internal suffering. The slow, bizarre movement accompanying his "Bathroom Dance" illustrates his process of completely shedding societal expectations and establishing a new form of 'self' rooted in madness (insanity). The score captures the unstable equilibrium of his suffering mutating into social violence, aurally demonstrating how disability, through interaction with society, evolves into another form of sickness: the Monster.
