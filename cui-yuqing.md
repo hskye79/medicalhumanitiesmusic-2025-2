@@ -1,3 +1,11 @@
+---
+Title: Me before you
+year: 2016
+genre: Romantic drama
+Disease: AIDS
+ICD: 8A45.0Y
+---
+
 # Me Before You
 
 Louisa loses her job one day and becomes a caregiver for Will, a man who was left quadriplegic after an accident. Before the accident, Will was a successful banker who lived an active and adventurous life, but afterward, he falls into depression and loses the will to live. However, through Louisa’s care and their growing communication, he gradually regains some sense of purpose and emotional connection.
