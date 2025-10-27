@@ -1,5 +1,5 @@
 ---
-Title：Jekyll Hyde
+Title： Jekyll Hyde
 Year：1990
 Genre：musical
 Disease：DID
