@@ -1,3 +1,11 @@
+---
+Title: PerfectBlue
+Year: 1997
+Genre: Film
+Disease: Dissociative Identity Disorder
+ICD: 6B64
+---
+
 # Perfect Blue
 
 Perfect Blue employs numerous dramatic techniques to convey panic, frequently employing exaggerated everyday noises, bodily sounds, and sudden silences. Musically, dissonance is actively used to heighten the sense of discomfort and confusion.
