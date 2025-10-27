@@ -7,7 +7,7 @@ genre: film
 ---
 
 
-# Marathon
+# marathon
 
 • director: jung yoon-chul
 
@@ -26,7 +26,7 @@ reflection on how music portrays disability
 the film’s music avoids exaggerated emotional expression, instead relying on simple piano melodies and repetitive string rhythms. this reflects hyung-jin’s consistent and patterned behavior as a person with autism, while also capturing the delicate emotional nuances within him. in the marathon scenes, the gentle strings and gradual crescendos musically express the inner world of a man running at his own pace amid the dissonance of society. in this way, the soundtrack does not romanticize or dramatize disability but respects it as its own rhythm and world.
 
 
-# 말아톤 (Marathon)
+# 말아톤 (marathon)
 
 •	감독: 정윤철
 
@@ -34,7 +34,7 @@ the film’s music avoids exaggerated emotional expression, instead relying on s
 
 •	음악(OST 작곡가): 김준성 (1970년생, 한국 영화음악가, 대표작 건축학개론, 내 머리 속의 지우개)
 
-•	대표 수록곡: Marathon Theme, Running for You, The Wind Blows 등
+•	대표 수록곡: marathon Theme, running for You, the wind blows 등
 
 •	장르 및 배경: 실화를 바탕으로 한 드라마, 자폐 스펙트럼 장애를 가진 청년이 마라톤을 통해 자신과 세상을 연결해 가는 이야기
 ________________________________________
