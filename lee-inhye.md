@@ -1,3 +1,11 @@
+---
+Title: Me Before You
+Year: 2016
+Genre: Movie
+Disease: Disability
+ICD: G82.2
+---
+
 # Me Before You
 
 The songs "Photograph" and "Thinking Out Loud" by Ed Sheeran (1991– ) are featured in the film Me Before You (2016). The story follows Will Traynor, who becomes paralyzed after an accident and loses the will to live. His life changes when Louisa, a cheerful caregiver, enters his world. As they grow close, both are deeply affected by each other, but Will cannot overcome the pain of his condition and ultimately chooses to end his life. Throughout the film, Ed Sheeran’s gentle and emotional music enhances the warmth and sadness of the story. "Photograph" accompanies scenes of Will and Louisa’s memories, showing that love may fade but is never forgotten, while "Thinking Out Loud" represents emotional connection beyond physical limits. The music portrays disability not as mere loss but as a way to reveal deeper love and humanity. Sheeran’s soft guitar and heartfelt voice express Will’s remaining warmth and suggest that Louisa’s love brought him peace. Even in despair, the songs remind us that love is pure, enduring, and profoundly human.
