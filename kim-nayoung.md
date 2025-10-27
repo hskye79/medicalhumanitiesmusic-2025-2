@@ -13,7 +13,7 @@ ICD: 8D20.10
 
 *Numb* (2016) by Max Jury is a soft and minimal song built on gentle piano and calm vocals. It conveys feelings of emptiness and emotional isolation. In Me Before You, the song is used when Will loses the will to live after his accident. The quiet and slow melody reflects his helplessness and emotional paralysis, capturing the deep loneliness that comes with his disability.
 
-# 미비포유
+# 미 비포 유
 
 미 비포 유 (2016)은 동명의 소설을 원작으로 한 테아 샤록(Thea Sharrock) 감독의 영화이다. 오토바이 사고로 사지마비(quadriplegia) 가 된 청년 윌 트레이너의 이야기를 그린다. 그는 삶의 의욕을 잃고 세상과 단절된 채 살아가지만, 쾌활한 간병인 루이자 클라크를 만나며 다시 웃음을 되찾기 시작한다. 두 사람의 관계는 점점 깊어지고, 루이자는 윌에게 삶의 기쁨과 희망을 느끼게 해준다. 그러나 결국 윌은 존엄과 자기결정을 이유로 조력자살을 선택한다. 이 영화는 장애를 단순히 신체적 고통이 아닌 감정적‧존재적 투쟁으로 묘사하며, 사랑과 선택의 힘을 보여준다.
 
