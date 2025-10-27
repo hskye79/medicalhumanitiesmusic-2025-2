@@ -1,3 +1,11 @@
+---
+Title: Joker
+year: 2019
+genre: Film
+disease: personality disorder
+ICD: F60.2
+---
+
 # Joker (2019)
 
 In *Joker(2019)*, the main character, 'Arthur Fleck', is portrayed as suffering from Pseudobulbar Affect—a condition characterized by uncontrollable laughter—and personality disorders with antisocial tendencies. While he initially appears to function normally, his personality gradually fragments as the story progresses. This psychological decline is expressed through music, Arthur’s erratic dances, and his acts of violence. As his mental illness leads him toward a chain of murders, the overall tone of the film remains dark and unsettling. The piece I selected, “Bathroom Dance,” plays during the scene in which Arthur, after committing his first murder, hides in a dimly lit restroom and begins to dance while wearing his clown makeup. The deep, resonant cello line dominates the score. Through this dance, Arthur confronts his inferiority, shedding his identity as a marginalized, broken man and being reborn as the Joker. The music begins with unstable, low cello notes that gradually evolve into a more harmonious melody toward the end, symbolizing his psychological transformation. And there is no lyrics in this music. The composer, Hildur Ingveldardóttir Guðnadóttir, was born on September 4, 1982, in Reykjavík, Iceland. She specializes in modern film and television scores, often using sound to express anxiety, isolation, and emotional stillness. Her work on Joker earned her the 2020 Academy Award, Golden Globe, and BAFTA Award for Best Original Score. She also composed for HBO’s Chernobyl (2019), where she depicted the horror of the nuclear disaster using metallic sounds and low-frequency vibrations—earning an Emmy Award for Outstanding Music Composition. Rather than relying on traditional melodies or lyrics, the piece builds upon a base of unstable, monotonic cello lines that gradually layer with other instruments, creating the impression of Arthur’s inner loneliness, psychological isolation, and emotional disintegration bursting into sound. As the structure grows denser and the hidden orchestral layers emerge, the music metaphorically mirrors his symptoms—depression, delusion, and social detachment—lying dormant before spiraling into an uncontrollable climax.
