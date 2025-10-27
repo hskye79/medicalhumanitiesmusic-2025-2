@@ -5,6 +5,7 @@ Genre: Opera
 Disease: Tuberculosis of lung
 ICD: A15.2
 ---
+
 # La Traviata
 
 The opera 'La Traviata' was composed by Giuseppe Verdi (1813-1901). Violetta, a popular ballerina in high society, falls in love with Alfredo. Their relationship is marred by social prejudice and Alfredo's father's opposition. Ultimately, Violetta sacrifices herself for Alfredo's family by breaking up with him, ultimately dying of tuberculosis. They are reunited, but Alfredo's death forces him to belatedly realize his true feelings. The representative aria, "Libiamo ne' lieti calici," contains the lyrics, "Let us raise our glasses of joy and toast." It is sung when the two protagonists first meet at a party, and sings of the joys of life. Violetta's aria, "Ah, fors'è lui… Semper libera," also sings of the conflict between love and freedom.
