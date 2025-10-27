@@ -1,3 +1,11 @@
+---
+Title: A Beautiful Mind
+Year: 2001
+Genre: Film
+Disease: Schizophrenia
+ICD: F20
+---
+
 # A Beautiful Mind (2001)
 
 The film A Beautiful Mind (2001) is based on the life of the real-life genius mathematician John Nash, who gained fame for his extraordinary mathematical achievements but struggled with schizophrenia, experiencing hallucinations and delusions that made it difficult for him to distinguish reality from illusion. The music, A Kaleidoscope of Mathematics by James Horner (1953–2015), combines orchestra and female choir with steady rhythms and irregular melodies, reflecting both Nash’s brilliance and the confusion caused by his disorder. Through this blend, the score portrays schizophrenia not merely as an illness but as an inner world where reason and hallucination intersect, allowing the audience to experience the protagonist’s mental turmoil. Ultimately, with his wife’s devoted love and his own determination, Nash overcomes the illness and achieves the Nobel Prize, and the music reinforces the film’s central message about the power of human resilience and the intersection of intellect, emotion, and recovery.
