@@ -1,3 +1,9 @@
+---
+Title: Still Alice
+Year: 2014
+Genre: Film
+---
+
 # Still Alice
 
 Still Alice (2014), directed by Richard Glatzer and Wash Westmoreland, features music composed by Ilan Eshkeri (b. 1977). The film follows Dr. Alice Howland, a linguistics professor diagnosed with early-onset Alzheimer’s disease, as she gradually loses her memory and sense of self. The piece “Butterfly,” with its delicate piano and string harmony, sonically depicts the fading of consciousness while evoking an unexpected calm. Through its quiet beauty, the music transforms the sorrow of illness into a poignant reminder of human warmth and the enduring presence of emotion even as memory fades.
