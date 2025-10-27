@@ -1,3 +1,11 @@
+---
+Title: Philadelphia
+Year: 1993
+Genre: Film
+Disease: AIDS
+ICD: 8A45.0Y
+---
+
 # Philadelphia
 
 In *Philadelphia* (1993), directed by Jonathan Demme, music plays a powerful and emotional role, enhancing the film’s themes of injustice, compassion, and human dignity. The soundtrack uses both diegetic (heard by the characters) and non-diegetic (heard only by the audience) music to create a strong emotional connection to the story of Andrew Beckett (played by Tom Hanks), a lawyer who is fired from his firm because he has AIDS and is gay.
