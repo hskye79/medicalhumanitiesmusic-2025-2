@@ -1,3 +1,11 @@
+---
+Title: Phantom
+Year: 1991
+Genre: Musical 
+Disease: Craniofacial deformity
+ICD: Q87.8
+---
+
 # Phantom
 
 “The Music of the Night” portrays the Phantom’s disability not as a mere tragedy but as the source of his artistic depth and emotional complexity. The dark harmonies mirror his isolation, while the lush melodies express his yearning for beauty and acceptance. Through its soundscape, the song turns deformity and alienation into a profound artistic statement about the human need to be seen, loved, and understood.
