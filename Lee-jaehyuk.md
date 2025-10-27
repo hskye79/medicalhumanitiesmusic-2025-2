@@ -1,3 +1,11 @@
+---
+Title : The Theory of Everything
+Year : 2014
+Genre : Film
+Disease: ALS
+ICD: G12.21
+---
+
 # The Theory of Everything
 
 Directed by James Marsh, The Theory of Everything (2014) is a biographical drama that tells the true story of the brilliant physicist Stephen Hawking, who was diagnosed with amyotrophic lateral sclerosis (ALS) at the age of 21. Despite the gradual loss of his physical abilities, Hawking finds meaning and purpose in life through his love for Jane Wilde. The film portrays how Stephen and Jane overcome despair and paralysis together, offering audiences a moving story of resilience, love, and hope. The soundtrack features “Arrival of the Birds & Transformation” by The Cinematic Orchestra, arranged by the film’s music director Jóhann Jóhannsson. This piece appears in the film’s final sequence and is a purely instrumental composition, built upon delicately layered piano and string arrangements that rise gradually in intensity. The absence of lyrics mirrors Hawking’s loss of speech caused by ALS, while the steadily ascending structure symbolizes the expansion of his consciousness beyond physical limitation. Through its gentle progression and emotional depth, the music powerfully visualizes Hawking’s inner world and enhances the film’s overall sense of beauty and transcendence.
