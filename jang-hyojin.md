@@ -1,3 +1,11 @@
+---
+Title: A beautiful Mind 
+Year: 2001
+Genre: Film
+Disease: Schizophrenia
+ICD: F20-F29
+---
+
 # A beautiful Mind
 
 The insert song 〈All Love Can Be〉 in the film A Beautiful Mind does not directly depict schizophrenia. Rather, it expresses—through music—the light of love and humanity that still exist within a distorted reality. Its gentle piano and repetitive string motifs symbolize inner confusion and anxiety, while Charlotte Church’s pure voice feels like a faint echo of reason or a touch of healing within it. By presenting illness not through a pathological lens but through the language of emotion and salvation, the song sonically portrays human dignity and warmth that can persist even amid suffering.
