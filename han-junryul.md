@@ -1,8 +1,8 @@
 ---
-Title: Auditory Hallucination (Kill me Heal me OST)
+Title: Kill me Heal me
 Year: 2015
-Genre: Pop-ballade
-Disease: Dissociative Identity Disorder
+Genre: Drama
+Disease: Dissociative identity disorder
 ICD: 6B64
 ---
 
