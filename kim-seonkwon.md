@@ -1,3 +1,11 @@
+---
+Title: Philadelphia
+Year: 1993
+Genre: Film
+Disease: AIDS
+ICD: 8A45.0Y
+---
+
 # Philadelphia
 
 ### Music Information
@@ -23,6 +31,3 @@ In *Philadelphia*, the aria 'La Mamma Morta' transcends its role as mere backgro
 
 ### 음악이 질병/장애를 묘사하는 방식 (단상)
 영화 <필라델피아>에서 'La Mamma Morta' 아리아는 단순한 배경 음악을 넘어, 주인공 앤드류 베켓의 내면적 고통과 절망, 그리고 그 속에서도 타오르는 삶의 의지를 대변합니다. 마달레나의 비극적인 서사(가족의 죽음, 절망)는 에이즈라는 질병과 사회적 낙인으로 인해 모든 것을 잃어가는 베켓의 상황과 중첩됩니다. 격정적인 선율과 비극적인 가사는 법적 공방이나 대사로는 온전히 전달할 수 없는, 질병이 가하는 깊은 고통과 인간 존엄성의 처절한 외침을 관객에게 직관적으로 전달하는 매개체가 됩니다.
-
----
-
