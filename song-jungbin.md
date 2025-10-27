@@ -1,3 +1,11 @@
+---
+Title: Iron Man 3
+Year: 2013
+Genre: Film
+Disease: Post-traumatic stress disorder (PTSD)
+ICD: 6B40
+---
+
 # Iron Man 3 (2013)
 
 "Isolation," composed by Brian Tyler (born May 8, 1972), is an instrumental orchestral track with no lyrics, featured on the official soundtrack (OST) for the movie Iron Man 3. The music is used in scenes depicting protagonist Tony Stark's intense anxiety, insomnia, and isolation resulting from PTSD after the events in New York, emphasizing his internal suffering. This piece musically expresses Tony Stark's PTSD and panic attacks. His experience during the Battle of New York in The Avengers, where he accepted death while carrying a nuclear missile through a wormhole into space, left him with deep psychological trauma. Brian Tyler intentionally composed a darker and more melodic score than previous Iron Man films, reflecting Tony's altered psychological state. The film realistically portrays actual PTSD symptoms including insomnia, panic attacks, and avoidance behaviors, earning recognition in psychology textbooks.
