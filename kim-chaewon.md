@@ -1,3 +1,11 @@
+---
+Title: The Book of Henry 
+Year: 2017
+Genre: Film
+Disease: brain tumour
+ICD: C71
+---
+
 # The Book of Henry
 
 In The Book of Henry (2017), the theme centres on neurological illness and psychological trauma. The film’s soundtrack, composed by Michael Giacchino (born October 10, 1967 – living), features purely instrumental pieces with no lyrics. The story follows Henry, a gifted boy suffering from a neurological disorder, who lives with his mother, Susan. When he discovers that their neighbour's girl is being abused, he devises a meticulous plan to save her. As his illness progresses, Henry leaves behind a notebook containing detailed instructions that guide his mother to carry out his final wish. Giacchino’s lyrical piano and string compositions, though wordless, reflect the fragile boundary between life and death, despair and hope. The absence of lyrics deepens the emotional impact, expressing Henry’s inner fragility, shaped by illness, while offering a quiet sense of healing and continuation for those left behind.
