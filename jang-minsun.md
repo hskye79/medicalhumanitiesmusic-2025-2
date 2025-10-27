@@ -1,3 +1,11 @@
+---
+Title: La Traviata
+Dates: October 10, 1813 - January 27, 1901 (Italy)
+Genre: Opera
+Disease: Tuberculosis
+ICD: 1B10
+---
+
 # La Traviata
 
 Verdi portrays Violetta’s tuberculosis not as a mere physical affliction but as a symbol of mortality and profound human suffering. The lively waltz rhythms and brilliant vocal lines of the early acts illustrate her outward vitality and the dazzling world of Parisian society, while progressively shorter phrases, softer dynamics, and unstable melodic progressions musically depict the deterioration of her health. In her final aria, “Addio del passato,” the slow tempo and delicate string accompaniment evoke her weakening breath and serene acceptance of death, expressing the moment of spiritual redemption through illness with subtle musical sensitivity.
