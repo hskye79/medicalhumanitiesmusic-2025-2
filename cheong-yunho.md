@@ -1,3 +1,11 @@
+---
+Title: Extraordinary Attorney Woo
+Year: 2022
+Genre: Legal / Human
+Disease: Autism Spectrum Disorder
+ICD: F84.0
+---
+
 # Extraordinary Attorney Woo
 
 Brave / Kim Jong-wan (NELL) / Born in 1981, South Korea, Vocalist of the band NELL
