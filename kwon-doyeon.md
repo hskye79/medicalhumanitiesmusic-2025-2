@@ -1,3 +1,11 @@
+---
+Title: La Bohème
+Year: 1896
+Genre: Opera
+Disease: Tuberculosis
+ICD: A15.5
+---
+
 # La Bohème
 
 Giacomo Puccini’s opera La Bohème portrays the lives and love of impoverished bohemian artists in 19th-century Paris, and is widely known for Rodolfo’s aria “Che gelida manina” (“Your tiny hand is frozen”). Composed in 1896, the work reflects the sentimental tone of the Romantic era while delicately weaving the harsh realities of illness and poverty into its musical fabric. Mimì, a young seamstress, falls in love with the poet Rodolfo, but her health gradually deteriorates as she is unable to escape the cold and poverty, eventually passing away quietly in the final act. What is striking is that Puccini does not depict tuberculosis directly, but instead conveys it through the subtle shaping of Mimì’s breath and emotional phrasing. In Act I, her aria “Si, mi chiamano Mimì” does not project with force but begins gently and fades softly, revealing a sincere emotion that is restrained by fragile breathing. In the final scene, even the orchestral sound is minimized, not to dramatize death but to express the fading warmth and stillness of the moment. Rather than exaggerating emotion, Puccini uses the length of breath and the quiet space between sounds to communicate the reality of illness, allowing the audience to experience not just drama but an almost tangible, lived sense of human vulnerability.
