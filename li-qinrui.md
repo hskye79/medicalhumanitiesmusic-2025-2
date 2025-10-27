@@ -1,7 +1,7 @@
 ---
-Title： Jekyll Hyde
+Tatel： Jekyll Hyde
 Year： 1990
-Genre： musical
+Genre： Musical
 Disease： DID
 ---
 
