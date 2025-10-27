@@ -1,3 +1,11 @@
+---
+Title: Winterreise 
+Year: 1827
+Genre: Song Cycle
+Disease: depression and existential despair
+ICD-10: F32.9
+---
+
 # Winterreise 
 
  In "Winterreise," Schubert musically shapes not physical illness but mental disease—depression and existential despair. Of the 24 songs, 14 are composed in minor keys, and the repeated descending melodic patterns and persistent use of dissonance portray the protagonist's psychological descent. The piano accompaniment's monotonous and mechanical rhythmic patterns symbolize both wandering footsteps and the repetition of obsessive thoughts. In No. 5, "The Linden Tree," the alternation between major and minor keys reveals a fractured mental state oscillating between happy memories of the past and present despair. The final song, "The Hurdy-Gurdy Man," with its extremely simple and hollow melody, expresses a state of spiritual death where all emotion has been exhausted. Through this work, Schubert musically testifies to the alienation, loneliness, and invisible illness of mental disease that confronted the Romantic era of the 19th century.
