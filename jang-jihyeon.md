@@ -1,3 +1,11 @@
+---
+Title: A Beautiful Mind
+Year: 2001
+Genre: Film
+Disease: paranoid schizophrenia
+ICD: F20.0
+---
+
 # A Beautiful Mind
 
 I am a first-year university student aspiring to become a diplomat, with a strong interest in human rights and the diversity of humanity. I believe that art is a powerful language that enables us to understand and express complex social issues, and through this assignment, I aim to explore how illness and disability are depicted in works of art. The film *A Beautiful Mind* (2001), directed by Ron Howard and starring Russell Crowe and Jennifer Connelly, is based on Sylvia Nasar’s 1998 biography of John Forbes Nash Jr. (1928–2015), a mathematical genius who suffered from paranoid schizophrenia. While studying at Princeton University, Nash develops groundbreaking theories but becomes haunted by hallucinations and delusions. His struggle between brilliance and madness isolates him from reality, yet through the unwavering love and support of his wife, Alicia, he eventually regains control and is awarded the 1994 Nobel Prize in Economics. The film profoundly portrays both the brilliance and the fragility of the human mind. Complementing this narrative, James Horner’s *A Beautiful Mind (Original Motion Picture Soundtrack)*, featuring tracks such as “A Kaleidoscope of Mathematics,” “Cracking the Code,” and “All Love Can Be,” uses gentle piano motifs, ethereal female vocals, and lush strings to mirror Nash’s delicate psychological state. The repetitive yet evolving piano patterns reflect his logical but disoriented thoughts, while the pure, wordless female voice blurs the line between imagination and reality. Through his music, Horner transforms schizophrenia from a clinical condition into a poetic exploration of human complexity, allowing the audience to feel the emotional depth and inner turbulence of Nash’s mind.
