@@ -1,3 +1,11 @@
+---
+Title: Coda
+Year: 2021
+Genre: Film
+Disease: Deaf
+ICD: H90
+---
+
 # Coda
 
 Movie goes like this. Unlike deaf father, mother, and older brother, "Ruby," the main character who can listen and talk, lives by connecting them to the world. One day, at a choir that Ruby followed her friend Miles, she realizes her hidden talent and the joy of singing. Ms. Bernardo discovers Ruby's talent and tries to help her audition at Berkeley College of Music. Ruby, who was struggling between her family and music, decided to follow her dream and sang along with sign language at the audition site to tell a heartfelt story. She sang a song, called 'Both Sides, Now'.
