@@ -16,7 +16,7 @@ Bae Hyung-jin, a young man with autism spectrum disorder, has loved “Choco Pie
 ________________________________________
 Reflection on How Music Portrays Disability
 
-The film’s music avoids exaggerated emotional expression, instead relying on simple piano melodies and repetitive string rhythms. This reflects Hyung-jin’s consistent and patterned behavior as a person with autism, while also capturing the delicate emotional nuances within him. In the marathon scenes, the gentle strings and gradual crescendos 
+The film’s music avoids exaggerated emotional expression, instead relying on simple piano melodies and repetitive string rhythms. This reflects Hyung-jin’s consistent and patterned behavior as a person with autism, while also capturing the delicate emotional nuances within him. In the marathon scenes, the gentle strings and gradual crescendos musically express the inner world of a man running at his own pace amid the dissonance of society. In this way, the soundtrack does not romanticize or dramatize disability but respects it as its own rhythm and world.
 
 # 말아톤 (Marathon)
 •	감독: 정윤철
@@ -36,4 +36,4 @@ ________________________________________
 음악이 장애를 묘사하는 방식에 관한 단상
 
 이 영화의 음악은 과장된 감정 표현 대신 단순한 피아노 선율과 반복되는 현악 리듬으로 구성되어 있다. 이는 자폐를 지닌 형진의 일정하고 반복적인 행동 패턴을 반영하면서도, 그 속에서 피어나는 섬세한 감정 변화를 담아낸다. 특히 마라톤 장면에서의 잔잔한 현악과 점진적인 고조는 ‘세상과의 불협화음 속에서 자신만의 속도로 달려가는 인간’의 내면을 음악적으로 형상화한다. 즉, 이 영화의 음악은 ‘장애’를 극복의 서사로 포장하지 않고, 그 자체의 리듬과 세계로 존중하는 태도를 보여준다.
-musically express the inner world of a man running at his own pace amid the dissonance of society. In this way, the soundtrack does not romanticize or dramatize disability but respects it as its own rhythm and world.
+
