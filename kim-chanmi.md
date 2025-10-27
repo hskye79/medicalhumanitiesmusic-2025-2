@@ -3,7 +3,7 @@ Title: Winterreise
 Year: 1827
 Genre: Song Cycle
 Disease: depression and existential despair
-ICD-10: F32.9
+ICD: F32.9
 ---
 
 # Winterreise 
