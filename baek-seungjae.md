@@ -1,3 +1,11 @@
+---
+Title: forrest gump
+Year: 1994
+Genre: Film
+Disease: Mild intellectual development disorder
+ICD: 6A00.0
+---
+
 # Forrest Gump (1994)
 
 *The film* *Forrest Gump* *(1994)* tells the story of a man with an intellectual disability who experiences life’s major events with innocence and sincerity.  Despite his limitations, Forrest touches many lives with kindness and perseverance, symbolizing purity and humanity.  The movie portrays disability not as weakness but as a reflection of emotional strength and individuality.  Composer Alan Silvestri’s iconic *Feather Theme* musically captures Forrest’s gentle soul and the randomness of life,  leaving the audience with a sense of warmth and poetic serenity.
