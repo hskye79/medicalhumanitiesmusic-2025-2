@@ -1,3 +1,12 @@
+---
+Music Title: Run, Cho-won 
+Composer: Kim Joon-sung (1971– ) 
+Work: Film “Marathon” (dir. Jung Yoon-chul, 2005) 
+Genre: Orchestral instrumental
+Disease: Autism Spectrum Disorder (ASD)
+ICD : 6A02.Z
+---
+
 # Marathon
 Title: Run, Cho-won Composer: Kim Joon-sung (1971– ) Work: Film “Marathon” (dir. Jung Yoon-chul, 2005) Genre: Orchestral instrumental Lyrics: None (pure instrumental) Synopsis: A film based on a true story about Cho-won, a young man on the autism spectrum who grows and learns to connect with the world through marathon running. Though his repetitive, single-minded traits had isolated him, he discovers his own language within the act of running.
 “Run, Cho-won” translates the medical notion of “deficit” in autism into a musical “order of rhythm.” A steady, unadorned piano motif repeats, yet the harmony’s temperature slowly shifts and the orchestra gradually expands. This reveals that Cho-won’s world is far from simple; within his repetitions lie subtle feelings and vibrations. The music charts how footsteps that once sounded dissonant against the world resolve into a harmonious rhythm, inviting us to respect disability not as something merely to be “overcome,” but as “another order of sensation.”
