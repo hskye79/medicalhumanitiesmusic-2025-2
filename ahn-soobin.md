@@ -1,3 +1,11 @@
+---
+Title: Ureureung Kwak-Kwak-Kwak
+Year: 2020
+Genre: Music
+Disorder: Generalized Anxiety Disorder
+ICD: F41.1
+---
+
 # 우르릉 쾅쾅쾅
 The song “Ureureung Kwak-Kwak-Kwak” by Stella Jang is said to have been inspired by the artist’s childhood imagination of the ceiling disappearing and rain pouring down just before falling asleep. However, after reading the lyrics closely, I felt that the scene was not only dreamy or romantic.
 “Rain pouring down into my room
