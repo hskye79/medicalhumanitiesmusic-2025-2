@@ -1,29 +1,29 @@
 ---
-title: Marathon
+title: marathon
 year: 2005
-name: Autism Spectrum Disorder
-icd: F84.0
+name: autism spectrum disorder
+icd: f84.0
 genre: film
 ---
 
 
 # Marathon
 
-• Director: Jung Yoon-chul
+• director: jung yoon-chul
 
-• Main Cast: Cho Seung-woo (as Bae Hyung-jin), Kim Mi-sook (as Kyung-sook, the mother), Lee Ki-young (as Jung-wook, the coach)
+• main cast: cho seung-woo (as bae hyung-jin), kim mi-sook (as kyung-sook, the mother), lee ki-young (as jung-wook, the coach)
 
-• Music (OST Composer): Kim Jun-seong (born 1970, Korean film music composer; notable works include Architecture 101 and A Moment to Remember)
+• music (ost composer): kim jun-seong (born 1970, korean film music composer; notable works include architecture 101 and a moment to remember)
 
-• Representative Tracks: Marathon Theme, Running for You, The Wind Blows
+• representative tracks: marathon theme, running for you, the wind blows
 
-• Genre and Background: A drama based on a true story about an autistic young man who learns to connect with the world through marathon running.
+• genre and background: a drama based on a true story about an autistic young man who learns to connect with the world through marathon running.
 ________________________________________
-Plot Summary:
-Bae Hyung-jin, a young man with autism spectrum disorder, has loved “Choco Pie” since childhood and finds a way to communicate with the world through running. His devoted mother, Kyung-sook, sets a goal for him to complete a marathon, believing it will help him adapt to society. What begins as simple training gradually becomes a personal journey of self-discovery as Hyung-jin finds his own rhythm and world through running. In the end, he completes the full marathon, achieving a sense of fulfillment and independence. The film warmly portrays not just disability but the different pace and potential of human life.
+plot summary
+bae hyung-jin, a young man with autism spectrum disorder, has loved “choco pie” since childhood and finds a way to communicate with the world through running. his devoted mother, kyung-sook, sets a goal for him to complete a marathon, believing it will help him adapt to society. what begins as simple training gradually becomes a personal journey of self-discovery as hyung-jin finds his own rhythm and world through running. in the end, he completes the full marathon, achieving a sense of fulfillment and independence. the film warmly portrays not just disability but the different pace and potential of human life.
 ________________________________________
- Reflection on How Music Portrays Disability
-The film’s music avoids exaggerated emotional expression, instead relying on simple piano melodies and repetitive string rhythms. This reflects Hyung-jin’s consistent and patterned behavior as a person with autism, while also capturing the delicate emotional nuances within him. In the marathon scenes, the gentle strings and gradual crescendos musically express the inner world of a man running at his own pace amid the dissonance of society. In this way, the soundtrack does not romanticize or dramatize disability but respects it as its own rhythm and world.
+reflection on how music portrays disability
+the film’s music avoids exaggerated emotional expression, instead relying on simple piano melodies and repetitive string rhythms. this reflects hyung-jin’s consistent and patterned behavior as a person with autism, while also capturing the delicate emotional nuances within him. in the marathon scenes, the gentle strings and gradual crescendos musically express the inner world of a man running at his own pace amid the dissonance of society. in this way, the soundtrack does not romanticize or dramatize disability but respects it as its own rhythm and world.
 
 
 # 말아톤 (Marathon)
