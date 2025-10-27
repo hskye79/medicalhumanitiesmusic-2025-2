@@ -1,3 +1,11 @@
+---
+Title: The Hunchback of Notre Dame
+Year: 1996
+Genre: Musical
+Disease: Kyphosis
+ICD: M40.2
+---
+
 # The Hunchback of Notre Dame
 
 The musical “Notre-Dame de Paris”, based on Victor Hugo’s novel, portrays the loneliness and social prejudice faced by Quasimodo, who was born with severe physical deformities. Composed by Riccardo Cocciante (1953– ), notable songs such as “Belle” and “Ave Maria Païen” employ bell-like rhythms and dissonant harmonies to musically represent Quasimodo’s distorted appearance and social isolation, while lyrical melodies highlight his purity and unrequited love for the gypsy girl Esmeralda. Through themes of religious hypocrisy, discrimination, and tragic romance, the music amplifies the emotional depth of his suffering, encouraging the audience to reflect on society’s perception of disability and marginalization.
