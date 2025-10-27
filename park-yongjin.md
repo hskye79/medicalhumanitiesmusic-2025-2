@@ -1,3 +1,11 @@
+---
+Title: Mal-aton
+Year: 2014
+Genre: Film
+Disease: Autism Spectrum Disorder
+ICD: F84.0
+---
+
 # Mal-aton
 The film Mal-aton (2005) depicts 'Cho-won', a young man with autism spectrum disorder, challenging a full marathon. The instrumental track "Run, Cho-won," composed by Kim Jun-seong and used in the film's climax, sonically visualizes Cho-won's pure inner world, which communicates through the act of 'running' rather than depicting the confusion of autism. This gradually building score frames the disability not as a deficiency, but as a persistent energy moving to its own rhythm, allowing the audience to empathize with him as a complete 'marathoner'
 
