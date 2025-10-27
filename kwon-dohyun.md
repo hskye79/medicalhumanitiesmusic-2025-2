@@ -1,3 +1,11 @@
+---
+Title: Dear Evan Hansen
+Year: 2016
+Genre: Musical
+Disease: Social anxiety
+ICD: F40.1
+---
+
 # Dear Evan Hansen
 
 Waving Through A Window is a song written by Pasek and Paul and included in the musical Dear Evan Hansen. This is the first song sung by the protagonist, Evan Hansen, and it delicately expresses his inner turmoil and anxiety. Evan senses failure before even trying, yearning to escape his current loneliness but ultimately feeling deeply frustrated by his stagnation. The lyrics, "I try to speak, but nobody can hear," symbolically portray the disconnection from the world despite his efforts to change, revealing the protagonist's loneliness.
