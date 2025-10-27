@@ -1,5 +1,15 @@
+---
+Title: Beautiful Mind
+Year: 2002
+Genre: Firm
+Disease: Paranoid Schizophrenia
+ICD: F20.0
+---
+
 # Beautiful Mind
 
 James Horner's score avoids the cliché of using chaotic or frightening sounds to represent schizophrenia, focusing instead on the "beautiful mind" of John Nash itself. Reflecting director Ron Howard's analogy of high-level mathematics as a "kaleidoscope," the music uses evolving and shifting melodic fragments to simultaneously portray Nash's brilliant thought process and the confusion of his fracturing psyche. The ethereal, wordless female vocal, in particular, sonically embodies the seductive and unreal nature of his hallucinations (like Marcee and Charles). The score effectively captures the intense internal struggle between reality and delusion by alternating between soaring, grand orchestral themes (representing his genius and love) and unsettling, agitated passages.
+
+# 뷰티풀 마인드
 
 제임스 호너의 스코어는 조현병을 단순히 혼란스럽거나 무서운 소리로 묘사하는 대신, 존 내시의 '아름다운 정신' 그 자체에 집중합니다. 음악은 감독 론 하워드가 수학을 '만화경(kaleidoscope)'에 비유한 것처럼, 끊임없이 변화하고 진화하는 멜로디 파편들을 사용해 내시의 천재적인 사고 과정과 그 정신이 분열되는 혼란을 동시에 표현합니다. 특히 몽환적인 여성의 솔로 보컬은 내시에게만 보이는 환각(마시, 찰스 등)의 유혹적이고 비현실적인 속성을 청각적으로 구현하며, 장엄한 오케스트라 선율과 불안한 전자음이 교차하며 그의 내면에서 벌어지는 현실과 망상 간의 격렬한 투쟁을 효과적으로 묘사합니다. 
