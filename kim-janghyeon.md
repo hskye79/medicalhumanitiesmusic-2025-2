@@ -1,3 +1,11 @@
+---
+Title: Fidelio
+Year: 1805
+Genre: opera
+Disease: Sensorineural hearing loss, bilateral
+ICD: H90.3
+---
+
 # Fidelio
 
 One of the most celebrated examples of disability being depicted in a classical music work is Ludwig van Beethoven’s opera Fidelio (1805). The opera’s music was composed by Beethoven, who was born in Bonn, Germany in 1770 and passed away in Vienna in 1827; by the time he composed Fidelio, Beethoven was already grappling with significant hearing loss that would eventually lead to his complete deafness. The opera’s libretto was written by Joseph Sonnleithner, and the plot centers around Leonore, who, disguised as a man named Fidelio, bravely works to rescue her unjustly imprisoned husband Florestan from political tyranny. The lyrics (originally in German) focus on themes of hope, resilience, freedom, and love in the face of oppression and despair. Notably, Florestan’s famous Act II aria, sung from deep within a dungeon, expresses both agony and unwavering hope: “Gott! Welch Dunkel hier!” (“God! What darkness here!”). The opera’s narrative, set to Beethoven’s stirring and emotionally charged score, resonates all the more powerfully given the composer’s own struggles with physical impairment; Beethoven’s hearing loss profoundly influenced the opera’s musical textures, use of silence, and emotional tension. In Fidelio, music powerfully mirrors both suffering and the triumph of human will, with Beethoven using dynamic contrasts, abrupt silences, and transcendent choral writing to symbolize not only the darkness of imprisonment but also the light of liberation and the indomitable spirit that overcomes adversity—showing how disability, both in art and in life, can inspire courage and create new possibilities for musical and human expression.
