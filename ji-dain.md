@@ -1,3 +1,11 @@
+---
+Title: Marathon
+Year: 2005
+Genre: Film
+Disease: autism spectrum disorder
+ICD: 6A02
+---
+
 # Marathon
 
 The Korean film Marathon (2005), directed by Yoon-chul Chung with music composed by Bang Jun-seok (1970–2022), tells the true story of Cho-won, a young man with autism spectrum disorder who learns to connect with the world through running. Although Cho-won has difficulty communicating with words, he experiences complete freedom when he runs. His mother, who never stops believing in him despite society’s prejudice, supports him as he strives to complete a full marathon. Rather than depicting disability as something to be cured or overcome, the film views it as a different but equally valuable way of existing, delivering a heartfelt message about love, resilience, and human dignity. The music, composed by Bang Jun-seok—one of Korea’s most respected film composers known for Take Care of My Cat, Masquerade, and A Taxi Driver—plays a crucial role in shaping this perspective. The soundtrack consists mainly of minimalist piano and soft string melodies that reflect Cho-won’s innocence and emotional simplicity. The main theme, “Run for My Son,” alternates between major and minor keys, simultaneously evoking hope and sorrow. Rather than dramatizing the story, the music mirrors Cho-won’s steady heartbeat and his repetitive, rhythmic world. In this way, the score allows the audience to see the world through Cho-won’s eyes instead of explaining his condition. The warm strings accompanying his mother’s scenes highlight her unconditional love and devotion. Through its music, Marathon transforms the portrayal of disability from a story of overcoming hardship into one of respect and understanding. For me, the most impressive aspect of the film is how the music becomes a bridge between Cho-won’s inner world and the outside world, allowing us to feel his emotions beyond language.
