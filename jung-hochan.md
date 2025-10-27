@@ -1,3 +1,12 @@
+---
+Title: Memento
+Year: 2000
+Genre: Film
+Disease: Amnesia
+ICD: F04, R41.3
+
+---
+
 # Memento
 
 The Sound of Lost Memory — Memento and David Julyan’s Sonic Representation of Amnesia. Christopher Nolan’s Memento (2000) portrays a man trapped in the endless loop of anterograde amnesia, unable to form new memories. Beyond its fragmented narrative, the film’s emotional and psychological depth is powerfully amplified by David Julyan’s minimalist score, which transforms the condition of memory loss into an auditory experience rather than a mere backdrop. Julyan’s Main Theme merges electronic timbres with orchestral textures, constructing an atmosphere of psychological disorientation. The music unfolds through repetitive low tones, drawn-out strings, and lingering synthesizer echoes that blur the boundaries of time and continuity. Each phrase feels familiar yet slightly altered, reflecting the protagonist Leonard’s inability to piece his experiences into a coherent whole. Rather than following melodic or emotional crescendos, Julyan’s composition centers on emptiness — a restrained, cold resonance that mirrors Leonard’s fractured identity. The unresolved harmonies and suspended rhythms capture the sense of temporal dislocation, immersing the listener in the same uncertainty that defines Leonard’s existence. In doing so, the score transcends its cinematic function, becoming a haunting sonic metaphor for the void left by lost memory — the sound of a man searching for himself in the silence between moments.
