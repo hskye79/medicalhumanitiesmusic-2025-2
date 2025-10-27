@@ -1,3 +1,11 @@
+---
+Title: The Man Who Laugh
+Year: 2018 ~
+Genre: Musical
+Disease: 타인에 의한 신체 훼손
+ICD: Y04
+---
+
 # The Man Who Laugh
 
 Through prosthetic makeup that stretches his mouth to his ears, the musical creates a grotesque and unsettling image. The characters in the story treat this physical deformity as a form of entertainment — a spectacle rather than a human being, something akin to an animal on display. However, the work portrays the upper-class spectators who mock the protagonist as vulgar, selfish, and corrupt. This contrast encourages the audience to view the protagonist’s deformity not as something hideous, but as a symbol that exposes the ugliness and injustice of the world around him.
