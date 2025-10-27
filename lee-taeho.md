@@ -1,3 +1,11 @@
+---
+Title: Shutter Island
+Year: 2010
+Genre: Film
+Disease: Paranoid Delusion
+ICD: F22
+---
+
 # Shutter Island
 
 Directed by Martin Scorsese and starring Leonardo DiCaprio, Shutter Island is a psychological thriller set in an isolated psychiatric hospital. The protagonist, U.S. Marshal Teddy Daniels, experiences hallucinations, delusions, and severe trauma-related symptoms while uncovering a dark truth about his own identity. The film portrays complex psychological conditions such as PTSD, and paranoid delusion as integral parts of the narrative.
