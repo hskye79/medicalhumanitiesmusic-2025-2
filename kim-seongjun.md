@@ -1,3 +1,11 @@
+---
+Title : La travita
+Year : 1853
+Genre : opera
+Disease : tuberculosis
+ICD : 1B10.0
+---
+
 # La traviata
 
 Giuseppe Verdi’s opera *La Traviata* (“The Fallen Woman”) portrays the tragic love story of Violetta Valéry, a Parisian courtesan suffering from tuberculosis. The music vividly mirrors her physical and emotional decline, particularly in Act 3. The Prelude to Act 3, with its thin, fragile string melodies, evokes Violetta’s labored breathing and weakening body, symbolizing the devastating grip of the disease. This delicate and sorrowful sound contrasts sharply with the lively waltz of Act 1, emphasizing how illness has consumed her once-vibrant life. In her final aria, *“Addio, del passato bei sogni ridenti”* (“Farewell to the bright dreams of the past”), Violetta’s fragmented and faint singing reflects not only sorrow but the desperate struggle of a dying woman whose strength is fading away, making the listener feel the profound tragedy of her final moments.
