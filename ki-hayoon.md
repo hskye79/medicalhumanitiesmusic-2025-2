@@ -1,3 +1,11 @@
+---
+Title: Les Misérables
+Year: 2012
+Genre: Film
+Disease: Pulmonary Tuberculosis
+ICD: A15.0
+---
+
 # Les Misérables
 
 In Les Misérables, Fantine’s song “I Dreamed a Dream” portrays not only physical illness but also the deeper sickness of society — poverty, despair, and moral indifference. Through unstable harmony and fading breath in the melody, the music captures the collapse of both body and spirit. The trembling voice and dissonant tones mirror her fading life, while the silence between notes speaks of a society that has already turned deaf to her suffering. Thus, the song transforms pain into a form of testimony — a musical outcry against social disease.
