@@ -1,5 +1,12 @@
-# Philadelphia
+---
+Title:The Pianist
+Year:2002
+Genre:Film
+Disease:
+ICD:
+---
 
+# The Pianist
 The film 'The Pianist' (2002), directed by Roman Polanski, portrays the physical deterioration, psychological trauma, and profound loneliness experienced by Władysław Szpilman, a renowned Jewish pianist, during the Nazi persecution of Jews in the Holocaust. Set in 1939 Warsaw, the story follows Szpilman as he and his family are forced into the Warsaw Ghetto, where he narrowly escapes deportation to a concentration camp. Left alone in the ruins of the city, he endures starvation, exhaustion, and the constant fear of death while struggling to preserve his humanity. In the film’s most poignant moment, a German officer discovers him hiding and, instead of executing him, asks him to play the piano. Despite his frail body and weakened hands, Szpilman performs a Chopin piece with haunting emotion—an act of resilience and beauty that ultimately saves his life and symbolizes the enduring power of art amid human suffering.
 
 The main piece of music used in *The Pianist* is “Ballade No. 1 in G minor, Op. 23” by Frédéric Chopin (1810–1849). It is an instrumental solo piano work with no lyrics, inspired by Polish narrative poetry and composed as part of Chopin’s series of ballades. The piece begins with a solemn and dramatic introduction, followed by alternating lyrical and turbulent passages that create powerful contrasts. These shifts evoke a sense of grandeur, melancholy, and emotional intensity, characteristic of Chopin’s mature Romantic style. In the film, the piece serves as more than just background music — it functions as a profound artistic device symbolizing Szpilman’s inner suffering and his enduring will to preserve human dignity amidst the horrors of war.
@@ -7,7 +14,7 @@ The main piece of music used in *The Pianist* is “Ballade No. 1 in G minor, Op
 In the climactic moment of The Pianist, Szpilman’s performance of Chopin’s Ballade No. 1 transcends the realm of music to become a powerful depiction of the final spark of human life amidst overwhelming destruction. Years of starvation, isolation, and fear have left his body frail and his hands nearly paralyzed, symbolizing profound physical debilitation. Yet, despite his weakness, the music that flows from the piano becomes an outpouring of his inner strength and enduring spirit. The Ballade’s sweeping, sorrowful melodies express Szpilman’s despair, regret, and desperate will to survive — emotions that surpass language and touch even the heart of his supposed enemy. In this moment, music serves as a universal language of suffering and dignity, revealing that art possesses the extraordinary power to preserve humanity even in the darkest depths of trauma.
 
 
-# 필라델피아
+# 피아니스트
 
 로만 폴란스키 감독의 영화 '피아니스트' (2002)는 나치의 유대인 박해, 즉 홀로코스트 속에서 피아니스트 블라디슬라프 스필만이 겪는 신체적 쇠약, 심리적 트라우마, 그리고 극도의 고독을 사실적으로 그려낸 작품이다. 1939년 바르샤바를 배경으로, 스필만과 그의 가족은 나치 침공으로 인해 바르샤바 게토에 강제로 수용된다. 그는 가까스로 강제수용소 이송을 피하지만, 이후 폐허가 된 도시 속에서 굶주림과 추위, 그리고 죽음의 공포에 시달리며 홀로 생존을 이어간다. 영화의 가장 인상적인 장면은 한 독일 장교가 그를 발견하고, 죽이는 대신 피아노 연주를 요청하는 순간이다. 쇠약한 몸과 떨리는 손으로 쇼팽의 곡을 연주하는 스필만의 모습은 절망 속에서도 인간의 존엄성과 예술의 힘이 어떻게 생명을 지탱할 수 있는지를 상징적으로 보여준다.
 
