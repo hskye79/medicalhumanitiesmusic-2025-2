@@ -1,3 +1,11 @@
+---
+Title: Recipe for Farewell
+Year: 2022
+Genre: Drama
+Disease: Colon cancer
+ICD: C18
+---
+
 # Recipe for Farewell
 
 Writer Chang-wook, who has been separated from his wife Seon-jung with the intention of divorce, learns that she has been diagnosed with cancer. To support her through her illness, he begins to prepare heartfelt meals for her every day. Through this process, the two rediscover the feelings they had forgotten and quietly, yet warmly, prepare for their approaching farewell. The film does not dwell on the pain of illness but instead delicately portrays the gentle “love of care” that fills the remaining time they share together. Jeongmilla’s “Those Nights” expresses the warmth of love that continues even in a life shadowed by sickness through restrained guitar rhythms and a soft, tender voice. The spacious melody mirrors the husband’s repetitive routine of preparing daily meals, while its gentle tone embraces even the moment of parting with warmth. Rather than depicting death as a tragedy, the music softly conveys the preciousness of the remaining time and the deep affection between two people.
