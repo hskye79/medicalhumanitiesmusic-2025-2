@@ -1,3 +1,12 @@
+---
+Title: Me Before You
+Year: 2016
+Genre: Film
+Disease: quadriplegic
+ICD: 8D20.10
+---
+
+
 # Me Before You
 
 *Me Before You* (2016), directed by Thea Sharrock, tells the story of Will Traynor, a young man who becomes **quadriplegic** after a motorcycle accident. He loses his will to live and isolates himself from others. Louisa Clark, a cheerful woman hired as his caregiver, brings warmth and laughter into his life. Their relationship grows as Louisa helps Will rediscover joy and hope. In the end, Will chooses assisted suicide, believing it to be an act of dignity and self-determination. The film explores disability as both a physical and emotional struggle, showing the power of love and choice.
