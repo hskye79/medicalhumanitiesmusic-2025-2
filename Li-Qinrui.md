@@ -1,3 +1,10 @@
+---
+Title：Jekyll Hyde
+Year：1990
+Genre：musical
+Disease：DID
+---
+
 # Jekyll Hyde
 
 The selected artistic work is the musical Jekyll & Hyde, and I will focus on the piece titled "The Confrontation" from it.The selected artistic work is the musical Jekyll & Hyde, and I will focus on the piece titled "The Confrontation" from it.
