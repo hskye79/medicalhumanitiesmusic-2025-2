@@ -3,7 +3,7 @@ Title: A Beautiful Mind
 Year: 2001
 Genre: Film
 Disease: paranoid schizophrenia
-ICD: F20.0
+ICD: 6A20.Z
 ---
 
 # A Beautiful Mind
