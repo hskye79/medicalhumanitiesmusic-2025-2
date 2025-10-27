@@ -1,3 +1,11 @@
+---
+Title: A Moment to Remember
+Year: 2004
+Genre: Film
+Disease: early-onset Alzheimer’s disease
+ICD: F00.0
+---
+
 # A Moment to Remember
 
 The song “Please Forget Me” from the film 「A Moment to Remember」portrays the painful journey of Su-jin, a young woman suffering from Alzheimer’s disease, as she gradually forgets the one she loves. The gentle piano melody and slow tempo express the sorrow and tenderness of fading memories. The line “I think I’m starting to forget you little by little” symbolizes the progression of her illness and, at the same time, her desperate wish not to forget. Ultimately, the song conveys the message that love is stronger than memory, quietly depicting sincere affection and acceptance of farewell even within the fading traces of remembrance.
