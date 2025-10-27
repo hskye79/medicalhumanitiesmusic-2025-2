@@ -1,9 +1,9 @@
 ---
-Title:The Pianist
-Year:2002
-Genre:Film
-Disease:Major Depressive Disorder
-ICD:F32
+Title: The Pianist
+Year: 2002
+Genre: Film
+Disease: Major Depressive Disorder
+ICD: F32
 ---
 
 # The Pianist
