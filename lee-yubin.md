@@ -3,8 +3,9 @@ Title: Good Doctor
 Year: 2013
 Genre: Drama
 Disease: Autism Spectrum Disorder (ASD), Savant Syndrome
-ICD: F84.0~F84.
+ICD: F84.0~F84.9
 ---
+
 # Good Doctor
 
 In *Good Doctor* (2013), directed by Park J. B. The drama "Good Doctor" (2013) depicts the growth of a pediatric surgeon with autism spectrum disorder and Servant syndrome. The background music of the drama audibly reveals Park's delicate and transparent inner world through the harmony of lyrical and clear piano melody and warm string music. Music follows the slow and cautious rhythm of his understanding of the world, and sometimes becomes a comforting language that embraces anxiety and loneliness. In particular, the calm melody that resonates in quiet moments rather than scenes in which emotions explode makes Zion look at the disability as a unique emotional world of a human being, not an object of overcoming, and makes Zion come to be a "warm person" rather than a "genius doctor."
