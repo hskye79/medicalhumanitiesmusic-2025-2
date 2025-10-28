@@ -1,14 +1,14 @@
 ---
-Title: Symphonie fantastique (Op. 14, 1830)
+Title: Symphonie Fantastique (Op. 14, 1830)
 Year: 1830
 Genre: Classical Music
 Disease: Obsessive–compulsive personality disorder
 ICD: 6D10
 ---
 
-# Symphonie fantastique (Op. 14, 1830)
+# Symphonie Fantastique (Op. 14, 1830)
 
-Hector Berlioz (1803–1869) who composed Symphonie fantastique (Op. 14, 1830) fell in love with the actress Harriet Smithson, who played Ophelia in a production of Hamlet. Despite numerous attempts to contact her, she did not respond. The obsessive love, despair, and emotional instability he experienced during this period served as the inspiration for this work.
+Hector Berlioz (1803–1869) who composed Symphonie Fantastique (Op. 14, 1830) fell in love with the actress Harriet Smithson, who played Ophelia in a production of Hamlet. Despite numerous attempts to contact her, she did not respond. The obsessive love, despair, and emotional instability he experienced during this period served as the inspiration for this work.
 
 The structure and storyline of the movements are as follows. The protagonist, an artist, takes poison out of despair over unrequited love, but instead of dying, he falls into vivid hallucinations. Each movement depicts a scene from these visions. The first movement, Rêveries – Passions (“Daydreams – Passions”), portrays his sudden surge of passionate love and anguish upon seeing the beloved woman. The second movement, Un bal (“A Ball”), depicts their encounter once again at a dazzling ball. The third movement, Scène aux champs (“Scene in the Fields”), shows the woman reappearing in a peaceful countryside setting, followed by an ominous premonition. In the fourth movement, Marche au supplice (“March to the Scaffold”), the protagonist dreams that he has killed his beloved, is sentenced to death, and is executed by guillotine. Finally, the fifth movement, Songe d’une nuit du sabbat (“Dream of a Witches’ Sabbath”), presents his own funeral scene, where he watches a witches’ sabbath unfold and the beloved woman reappears among the grotesque crowd.
 
