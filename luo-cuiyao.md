@@ -1,9 +1,11 @@
 ---
-# Twilight
+Titloe:Twilight
 Year:2008
 Genre:Film
 Disease:Depression
 ---
+
+# Twilight
 
 Selected work:I chose *Twilight (2008)*, a story about love between a human and a vampire. It’s a movie I watched many times since I was young, and it still feels very emotional to me. Music and information:The music I remember the most is *Bella’s Lullaby,* composed by Carter Burwell. The piano melody is soft and slightly sad, expressing the tension and delicate feelings between Bella and Edward. How illness/disability is represented:There is no physical illness in the film, but Bella’s emotional dependence feels like a kind of psychological disorder. As she falls deeper into love, she starts to lose herself, and that obsession seems almost unhealthy. Reflection (one sentence):The film shows that love can be warm and healing, but also dangerous when it becomes too strong.
 
