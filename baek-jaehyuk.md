@@ -1,6 +1,10 @@
-| Title | Year | Genre | Disorder | ICD |
-|---|---|---|---|---|
-| Boléro | 1928 | Orchestral Music | Obsessive-Compulsive Disorder | F42 |
+---
+Title: Boléro
+Year: 1928
+Genre: Orchestral Music
+Disorder: Obsessive-Compulsive Disorder
+ICD: F42
+---
 
 # Boléro
 
