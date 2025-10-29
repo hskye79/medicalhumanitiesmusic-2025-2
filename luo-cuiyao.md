@@ -1,8 +1,8 @@
 ---
-Titloe:Twilight
-Year:2008
-Genre:Film
-Disease:Depression
+Title: Twilight
+Year: 2008
+Genre: Film
+Disease: Depression
 ---
 
 # Twilight
