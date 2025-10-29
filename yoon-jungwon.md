@@ -2,6 +2,7 @@
 Title: Cancer
 Year: 2006
 Genre: Music
+Disease: Cancer
 ICD: 2A20
 ---
 
