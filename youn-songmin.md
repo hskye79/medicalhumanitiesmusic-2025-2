@@ -1,3 +1,11 @@
+---
+Title: Me Before You
+Year: 2016
+Genre: Film
+Disease: general paralysis
+ICD: MB5Z
+---
+
 # Me Before You
 
 Unsteady, one of Me Before You's ost, is a song written by Craig Armstrong. Lyrics such as "Because I'm a little steady, a little steady" symbolically show Will's general paralysis, the resulting pain, and a state of losing confidence in life. The music depicts Will Trainor's quadriplegic disorder in depth around the themes of personal dignity and isolation. Through a grand and tragic orchestral melody, Will's physical pain and loss of life are conveyed through deep emotional agitation without direct expression. It appealsly represents Will's unstable physical and mental state and his human desire to rely on someone.
