@@ -1,3 +1,7 @@
+| Title | Year | Genre | Disorder | ICD |
+| :—-- | :--— | :--— | :--— | :--— |
+| Amadeus | 1984 | movie | Bipolar disorder | F31 |
+
 #Amadeus
 
 In the film Amadeus (1984), the paranoid delusions and madness experienced by an aging Antonio Salieri are dramatically amplified through Wolfgang Amadeus Mozart's (1756–1791) "Dies Irae" from the Requiem in D minor, K. 626. As Salieri perceives the Requiem as both a symbol of Mozart's impending death and his own overwhelming guilt, the lyric "Day of Wrath" provides an auditory manifestation of judgment and terror. The powerful, tragic, and intense musical passages align perfectly with Salieri's psychological torment, transforming his corrosive jealousy and deep remorse into a haunting, sonic experience that symbolizes the profound sickness of his soul.  
