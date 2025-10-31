@@ -1,5 +1,6 @@
 | Title | Year | Genre | Disorder | ICD |
 | :—-- | :--— | :--— | :--— | :--— |
+
 | Amadeus | 1984 | movie | Bipolar disorder | F31 |
 
 #Amadeus
