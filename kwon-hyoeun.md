@@ -1,7 +1,10 @@
-|Title|Director|
-|--|--|
-|Midnight Sun(2018)|Scoot Speer|
-
+---
+Title: Midnight Sun
+Year: 2018
+Genre: Film
+Disease: xeroderma pigmentosum
+ICD: LD27.1
+---
 
 # Midnight Sun
 
