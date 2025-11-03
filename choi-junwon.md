@@ -6,13 +6,16 @@ Disease: Bipolar Disorder, Delusional Disorder, Social Anxiety Disorder, Panic D
 ICD: F31 (Bipolar Affective Disorder), F20 (Schizophrenia and other psychotic disorders), F40 (Phobic anxiety disorders), F41 (Other anxiety disorders), F32 (Depressive episodes)
 ---
 
+
 #Daily Dose of Sunshine
 
 "Daily Dose of Sunshine" is a drama about Jung Dae-eun (Park Bo-young), a nurse who worked in the internal medicine department for three years, who was first appointed to the mental health department and worked in the mental ward. Daeun meets patients with various mental illnesses in the mental ward, experiences their heartache stories, and grows as a nurse and a person who overcomes mental illness in the process. The drama realistically depicts various mental illnesses such as bipolar disorder, delusional disorder, social anxiety disorder, panic disorder, and depression, and beyond prejudice against mental illness, it sheds light on the human side of patients and their pain with a warm gaze. The original is a webtoon of the same name by Iraha, who actually worked in the psychiatric ward for six years, and contains vivid experiences of the scene.
 
+
 A composer's profile
 
 When she was in her 20s in New York, Mowg was nicknamed "Mowg" by her colleagues for resembling Mowgli, the main character in The Jungle Book. Starting out as a jazz bassist, she can play various instruments, including the bass, guitar, keyboard, and drum, and is especially famous for using the seven-string bass. She released Korea's first bass-performing album "Desire" in 2004, and she won the K-pop Award for Performance of the Year in 2005. She was also active as a film and music director, where she worked on numerous films and drama music, including "I Saw the Devil" (2010), "Dogany" (2011), "Kwanghae, the Man Who Became a King" (2012), "Suspicious Girl" (2014), and "Burning" (2018). She is also well-known for her collaboration with director Kim Ji-woon, and she wrote music for Netflix dramas "Now Our School" (2022), "Daily Dose of sunshine" (2023), and "The Tyrant" (2024).
+
 
 An award-winning career
 
@@ -25,6 +28,7 @@ The 53rd Grand Bell Music Awards 2012 ("Asura")
 Music Awards at the 20th Buil Film Awards in 2013 ("Berlin")
 
 Music Award at the 11th Asian Film Awards in 2016 (DONGJU)
+
 
 #정신병동에도 아침이 와요
 
