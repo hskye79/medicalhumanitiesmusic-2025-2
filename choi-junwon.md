@@ -17,11 +17,16 @@ When she was in her 20s in New York, Mowg was nicknamed "Mowg" by her colleagues
 An award-winning career
 
 2nd K-Pop Music Awards 2005 Performance of the Year Award
+
 Music Awards at the 32nd Blue Dragon Film Awards in 2010 ("Yellow Sea")
+
 The 53rd Grand Bell Music Awards 2012 ("Asura")
+
 Music Awards at the 20th Buil Film Awards in 2013 ("Berlin")
+
 Music Award at the 11th Asian Film Awards in 2016 (DONGJU)
 
+#정신병동에도 아침이 와요
 
 '정신병동에도 아침이 와요'는 내과에서 3년간 근무하던 간호사 정다은(박보영)이 정신건강의학과로 처음 발령받아 정신병동에서 근무하게 되면서 벌어지는 이야기를 다룬 드라마입니다. 다은은 정신병동 안에서 다양한 정신질환을 앓고 있는 환자들을 만나며 그들의 마음 시린 이야기를 경험하고, 그 과정에서 간호사로서, 그리고 정신 질환을 극복해 나가는 사람으로서 성장해 나갑니다. 드라마는 양극성 장애, 망상장애, 사회불안장애, 공황장애, 우울증 등 다양한 정신질환을 현실감 있게 묘사하며, 정신질환에 대한 편견을 넘어 환자들의 인간적인 면모와 그들이 겪는 고통을 따뜻한 시선으로 조명합니다. 원작은 정신병동에서 6년간 실제로 근무했던 이라하 작가의 동명 웹툰으로, 현장의 생생한 경험이 담겨 있습니다.
 
@@ -34,7 +39,12 @@ Mowg는 20대 시절 뉴욕에서 활동하며 정글북의 주인공 모글리�
 주요 수상 경력
 
 2005년 제2회 한국대중음악상 올해의 연주상
+
 2010년 제32회 청룡영화상 음악상 (《황해》)
+
 2012년 제53회 대종상 음악상 (《아수라》)
+
 2013년 제20회 부일영화상 음악상 (《베를린》)
+
 2016년 제11회 아시안 필름 어워드 음악상 《동주》)
+
