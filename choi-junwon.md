@@ -10,11 +10,11 @@ ICD: F31 (Bipolar Affective Disorder), F20 (Schizophrenia and other psychotic di
 
 "Daily Dose of Sunshine" is a drama about Jung Dae-eun (Park Bo-young), a nurse who worked in the internal medicine department for three years, who was first appointed to the mental health department and worked in the mental ward. Daeun meets patients with various mental illnesses in the mental ward, experiences their heartache stories, and grows as a nurse and a person who overcomes mental illness in the process. The drama realistically depicts various mental illnesses such as bipolar disorder, delusional disorder, social anxiety disorder, panic disorder, and depression, and beyond prejudice against mental illness, it sheds light on the human side of patients and their pain with a warm gaze. The original is a webtoon of the same name by Iraha, who actually worked in the psychiatric ward for six years, and contains vivid experiences of the scene.
 
-a composer's profile
+A composer's profile
 
-When she was in her 20s in New York, Mowg was nicknamed "Mowg" by her colleagues for resembling Mowgli, the main character in The Jungle Book. Starting out as a jazz bassist, she can play various instruments, including the bass, guitar, keyboard, and drum, and is especially famous for using the seven-string bass. She released Korea's first bass-performing album "Desire" in 2004, and she won the K-pop Award for Performance of the Year in 2005. She was also active as a film and music director, where she worked on numerous films and drama music, including "I Saw the Devil" (2010), "Dogany" (2011), "Kwanghae, the Man Who Became a King" (2012), "Suspicious Girl" (2014), and "Burning" (2018). She is also well-known for her collaboration with director Kim Ji-woon, and she wrote music for Netflix dramas "Now Our School" (2022), "Morning Is Coming to the Psychiatric Ward" (2023), and "The Tyrant" (2024).
+When she was in her 20s in New York, Mowg was nicknamed "Mowg" by her colleagues for resembling Mowgli, the main character in The Jungle Book. Starting out as a jazz bassist, she can play various instruments, including the bass, guitar, keyboard, and drum, and is especially famous for using the seven-string bass. She released Korea's first bass-performing album "Desire" in 2004, and she won the K-pop Award for Performance of the Year in 2005. She was also active as a film and music director, where she worked on numerous films and drama music, including "I Saw the Devil" (2010), "Dogany" (2011), "Kwanghae, the Man Who Became a King" (2012), "Suspicious Girl" (2014), and "Burning" (2018). She is also well-known for her collaboration with director Kim Ji-woon, and she wrote music for Netflix dramas "Now Our School" (2022), "Daily Dose of sunshine" (2023), and "The Tyrant" (2024).
 
-an award-winning career
+An award-winning career
 
 2nd K-Pop Music Awards 2005 Performance of the Year Award
 Music Awards at the 32nd Blue Dragon Film Awards in 2010 ("Yellow Sea")
