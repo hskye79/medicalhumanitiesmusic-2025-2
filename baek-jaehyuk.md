@@ -1,3 +1,11 @@
+---
+Title: Boléro
+Year: 1928
+Genre: Orchestral Music
+Disease: Obsessive-Compulsive Disorder
+ICD: F42
+---
+
 # Boléro
 
 Ravel’s Boléro unfolds as a relentless repetition of a single theme and rhythm that gradually intensifies over fifteen minutes. The obsessive structure mirrors the composer’s struggle with neurological degeneration and loss of motor control in his later years. The music’s mechanical persistence evokes the tension between human will and the inevitable collapse of the body—a haunting musical portrayal of illness and compulsion.

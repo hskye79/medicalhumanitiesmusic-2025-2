@@ -1,0 +1,15 @@
+---
+Title : Joker
+Year : 2019
+Genre : Film
+Disease : Pseudobulbar Affect (PBA) & Schizophrenia Spectrum Disorder
+ICD : F20.0
+---
+
+# Joker
+
+Title: Bathroom Dance Composers: Hildur Guðnadóttir (1982–) Plot Context: This original score plays during the scene where Arthur Fleck, after committing his first murders on the subway, retreats to a grubby public restroom and performs a spontaneous dance of self-liberation. The score is based on the film's main cello motif, capturing the chaotic moment where Arthur feels he has gained control for the first time. The music dramatically narrates the essence of Arthur's mental illness and uncontrollable laughter as a 'disability.' Guðnadóttir's low, unsettling cello melody embodies Arthur’s profound isolation, despair, and internal suffering. The slow, bizarre movement accompanying his "Bathroom Dance" illustrates his process of completely shedding societal expectations and establishing a new form of 'self' rooted in madness (insanity). The score captures the unstable equilibrium of his suffering mutating into social violence, aurally demonstrating how disability, through interaction with society, evolves into another form of sickness: the Monster.
+
+# 조커(Joker)
+
+제목: Bathroom Dance (화장실 춤) 작곡가: 힐뒤르 그뷔드나도티르 (Hildur Guðnadóttir, 1982~) 줄거리 관련: 아서 플렉이 지하철에서 처음으로 살인을 저지른 후, 허름한 공중 화장실로 들어가 스스로를 해방시키듯 춤을 추는 장면에 사용된 오리지널 스코어입니다. 이 곡은 영화 전반에 흐르는 주된 첼로 선율을 바탕으로 하며, 아서가 처음으로 통제력을 얻었다고 느끼는 혼란스러운 순간을 표현합니다. 이 음악은 아서의 정신 질환 및 통제 불가능한 웃음이라는 '장애'의 본질을 음악적으로 묘사합니다. 힐뒤르 그뷔드나도티르의 낮고 불안정한 첼로 선율은 아서의 내면 깊은 곳에 자리한 고독, 절망, 그리고 고통을 대변합니다. 특히, 살인 후 화장실에서 추는 춤에 흐르는 이 느리고 기괴한 선율은, 아서가 사회적 기대에서 완전히 벗어나 광기라는 새로운 형태의 '자아'를 형성하는 과정을 보여줍니다. 이 음악은 그의 고통이 단순한 슬픔을 넘어, 사회적 폭력으로 변이되는 순간의 불안정한 균형을 포착하며, 장애가 사회와 상호작용하여 어떻게 괴물이라는 또 다른 질병으로 발전하는지 청각적으로 드러냅니다.

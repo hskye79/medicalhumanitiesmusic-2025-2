@@ -1,0 +1,13 @@
+---
+Title: Rain man
+Year: 1988
+Genre: Film
+Disease: Autism
+ICD: 6A02.Y
+---
+
+# Rain man
+
+Film: Rain man (1988) Music: Las Vegas Theme(Composer: Hans Zimmer, 1957– ; Instrumental, no lyrics) The music in this film does not portray disability merely as a source of sadness or tragedy. Hans Zimmer expresses Raymond’s unique way of perceiving the world through steady rhythms and repetitive electronic sounds. The calm and consistent flow of tones mirrors his stable inner world—quiet on the surface, yet filled with subtle warmth. Through this musical expression, the audience begins to see the world from Raymond’s perspective, recognizing his condition not as a disability but as a different way of being. Ultimately, the music gently conveys that within this difference lies harmony and a quiet sense of human beauty.
+
+영화: 레인 맨 (1988) ,음악 : las vegas theme (작곡가: 한스 짐머 (1957~), 가사 없음(기악곡), 줄거리:냉정하나 사업가인 찰리가 자폐를 가진 형 레이먼드를 만나 여행을 떠나며 진정한 가족애를 깨닫는 이야기, 이 영화의 음악은 장애를 단순히 슬픔이나 불행으로 다루지 않는다. 한스 짐머는 일정한 리듬과 반복되는 전자음으로 레이먼드가 세상을 바라보는 고유한 감각을 그려낸다. 감정의 기복이 거의 없는 음의 흐름은 그의 안정된 내면세계를 반영하며, 겉으로는 차분하지만 그 속에는 따뜻함이 스며 있다. 이러한 음악적 표현을 통해 관객은 레이먼드의 시선에서 세상을 이해하게 되고, '장애'가 아닌 '다름'으로 존재하는 한 인간의 세계를 느끼게 된다. 음악은 결국 그 다름 속에서도 조화와 인간적인 아름다움이 있음을 조용히 들려준다.
