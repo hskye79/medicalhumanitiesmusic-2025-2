@@ -1,3 +1,11 @@
+---
+Title: Twilight
+Year: 2008
+Genre: Film
+Disease: Depressive disorder
+ICD: F32- Depressive episode 
+---
+
 # Twilight
 
 The chosen work is the movie Twilight (2008), which centers on a love story between a human and a vampire, exploring emotions that cross the line between reality and fantasy. The film was directed by Catherine Hardwicke (born 1955) and based on the novel written by Stephenie Meyer (born 1973). One of the main pieces of music is Bella’s Lullaby, composed by Carter Burwell (born 1955). The soft piano melody delicately expresses the fragile yet pure feelings between Bella and Edward, flowing quietly like an inner voice and following the emotional development of the characters.Although there is no explicit physical illness or disability in this film, Bella’s emotional dependence and loss of self can be interpreted as a kind of psychological disorder. Through love, she tries to find herself but ends up gradually breaking down within it. This portrayal symbolizes how unstable people can become when they are overwhelmed by emotions.In the end, this movie shows that love can both save and endanger a person at the same time.
