@@ -1,7 +1,14 @@
+---
+Title: Symphony No. 9 in D minor, Op. 125
+Year: 1822 to 1824
+Genre: Music
+Disease: hearing impairment
+ICD: H91.90
+---
 # Music
 
 Music
-Title: Symphony No. 9 Chorus 
+Title: Symphony No. 9 in D minor, Op. 125
 Composer: Ludwig van Beethoven 
 Year of birth and death: 1770–1827, 
 Lyrics: Everyone shall be brothers! 
