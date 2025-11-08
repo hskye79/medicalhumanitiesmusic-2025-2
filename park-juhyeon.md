@@ -1,3 +1,11 @@
+---
+Title: Your lie in april
+Year: 2014 ~ 2015
+Genre: animation
+Disease: Leukemia
+ICD: C91
+---
+
 # Your lie in april
 
 Since Your lie in April(2014~2015) is an animation dealing with the protagonist of music, there is a lot of music in the work. However, the most notable scene is Ballade No.1 in G minor, Op.23 scene in the last episode. It is the last ensemble between Kaori Miyazono, a violinist who has little time left due to a limited time due to a rare disease, and Kosei Arima, a genius pianist who was afraid of playing the piano due to slump and trauma. Kaori does not let go of the violin even in the midst of declining vitality and completes with a melody that she has no regrets about her life. Kosei has the courage to stand in front of the piano again through the ensemble with her and dreams of being a pianist. In this way, music is a language of their respective salvation and bonds, and for Kaori, it became a means to make the last wish of life, and for Kosei, a means to start her dream again.
