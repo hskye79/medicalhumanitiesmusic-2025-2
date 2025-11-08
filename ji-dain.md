@@ -1,0 +1,14 @@
+---
+Title: Marathon
+Year: 2005
+Genre: Film
+Disease: autism spectrum disorder
+ICD: 6A02
+---
+
+# Marathon
+
+The Korean film Marathon (2005), directed by Yoon-chul Chung with music composed by Bang Jun-seok (1970–2022), tells the true story of Cho-won, a young man with autism spectrum disorder who learns to connect with the world through running. Although Cho-won has difficulty communicating with words, he experiences complete freedom when he runs. His mother, who never stops believing in him despite society’s prejudice, supports him as he strives to complete a full marathon. Rather than depicting disability as something to be cured or overcome, the film views it as a different but equally valuable way of existing, delivering a heartfelt message about love, resilience, and human dignity. The music, composed by Bang Jun-seok—one of Korea’s most respected film composers known for Take Care of My Cat, Masquerade, and A Taxi Driver—plays a crucial role in shaping this perspective. The soundtrack consists mainly of minimalist piano and soft string melodies that reflect Cho-won’s innocence and emotional simplicity. The main theme, “Run for My Son,” alternates between major and minor keys, simultaneously evoking hope and sorrow. Rather than dramatizing the story, the music mirrors Cho-won’s steady heartbeat and his repetitive, rhythmic world. In this way, the score allows the audience to see the world through Cho-won’s eyes instead of explaining his condition. The warm strings accompanying his mother’s scenes highlight her unconditional love and devotion. Through its music, Marathon transforms the portrayal of disability from a story of overcoming hardship into one of respect and understanding. For me, the most impressive aspect of the film is how the music becomes a bridge between Cho-won’s inner world and the outside world, allowing us to feel his emotions beyond language.
+
+# 말아톤
+영화 〈말아톤〉(2005)은 정윤철 감독의 연출과 방준석(1970–2022)의 음악으로 완성된 작품으로, 자폐 스펙트럼 장애를 가진 청년 ‘초원’이 달리기를 통해 세상과 소통하는 과정을 그린 실화를 바탕으로 한다. 초원은 언어로 감정을 표현하는 데 어려움이 있지만, 달릴 때만큼은 누구보다 자유롭다. 사회의 편견에도 불구하고 아들을 믿고 지지하는 어머니의 헌신 속에서, 초원은 결국 마라톤을 완주한다. 이 영화는 장애를 ‘극복해야 할 결핍’으로 그리지 않고, ‘다른 방식의 존재’로 바라보며 사랑, 회복력, 인간 존엄에 관한 따뜻한 메시지를 전한다. 영화음악을 맡은 방준석은 〈고양이를 부탁해〉, 〈광해〉, 〈택시운전사〉 등으로 잘 알려진 한국의 대표적인 영화음악가로, 그의 음악은 작품의 정서를 섬세하게 형성하는 중요한 역할을 한다. 〈말아톤〉의 사운드트랙은 주로 미니멀한 피아노 선율과 부드러운 현악기로 구성되어 있으며, 초원의 순수함과 단순한 감정세계를 담아낸다. 주요 테마곡인 〈Run for My Son〉은 장조와 단조를 오가며 희망과 슬픔을 동시에 표현한다. 음악은 이야기를 과장하거나 설명하기보다는, 초원의 심장 박동처럼 일정한 리듬으로 그의 내면 세계를 따라간다. 이를 통해 관객은 초원의 시선으로 세상을 바라보고, 자폐라는 질병의 본질을 감각적으로 체험할 수 있다. 특히 어머니가 등장하는 장면에서 흐르는 따뜻한 현악은 사랑과 헌신을 감싸며 감정을 극대화한다. 〈말아톤〉의 음악은 장애를 극복의 서사가 아닌 존중과 이해의 서사로 전환시킨다. 무엇보다 인상 깊은 점은, 음악이 초원의 내면과 외부 세계를 연결하는 다리 역할을 하며, 언어를 넘어선 감정을 관객에게 전달한다는 것이다.

@@ -1,0 +1,14 @@
+---
+Title: The Theory of Everything 
+Year: 2014
+Genre: Film
+Disease: ALS
+ICD: 8B60.0
+---
+# The Theory of Everything 
+
+The movie The Theory of Everything (2014) portrays the life of Stephen Hawking and the pressure that physical changes from his ALS put on his marriage. The music used in the film, "Domestic Pressures," is an instrumental score by Icelandic composer Jóhann Jóhannsson (1969–2018) and is one of the tracks on the original soundtrack (Back Lot Music, 2014). The film depicts the moments when Jane and Stephen's bond falters under the progression of the disease and the burden of caregiving. During these moments, "Domestic Pressures" musically materializes the domestic tension by starting as a 3/4 waltz and gradually shifting its key, turning a sweet atmosphere into something "sour," as the composer himself explained was his intention for the piece. The track begins with serene strings and bell-like tones, then progressively builds in intensity, taking on a tone of melancholy to make the audience audibly feel the invisible pressures the illness places on the relationship. Generative AI was used to create the above text.
+
+# 사랑에 대한 모든 것 (The Theory of Everything)
+
+영화 〈The Theory of Everything〉(2014)은 스티븐 호킹의 삶과 루게릭 병으로 인한 신체 변화가 부부 관계에 미치는 압력을 그린 작품이다. 이 작품에서 사용된 음악 〈Domestic Pressures〉는 아이슬란드 작곡가 요한 요한손(1969–2018)의 스코어로, 가사가 없는 기악곡이며 오리지널 사운드트랙(Back Lot Music, 2014) 트랙 중 하나다. 영화는 병의 진행과 돌봄의 부담 속에서 제인과 스티븐의 결속이 흔들리는 순간들을 보여주는데, 이때 〈Domestic Pressures〉는 3/4 왈츠로 시작해 점차 달달한 분위기에서 ‘시큼해지는’ 방향으로 전조가 바뀌며 가정 내 긴장을 음악적으로 구체화한다. 작곡가가 직접 이 곡의 의도를 그렇게 설명하였다. 트랙은 초반의 평온한 현과 종소리의 소리에서 출발해 점차 고조되며 우울의 기색을 띠어, 질병이 관계에 가하는 보이지 않는 압박을 청각적으로 체감하게 만든다. 위 글은 생성형 AI를 활용하여 작성되었다.
