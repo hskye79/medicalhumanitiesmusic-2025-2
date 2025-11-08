@@ -1,3 +1,10 @@
+---
+Title: The Theory of Everything 
+Year: 2014
+Genre: Film
+Disease: ALS
+ICD: 8B60.0
+---
 # The Theory of Everything 
 
 The movie The Theory of Everything (2014) portrays the life of Stephen Hawking and the pressure that physical changes from his ALS put on his marriage. The music used in the film, "Domestic Pressures," is an instrumental score by Icelandic composer Jóhann Jóhannsson (1969–2018) and is one of the tracks on the original soundtrack (Back Lot Music, 2014). The film depicts the moments when Jane and Stephen's bond falters under the progression of the disease and the burden of caregiving. During these moments, "Domestic Pressures" musically materializes the domestic tension by starting as a 3/4 waltz and gradually shifting its key, turning a sweet atmosphere into something "sour," as the composer himself explained was his intention for the piece. The track begins with serene strings and bell-like tones, then progressively builds in intensity, taking on a tone of melancholy to make the audience audibly feel the invisible pressures the illness places on the relationship. Generative AI was used to create the above text.
