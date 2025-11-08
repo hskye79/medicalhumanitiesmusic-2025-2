@@ -7,7 +7,7 @@ Disorder: DID
 
 # Jekyll Hyde
 
-The selected artistic work is the musical Jekyll & Hyde, and I will focus on the piece titled "The Confrontation" from it.The selected artistic work is the musical Jekyll & Hyde, and I will focus on the piece titled "The Confrontation" from it.
+The selected artistic work is the musical Jekyll & Hyde, and I will focus on the piece titled "The Confrontation" from it.The selected artistic work is the musical Jekyll & Hyde
 
 This piece was composed by Frank Wildhorn, who was born on November 29, 1958.
 
