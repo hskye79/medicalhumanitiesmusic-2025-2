@@ -1,9 +1,10 @@
 # Doctor Romantic 
 
-In a Korean Drama called Doctor Romantic (2016), Dr. Yoon Seojung suffers from PTSD (Post-Traumatic Stress Disorder) after losing a colleague in an accident, experiencing anxiety and panic whenever she enters an operating room. First, she loses confidence as a doctor and leaves the hospital, but after meeting her mentor, Teacher Kim, she gains the courage to stand before the operating table once again and begins to overcome her trauma. Through her journey of carrying her wounds while continuing to grow, Yoon Seo-jung embodies the meaning of human recovery and healing.
-The drama’s OST called ‘Hope of Hospital’ mainly plays during scenes where the characters overcome hardships or stand up against injustice, emphasizing their moments of growth and recovery. The music naturally conveys Yoon Seojung’s emotional changes as she works through her trauma, allowing viewers to deeply feel her inner strength and transformation.
+In a Korean Drama called Doctor Romantic (2016), Dr. Yoon Seo-jung suffers from PTSD caused by a past accident, which triggers hyperarousal and seizures whenever she enters an operating room or sees blood or surgical instruments. She often becomes trapped in traumatic memories and runs out of the operating room. However, after meeting her mentor, Dr. Kim Sabu, she gradually learns to confront herself again. Eventually, she participates in a large and critical surgery, symbolizing her triumph over trauma.
+
+During this scene, the OST “Hope of Hospital” amplifies Yoon Seo-jung’s emotional transformation. As she focuses on the operation and overcomes her fear, the main melody of “Hope of Hospital” emerges, symbolizing her psychological shift from fear to hope. The dramatic and uplifting melody accentuates Yoon Seo-jung’s journey of overcoming PTSD, making her recovery even more moving and powerful.
 
 # 낭만닥터 김사부
 
-드라마 낭만닥터 김사부 (2016)에서 의사 윤서정은 사고로 동료를 잃은 외상 경험 이후, 수술실에 들어가면 불안과 공황에 시달리며 PTSD(외상 후 스트레스 장애)를 겪는다. 처음엔 의사로서의 자신감을 잃고 병원을 떠나지만 '김사부'라는 스승을 만나 다시 수술대 앞에 서며 트라우마를 극복할 용기를 얻는다. 결국 윤서정은 상처를 안고도 성장하는 모습을 통해 인간적 회복과 치유의 의미를 보여준다.
-이때 드라마의 OST 'Hope of Hospital'은 인물들이 어려움을 이겨내거나 불의에 맞서는 장면에 주로 흘러, 그들의 성장과 회복의 순간을 강조한다. 이 음악은 윤서정이 트라우마를 극복하고 회복해 나가는 과정에서 감정의 변화를 자연스럽게 전달하며, 시청자가 윤서정의 내적 힘과 변화를 더 깊이 느끼게 해준다.
+드라마 낭만닥터 김사부 (2016)에서 의사 윤서정은 과거 사고 트라우마로 인해 수술실에 들어가거나, 피 혹은 수술용 메스를 볼 때마다 PTSD로 인한 과각성 상태와 발작을 일으키거나 과거 기억에 사로잡혀 수술실을 뛰쳐나가곤 한다. 그러나 스승인 김사부를 만나며 그는 점차 자신을 다시 직면하는 법을 배우고, 결국에는 규모가 크고 중요한 수술에 참여하며 트라우마를 극복하는 모습을 보여준다. 결국 윤서정은 상처를 안고도 성장하는 모습을 통해 인간적 회복과 치유의 의미를 보여준다. 윤서정이 더 이상 수술실에서 발작을 일으키지 않고 용기있게 수술을 잘 해내는 장면에서 흐르는 OST Hope of Hospital 은 윤서정의 내면 변화를 감정적으로 극대화한다.
+윤서정이 수술에 집중하며 과거의 공포를 이겨내는 순간, ‘hope of hospital’의 대표적 멜로디가 등장하며, 이는 윤서정이 공포에서 희망으로 나아가는 심리적 전환점을 상징한다. 극적이고 정의적인 멜로디로 PTSD를 이겨낸 윤서정의 여정을 더 돋보이게 만들어준다.
