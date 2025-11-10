@@ -7,7 +7,7 @@ ICD: F31 (Bipolar Affective Disorder), F20 (Schizophrenia and other psychotic di
 ---
 
 
-#Daily Dose of Sunshine
+#Daily_Dose_of_Sunshine
 
 "Daily Dose of Sunshine" is a drama about Jung Dae-eun (Park Bo-young), a nurse who worked in the internal medicine department for three years, who was first appointed to the mental health department and worked in the mental ward. Daeun meets patients with various mental illnesses in the mental ward, experiences their heartache stories, and grows as a nurse and a person who overcomes mental illness in the process. The drama realistically depicts various mental illnesses such as bipolar disorder, delusional disorder, social anxiety disorder, panic disorder, and depression, and beyond prejudice against mental illness, it sheds light on the human side of patients and their pain with a warm gaze. The original is a webtoon of the same name by Iraha, who actually worked in the psychiatric ward for six years, and contains vivid experiences of the scene.
 
@@ -30,7 +30,7 @@ Music Awards at the 20th Buil Film Awards in 2013 ("Berlin")
 Music Award at the 11th Asian Film Awards in 2016 (DONGJU)
 
 
-#정신병동에도 아침이 와요
+#정신병동에도_아침이_와요
 
 '정신병동에도 아침이 와요'는 내과에서 3년간 근무하던 간호사 정다은(박보영)이 정신건강의학과로 처음 발령받아 정신병동에서 근무하게 되면서 벌어지는 이야기를 다룬 드라마입니다. 다은은 정신병동 안에서 다양한 정신질환을 앓고 있는 환자들을 만나며 그들의 마음 시린 이야기를 경험하고, 그 과정에서 간호사로서, 그리고 정신 질환을 극복해 나가는 사람으로서 성장해 나갑니다. 드라마는 양극성 장애, 망상장애, 사회불안장애, 공황장애, 우울증 등 다양한 정신질환을 현실감 있게 묘사하며, 정신질환에 대한 편견을 넘어 환자들의 인간적인 면모와 그들이 겪는 고통을 따뜻한 시선으로 조명합니다. 원작은 정신병동에서 6년간 실제로 근무했던 이라하 작가의 동명 웹툰으로, 현장의 생생한 경험이 담겨 있습니다.
 
