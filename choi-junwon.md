@@ -30,6 +30,8 @@ Music Awards at the 20th Buil Film Awards in 2013 ("Berlin")
 Music Award at the 11th Asian Film Awards in 2016 (DONGJU)
 
 
+One of the most common [mental disorders]() among modern people is panic disorder. Panic disorder is a condition in which intense fear and anxiety occur suddenly, even without any external threat, often accompanied by physical symptoms such as rapid heartbeat or shortness of breath. The film Perfect Blue effectively captures this state of panic through its use of dissonance and noise, vividly conveying the protagonist’s confusion and fear as she loses her grip on the boundary between reality and illusion.
+
 # 정신병동에도 아침이 와요
 
 '정신병동에도 아침이 와요'는 내과에서 3년간 근무하던 간호사 정다은(박보영)이 정신건강의학과로 처음 발령받아 정신병동에서 근무하게 되면서 벌어지는 이야기를 다룬 드라마입니다. 다은은 정신병동 안에서 다양한 정신질환을 앓고 있는 환자들을 만나며 그들의 마음 시린 이야기를 경험하고, 그 과정에서 간호사로서, 그리고 정신 질환을 극복해 나가는 사람으로서 성장해 나갑니다. 드라마는 양극성 장애, 망상장애, 사회불안장애, 공황장애, 우울증 등 다양한 정신질환을 현실감 있게 묘사하며, 정신질환에 대한 편견을 넘어 환자들의 인간적인 면모와 그들이 겪는 고통을 따뜻한 시선으로 조명합니다. 원작은 정신병동에서 6년간 실제로 근무했던 이라하 작가의 동명 웹툰으로, 현장의 생생한 경험이 담겨 있습니다.
@@ -51,4 +53,6 @@ Mowg는 20대 시절 뉴욕에서 활동하며 정글북의 주인공 모글리�
 2013년 제20회 부일영화상 음악상 (《베를린》)
 
 2016년 제11회 아시안 필름 어워드 음악상 《동주》)
+
+현대인들이 가장 많이 겪는 정신 질환 중 하나는 [공황장애]()이다. 공황장애는 특별한 외부 자극이 없음에도 불구하고 극심한 불안과 공포가 갑작스럽게 찾아오는 질환으로, 심장이 빨리 뛰거나 숨이 막히는 등 신체적 증상을 동반하기도 한다. 영화 퍼펙트 블루는 이러한 공황 상태를 시각적, 청각적으로 표현하기 위해 불협화음과 소음을 적극적으로 활용하며, 인물이 현실과 환상의 경계에서 느끼는 혼란과 두려움을 실감나게 전달한다.
 
