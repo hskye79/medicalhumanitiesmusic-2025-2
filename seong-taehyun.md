@@ -47,4 +47,4 @@ Ultimately, this music completes the process of confrontation, transforming his 
 
 결과적으로, 이 음악은 그의 불안과 공포를 감추는 것이 아니라 그것을 정면으로 돌파해 나가는 과정을 청각적으로 완성하며, 장애에 용감하게 맞서는 그의 대결을 강력하고 감동적인 결말로 이끌어냅니다.
 
-[포레스트검프](baek-seungjae.md)
+장애를 극복하는 또 다른 영화인 [포레스트검프](baek-seungjae.md)에서 느껴지는 
