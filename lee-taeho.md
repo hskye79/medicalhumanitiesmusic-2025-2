@@ -2,13 +2,13 @@
 Title: Shutter Island
 Year: 2010
 Genre: Film
-Disease: Paranoid Delusion
-ICD: F22
+Disease: Delusional disorder
+ICD: 6A24
 ---
 
 # Shutter Island
 
-Directed by Martin Scorsese and starring Leonardo DiCaprio, Shutter Island is a psychological thriller set in an isolated psychiatric hospital. The protagonist, U.S. Marshal Teddy Daniels, experiences hallucinations, delusions, and severe trauma-related symptoms while uncovering a dark truth about his own identity. The film portrays complex psychological conditions such as PTSD, and paranoid delusion as integral parts of the narrative.
+Directed by Martin Scorsese and starring Leonardo DiCaprio, Shutter Island is a psychological thriller set in an isolated psychiatric hospital. U.S. Marshal Teddy Daniels investigates a mysterious disappearance, but as the story unfolds, it becomes clear that he is suffering from hallucinations, delusions, and trauma-induced distortions of reality. His psychological symptoms stem from the suppressed guilt and grief of having lost his wife, who murdered their children before he killed her in a moment of shock. This traumatic event triggers his descent into paranoid delusion and post-traumatic stress.
 
 The featured music in the film is Symphony No.3: Passacaglia – Allegro Moderato by Krzysztof Penderecki (1933–2020). The piece is characterized by intense dissonance and repeated low-register string ostinatos, which together create a persistent sense of tension and unease. As an instrumental composition without lyrics, it focuses entirely on its sonic texture to convey emotion, heightening Teddy’s psychological instability and amplifying the suspense surrounding the hidden truths within the psychiatric institution.
 
@@ -16,7 +16,7 @@ The music emphasizes auditory discomfort rather than melodic beauty, immersing t
 
 # 셔터 아일랜드 (Shutter Island)
 
-마틴 스콜세지 감독, 레오나르도 디카프리오 주연의 심리 스릴러 영화로, 외딴 정신병원에서 실종 사건을 조사하던 연방 보안관 ‘테디’가 환청, 환시, 피해망상 등 정신질환적 증상을 겪으며 자신의 정체와 과거의 비극과 마주하는 이야기를 다룬다. 작품은 외상 후 스트레스 장애(PTSD), 정신분열적 망상 등 정신질환의 복합적 양상을 중심 서사로 풀어낸다.
+마틴 스콜세지 감독, 레오나르도 디카프리오 주연의 심리 스릴러 영화 *〈셔터 아일랜드〉*는 외딴 정신병원을 배경으로, 실종 사건을 조사하던 연방 보안관 테디 다니엘스가 환청, 환시, 피해망상 등 다양한 정신질환적 증상을 겪으며 자신의 정체와 과거의 비극과 마주하는 이야기이다. 그의 증상은 과거의 외상적 사건, 즉 아내가 아이들을 살해한 뒤 자신이 아내를 사살한 충격적인 경험에서 비롯된다. 이 죄책감과 상실의 트라우마는 그를 피해망상과 외상 후 스트레스 장애(PTSD)로 몰아넣으며, 현실과 환상이 뒤섞인 혼돈의 상태로 이끈다.
 
 영화에 사용된 주요 음악 중 하나는 크시슈토프 펜데레츠키(1933–2020)의 Symphony No.3: Passacaglia – Allegro Moderato로, 불협화음과 낮은 음역의 현악기 반복 구조가 긴장감과 불안한 정서를 극대화한다. 무가사 기악곡인 이 음악은 멜로디보다 음향적 압박과 서늘한 분위기를 통해 테디의 심리적 혼란을 반영하며, 정신병원 내부에 숨겨진 비밀에 대한 공포와 불확실성을 효과적으로 고조시키는 역할을 한다.
 
