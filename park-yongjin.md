@@ -7,7 +7,15 @@ ICD: F84.0
 ---
 
 # Mal-aton
-The film Mal-aton (2005) depicts 'Cho-won', a young man with autism spectrum disorder, challenging a full marathon. The instrumental track "Run, Cho-won," composed by Kim Jun-seong and used in the film's climax, sonically visualizes Cho-won's pure inner world, which communicates through the act of 'running' rather than depicting the confusion of autism. This gradually building score frames the disability not as a deficiency, but as a persistent energy moving to its own rhythm, allowing the audience to empathize with him as a complete 'marathoner'
+The film Mal-aton (2005) depicts 'Cho-won', a young man with autism spectrum disorder, challenging a full marathon. Autism Spectrum Disorder (ASD) is a neurodevelopmental condition characterized by difficulties in social communication and interaction, as well as restricted, repetitive patterns of behavior, interests, or activities. In the film, Cho-won exhibits this through his fixation on zebras and Choco Pies, and his immersion in his own world.
+
+Cho-won begins running marathons after his mother, 'Kyung-sook', discovers his exceptional running ability and hopes it will become a way for him to communicate with the world and find independence.
+
+The instrumental track "Run, Cho-won," composed by Kim Jun-seong and used in the film's climax, sonically visualizes Cho-won's pure inner world, which communicates through the act of 'running' rather than depicting the confusion of his disability. Beyond its gradual build-up (crescendo), the score utilizes steady, repetitive rhythms (ostinato) to mirror both the persistent pace of a marathoner and the consistent inner rhythm of Cho-won. Furthermore, the simple, clear main melody represents his pure perspective. These musical elements reframe the disability not as a deficiency, but as a persistent energy moving at its own pace, allowing the audience to deeply empathize with him as a complete 'marathoner'.
 
 # 말아톤(Mal-aton)
-영화 <말아톤>(2005)은 자폐 스펙트럼 장애를 가진 '초원'의 마라톤 완주 도전을 그린 작품입니다. 이 영화의 클라이맥스(마라톤 완주 장면)에 사용된 김준성 작곡가의 연주곡 "달려라 초원"은 장애의 혼란을 묘사하는 대신, '달리기'라는 행위로 소통하는 초원의 순수한 내면 질서를 청각적으로 형상화합니다. 점진적으로 고조되는 이 음악은 장애를 결핍이 아닌, 자신만의 리듬으로 묵묵히 나아가는 끈질긴 에너지로 표현하며 관객이 초원이를 한 명의 온전한 '마라토너'로 공감하게 만듭니다
+영화 <말아톤>(2005)은 자폐 스펙트럼 장애를 가진 '초원'의 마라톤 완주 도전을 그린 작품입니다.  자폐 스펙트럼 장애(ASD)는 사회적 의사소통 및 상호작용의 어려움, 그리고 제한적이고 반복적인 행동, 관심, 또는 활동을 특징으로 하는 신경발달장애입니다. 영화 속 초원은 얼룩말과 초코파이에 집착하고, 자신만의 세계에 몰두하는 모습으로 이를 보여줍니다.
+
+초원은 어머니 '경숙'이 그의 남다른 달리기 능력을 발견하고, 이를 통해 세상과 소통하고 자립할 수 있기를 바라면서 마라톤을 시작하게 됩니다.
+
+이 영화의 클라이맥스(마라톤 완주 장면)에 사용된 김준성 작곡가의 연주곡 "달려라 초원"은, 장애의 혼란을 묘사하는 대신 '달리기'라는 행위로 소통하는 초원의 순수한 내면 질서를 청각적으로 형상화합니다. 이 곡은 단순히 점진적으로 고조되는(crescendo) 방식 외에도, 일정하고 반복적인 리듬(ostinato)을 사용하여 마라토너의 끈질긴 발걸음과 초원 특유의 꾸준한 내면의 리듬을 동시에 표현합니다. 또한, 복잡하지 않고 맑은 주 선율은 초원의 순수한 세계를 대변합니다. 이러한 음악적 장치들은 장애를 결핍이 아닌, 자신만의 속도로 묵묵히 나아가는 끈질긴 에너지로 재해석하며, 관객이 초원이를 한 명의 온전한 '마라토너'로 깊이 공감하게 만듭니다.
