@@ -28,7 +28,7 @@ Maddalena’s story of losing everything parallels Beckett’s loss of career, d
 The aria shifts the perspective from disease to humanity.  
 Through music, Andrew is no longer seen as a patient or legal case—but as a person who still feels, loves, and insists on being alive.
 
-Whereas Philadelphia borrows the opera aria 'La Mamma Morta' to powerfully express an inner voice of dignity and love amidst illness, Giuseppe Verdi's opera [La Traviata](kim—seongjun.md)which similarly tackles the theme of illness—more directly depicts the tragedy of its protagonist wasting away from consumption through the music itself. The thin, delicate string melodies of the Act 3 Prelude, standing in stark contrast to the brilliant waltzes of Act 1, vividly evoke Violetta's labored breath and weakened body, while the faltering song of the "Addio, del passato" aria allows the audience to aurally experience the desperation and tragedy of a patient whose life is fading
+Whereas Philadelphia borrows the opera aria 'La Mamma Morta' to powerfully express an inner voice of dignity and love amidst illness, Giuseppe Verdi's opera [La Traviata](kim-seongjun.md).which similarly tackles the theme of illness—more directly depicts the tragedy of its protagonist wasting away from consumption through the music itself. The thin, delicate string melodies of the Act 3 Prelude, standing in stark contrast to the brilliant waltzes of Act 1, vividly evoke Violetta's labored breath and weakened body, while the faltering song of the "Addio, del passato" aria allows the audience to aurally experience the desperation and tragedy of a patient whose life is fading
 ---
 
 # 필라델피아 (1993)
