@@ -2,8 +2,8 @@
 title: marathon
 year: 2005
 name: autism spectrum disorder
-icd: f84.0
 genre: film
+icd: F84.0
 ---
 
 
@@ -20,11 +20,14 @@ genre: film
 • genre and background: a drama based on a true story about an autistic young man who learns to connect with the world through marathon running.
 ________________________________________
 plot summary
-bae hyung-jin, a young man with autism spectrum disorder, has loved “choco pie” since childhood and finds a way to communicate with the world through running. his devoted mother, kyung-sook, sets a goal for him to complete a marathon, believing it will help him adapt to society. what begins as simple training gradually becomes a personal journey of self-discovery as hyung-jin finds his own rhythm and world through running. in the end, he completes the full marathon, achieving a sense of fulfillment and independence. the film warmly portrays not just disability but the different pace and potential of human life.
+
+Bae Hyung-jin, a young man with autism spectrum disorder, loves “Choco Pie” and finds a way to communicate with the world through running. His mother, Kyung-sook, sets a goal for him to complete a marathon, believing it will help him adapt to society. What begins as simple training becomes a journey of self-discovery as Hyung-jin finds his rhythm and completes the full course, achieving fulfillment and independence. The film tenderly portrays not just disability but the unique pace and potential of human life.
 ________________________________________
 reflection on how music portrays disability
-the film’s music avoids exaggerated emotional expression, instead relying on simple piano melodies and repetitive string rhythms. this reflects hyung-jin’s consistent and patterned behavior as a person with autism, while also capturing the delicate emotional nuances within him. in the marathon scenes, the gentle strings and gradual crescendos musically express the inner world of a man running at his own pace amid the dissonance of society. in this way, the soundtrack does not romanticize or dramatize disability but respects it as its own rhythm and world.
 
+The film’s score—particularly Marathon Theme and Running for You—avoids exaggerated sentimentality, relying instead on minimal piano lines and repeating string patterns played by violins and cellos. These motifs mirror Hyung-jin’s repetitive behavioral patterns while revealing the delicate emotional layers within him.
+In Running for You, the gradual crescendo of violins during the marathon scene embodies Hyung-jin’s inner growth and persistence, symbolizing how he runs at his own pace amid the noise of society. Marathon Theme, with its cyclical melody and stable rhythm, reinforces the idea that his world is not one of limitation but of consistency and beauty.
+Through this approach, the soundtrack does not romanticize disability as something to overcome; rather, it respects autism as a distinct rhythm—a self-contained yet expressive world.
 
 # 말아톤 (marathon)
 
@@ -39,7 +42,11 @@ the film’s music avoids exaggerated emotional expression, instead relying on s
 •	장르 및 배경: 실화를 바탕으로 한 드라마, 자폐 스펙트럼 장애를 가진 청년이 마라톤을 통해 자신과 세상을 연결해 가는 이야기
 ________________________________________
 줄거리 요약
-자폐 스펙트럼 장애를 지닌 청년 배형진은 어린 시절부터 ‘초코파이’를 좋아하고, 달리기를 통해 세상과 소통하는 법을 배운다. 아들을 위해 모든 것을 헌신하는 어머니 경숙은 형진을 정상적인 사회로 이끌기 위해 ‘마라톤 완주’라는 목표를 세운다. 처음에는 단순한 훈련이었지만, 점점 형진은 달리기를 통해 자기만의 리듬과 세계를 찾아가고, 마침내 풀코스를 완주하며 ‘스스로의 완성’을 이룬다. 영화는 ‘장애’보다는 ‘삶의 속도와 방식이 다른 인간의 가능성’을 따뜻하게 그린다.
+
+자폐를 지닌 청년 배형진은 ‘초코파이’를 좋아하며, 달리기를 통해 세상과 소통하는 법을 배운다. 어머니 경숙은 아들이 사회에 적응하길 바라며 마라톤 완주라는 목표를 세운다. 단순한 훈련이 점차 자기발견의 여정으로 확장되며, 형진은 달리기를 통해 자기만의 리듬과 세계를 완성해 나간다. 영화는 ‘장애’가 아닌 ‘다른 속도의 인간 가능성’을 따뜻하게 그려낸다.
 ________________________________________
 음악이 장애를 묘사하는 방식에 관한 단상
-이 영화의 음악은 과장된 감정 표현 대신 단순한 피아노 선율과 반복되는 현악 리듬으로 구성되어 있다. 이는 자폐를 지닌 형진의 일정하고 반복적인 행동 패턴을 반영하면서도, 그 속에서 피어나는 섬세한 감정 변화를 담아낸다. 특히 마라톤 장면에서의 잔잔한 현악과 점진적인 고조는 ‘세상과의 불협화음 속에서 자신만의 속도로 달려가는 인간’의 내면을 음악적으로 형상화한다. 즉, 이 영화의 음악은 ‘장애’를 극복의 서사로 포장하지 않고, 그 자체의 리듬과 세계로 존중하는 태도를 보여준다.
+
+이 영화의 주요 음악인 Marathon Theme과 Running for You는 과장된 감정 표현을 피하고, 단순한 피아노 선율과 반복되는 현악기(바이올린과 첼로)의 리듬으로 구성되어 있다. 이러한 반복적 패턴은 자폐인의 일정하고 규칙적인 행동 특성을 음악적으로 반영하는 동시에, 그 속에 깃든 섬세한 감정의 진폭을 드러낸다.
+특히 Running for You는 마라톤 장면에서 바이올린의 서서히 고조되는 선율을 통해 형진이 세상의 소음 속에서도 자신만의 리듬으로 달려가는 내면의 성장과 집중을 표현한다. Marathon Theme은 순환적인 멜로디와 안정된 박자를 통해 그의 세계가 제한이 아닌 일관성과 조화의 세계임을 상징한다.
+이처럼 영화의 음악은 ‘장애’를 극복의 서사로 미화하지 않고, 그 자체의 리듬과 질서를 지닌 고유한 세계로 존중하는 태도를 보여준다.
