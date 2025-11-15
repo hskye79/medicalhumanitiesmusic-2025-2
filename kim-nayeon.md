@@ -18,7 +18,7 @@ However, in moments of confusion as his mind fragments, the same beautiful melod
 
 Another insert song, ["All Love Can Be,"](jang-hyojin.md) conveys a message of healing and recovery from Nash's illness, unlike "A Kaleidoscope of Mathmatics," which explores Nash's schizophrenia from multiple perspectives. 
 
-"Kill Me, Heal Me" depicts another psychiatric condition, dissociative identity disorder, and [the music used in this work](han-junryul.md) also creates a sense of blurring the line between reality and imagination, effectively portraying the character's inner turmoil.
+This method of using music to depict the boundaries and conflicts between internal reality and unreality (or delusion) can be found in other works dealing with different psychiatric conditions. For instance, the music from the series 'Kill Me, Heal Me,' which deals with Dissociative Identity Disorder (DID), also alternates between dreamlike and unstable sounds. Just as the music in 'A Beautiful Mind' expresses both Nash's genius and his chaos, the score for 'Kill Me, Heal Me' aurally conveys the blurring of boundaries between multiple identities and the resulting internal confusion in a similarly persuasive manner. "Kill Me, Heal Me" depicts another psychiatric condition, dissociative identity disorder, and [the music used in this work](han-junryul.md) also creates a sense of blurring the line between reality and imagination, effectively portraying the character's inner turmoil.
 
 # 뷰티풀 마인드
 
@@ -32,4 +32,4 @@ Another insert song, ["All Love Can Be,"](jang-hyojin.md) conveys a message of h
 
 또 다른 삽입곡 ['All love can be'](jang-hyojin.md)는 내쉬의 조현병을 여러 시각에서 바라보는 'A Kaleidoscope Of Mathmatics'와는 달리 내쉬의 이러한 질병에 대한 치유와 회복이라는 메시지를 전달합니다.
 
-'킬미힐미'라는 작품에서는 해리성 정체감 장애라는 다른 정신의학과적 질병을 묘사하고 있는데, 이 작품에서 사용되는 [음악](han-junryul.md)도 역시 현실과 상상의 경계가 흐려지는 듯한 느낌을 줍니다. 이를 통해 인물이 겪는 내면의 혼란스러움이 잘 드러납니다.
+이처럼 음악을 통해 내면의 현실과 비현실(혹은 망상) 간의 경계와 충돌을 묘사하는 방식은, 다른 정신의학적 질병을 다루는 작품에서도 유사하게 발견됩니다. 예를 들어, 해리성 정체감 장애(DID)를 다룬 '킬미힐미(Kill Me, Heal Me)'라는 작품의 음악 역시 몽환적이면서도 불안정한 사운드를 교차시킵니다. 이는 '뷰티풀 마인드'의 음악이 내시의 천재성과 혼란을 동시에 표현하듯, '킬미힐미'의 음악 또한 여러 정체성 간의 경계가 흐려지는 듯한 느낌과 그로 인한 내면의 혼란을 청각적으로 설득력 있게 전달합니다.'킬미힐미'라는 작품에서는 해리성 정체감 장애라는 다른 정신의학과적 질병을 묘사하고 있는데, 이 작품에서 사용되는 [음악](han-junryul.md)도 역시 현실과 상상의 경계가 흐려지는 듯한 느낌을 줍니다. 이를 통해 인물이 겪는 내면의 혼란스러움이 잘 드러납니다.
