@@ -16,6 +16,10 @@ In particular, the seductive and unreal nature of the hallucinations visible onl
 
 However, in moments of confusion as his mind fragments, the same beautiful melodic fragments heard earlier clash into dissonance or collide with unsettling electronic sounds. In this way, the score effectively portrays the intense internal struggle between reality and delusion by alternating between majestic orchestral melodies (reality, genius) and sharp, anxious sounds (delusion, chaos).
 
+Another insert song, ["All Love Can Be,"](jang-hyojin.md) conveys a message of healing and recovery from Nash's illness, unlike "A Kaleidoscope of Mathmatics," which explores Nash's schizophrenia from multiple perspectives. 
+
+"Kill Me, Heal Me" depicts another psychiatric condition, dissociative identity disorder, and [the music used in this work](han-junryul.md) also creates a sense of blurring the line between reality and imagination, effectively portraying the character's inner turmoil.
+
 # 뷰티풀 마인드
 
 제임스 호너의 스코어는 조현병을 단순히 혼란스럽거나 무서운 소리로 묘사하는 대신, 존 내시의 '아름다운 정신(A Beautiful Mind)' 그 자체에 집중합니다. 영화에서 이 '아름다운 정신'이란, 남들이 보지 못하는 패턴을 읽어내는 내시의 경이로운 천재성과 더불어, 사회적으로 서툴지만 사랑과 인정을 갈구하는 그의 인간적인 가치관, 그리고 그 천재성과 분리되지 않은 채 발현되는 망상까지 포함하는 복합적인 개념입니다.
@@ -25,3 +29,7 @@ However, in moments of confusion as his mind fragments, the same beautiful melod
 특히 내시에게만 보이는 환각(마시, 찰스 등)의 유혹적이고 비현실적인 속성은 몽환적인 여성 솔로 보컬로 청각화됩니다. 이 목소리는 구체적인 가사 없이 허밍이나 보칼리제(vocalise) 기법으로 불리며, 풍부한 잔향(reverb) 효과가 더해져 그 출처를 알 수 없는 비현실성을 극대화합니다. 선율 자체는 위협적이기보다 신비롭고 아름답게 들리기 때문에, 내시가 환각을 '유혹'으로 받아들이는 초기 단계를 설득력 있게 묘사합니다.
 
 하지만 그의 정신이 분열되는 혼란의 순간에는, 앞서 등장했던 아름다운 선율 파편들이 불협화음을 내거나 불안한 전자음과 충돌합니다. 이처럼 장엄한 오케스트라 선율(현실, 천재성)과 날카로운 사운드(망상, 혼란)가 교차하며, 그의 내면에서 벌어지는 현실과 망상 간의 격렬한 투쟁을 효과적으로 묘사합니다.
+
+또 다른 삽입곡 ['All love can be'](jang-hyojin.md)는 내쉬의 조현병을 여러 시각에서 바라보는 'A Kaleidoscope Of Mathmatics'와는 달리 내쉬의 이러한 질병에 대한 치유와 회복이라는 메시지를 전달합니다.
+
+'킬미힐미'라는 작품에서는 해리성 정체감 장애라는 다른 정신의학과적 질병을 묘사하고 있는데, 이 작품에서 사용되는 [음악](han-junryul.md)도 역시 현실과 상상의 경계가 흐려지는 듯한 느낌을 줍니다. 이를 통해 인물이 겪는 내면의 혼란스러움이 잘 드러납니다.

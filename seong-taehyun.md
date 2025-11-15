@@ -27,6 +27,9 @@ It intensely magnifies the historical weight and pathos of human tragedy. This u
 
 Ultimately, this music completes the process of confrontation, transforming his anxiety and fear into enduring perseverance, and brings his courageous confrontation with his disability to a powerful and moving conclusion.
 
+In [Forrest Gump](baek-seungjae.md), another film about overcoming disability, the protagonist, Forrest Gump, has borderline intellectual functioning. Despite this disability, he overcomes it on his own, becoming a war hero who receives the Medal of Honor—a difficult honor to earn in the United States—and by the end of the work, he becomes a wealthy tycoon and celebrity. Similarly, King George VI, the protagonist of 'The King's Speech,' has a speech impediment, but he successfully delivers a speech driven by his sense of duty to give courage to his people after the outbreak of World War II.
+In this way, the protagonists of both films share the commonality of overcoming their disabilities to achieve success on their own.
+
 # 킹스 스피치
 
 질병 또는 장애가 묘사된 예술 작품: 영화 <킹스 스피치> (The King's Speech, 2010)
@@ -46,3 +49,6 @@ Ultimately, this music completes the process of confrontation, transforming his 
 그리고 2차 세계대전 발발이라는 절박한 역사적 순간에 이 악장이 사용되면서, 음악은 단순한 배경을 넘어 **'진혼곡' 혹은 '장례 행진곡'**과 같은 비장하고 숭고한 정서를 불러일으킵니다. 이는 국민에게 용기를 주어야 하는 왕의 고독한 책임감과 인류사적 비극의 서막이 지닌 무게감을 극도로 증폭시킵니다.
 
 결과적으로, 이 음악은 그의 불안과 공포를 감추는 것이 아니라 그것을 정면으로 돌파해 나가는 과정을 청각적으로 완성하며, 장애에 용감하게 맞서는 그의 대결을 강력하고 감동적인 결말로 이끌어냅니다.
+
+장애를 극복하는 또 다른 영화인 [포레스트검프](baek-seungjae.md)에서 주인공인 포레스트 검프는 경계선 지능장애를 가지고 있습니다. 그런 그는 이러한 장애를 가졌음에도 스스로 이를 이겨내며 미국에서 받기 힘들다는 명예훈장을 수여 받은 전쟁영웅이 되고 작품의 말미에는 재벌, 유명인사가 됩니다. 이런 그와 마찬가지로 '킹스 스피치'의 주인공인 조지 6세는 언어장애를 가졌으나, 2차 세계대전 발발 후 국민에게 용기를 주기 위한 사명감에 의해 연설을 결코 해냅니다.
+이런 듯 두 영화의 주인공은 자신의 장애를 극복하여 스스로 성과를 이루어냈다는 점에서 공통점이 있습니다.
