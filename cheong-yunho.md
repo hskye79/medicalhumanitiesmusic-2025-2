@@ -12,6 +12,9 @@ Woo Young-woo is a lawyer with an extraordinary memory and logical thinking, but
 
 This work shares similarities with [Marathon](ji-dain.md) in its warm portrayal of a person with autism spectrum disorder who learns to connect with the world. Both works avoid depicting autism as a story of “overcoming,” instead focusing on each character’s sincere journey toward understanding and communication in their own way. While 'Extraordinary Attorney Woo' expresses courage and communication through music, 'Marathon' conveys freedom and understanding. In both, music serves as an emotional bridge that links the characters’ inner worlds with the outer world.
 
+<img src="./cheong-yunho.png" alt="Abstract image of Autism Spectrum Disorder" style="width:30%;" />
+
+
 
 # 이상한 변호사 우영우
 
