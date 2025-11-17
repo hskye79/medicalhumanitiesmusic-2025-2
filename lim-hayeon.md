@@ -8,7 +8,7 @@ ICD : 6A02.Z
 ---
 
 # Marathon
-Title: Run, Cho-won  
+Title: [Run, Cho-won](https://www.youtube.com/watch?v=6nM9hL95LzA&list=RD6nM9hL95LzA&start_radio=1)  
 Composer: Kim Joon-sung (1971– )  
 Work: Film “Marathon” (dir. Jung Yoon-chul, 2005)  
 Genre: Orchestral instrumental  
@@ -16,7 +16,7 @@ Lyrics: None (pure instrumental)
 Synopsis: Based on a true story, the film Marathon portrays a young man on the autism spectrum, Cho-won, learning to breathe with the world through running. The score translates this journey into an “order of rhythm.” At the start, the piano repeats a simple ostinato in the middle register—metronomic quarter notes with light pedal and a 2+2 phrasing—evoking Cho-won’s repetitive routines and inward focus. As training begins, a thin layer of strings doubles the piano, subtly warming the harmony and hinting at an emotional turn in which repetition becomes structure rather than isolation. In scenes of conflict with the coach or moments of sensory overload, brass and low strings thicken, and gentle syncopations rub against the piano’s regular pulse, creating a friction of dissonance. When his mother begins to attune to Cho-won’s sense of time, woodwinds softly imitate the piano motif like an echo, and the texture briefly thins, opening space for understanding and empathy. As repeated practice turns into propulsion, bass drum and soft snare add a heartbeat-like pulse, while the harmony widens its intervals to suggest a release of perspective. On race day the orchestra swells like the noise of the crowd, yet the piano line holds almost unchanged, letting the listener hear the alignment—not erasure—of the world’s beat with his inner meter. In the final stretch, high strings lift the ostinato upward and the tempo feels a shade lighter, drawing Cho-won’s steps from dissonance toward consonance, from isolation toward relation. In the coda the solo piano returns, softer than at the opening, leaving a quiet afterimage that completes the film’s stance: disability is not merely something to overcome but another order of sensation to be respected.
 
 # 말아톤
-음악 제목: 달려라, 초원  
+음악 제목: [달려라, 초원](https://www.youtube.com/watch?v=6nM9hL95LzA&list=RD6nM9hL95LzA&start_radio=1)  
 작곡가: 김준성 (Kim Joon-sung, 1971– )  
 작품: 영화 〈말아톤〉 (감독 정윤철, 2005)  
 장르: 오케스트라 기반 연주곡 (Instrumental)  
