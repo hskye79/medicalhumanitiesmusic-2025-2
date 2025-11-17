@@ -12,6 +12,8 @@ Me Before You (2016) features Ed Sheeran’s [“Photograph”](https://youtu.be
 
 A film that explores illness in a way similar to Me Before You is [James Marsh’s The Theory of Everything](lee-jaehyuk.md). It depicts the life of physicist Stephen Hawking, who, despite being diagnosed with ALS, discovers meaning in life and experiences personal growth through love. Jóhann Jóhannsson’s “Arrival of the Birds & Transformation” symbolizes Hawking’s consciousness and emotions expanding beyond his physical limitations through gradually layered piano and string arrangements. Like Me Before You, the film examines how illness or disability influences human relationships and emotional development. However, while Me Before You portrays tragedy amid love and loss, The Theory of Everything highlights hope and inner strength through love, marking a key difference between the two.
 
+<img src="./lee-inhye.png" alt="Abstraction of disability" style="width:33%;" />
+
 # 미 비포 유
 
 영화 <미 비포 유>에는 에드 시런의 [Photograph](https://youtu.be/nSDgHBxUbVQ?si=yCYzVQ150opUhavG)와 Thinking Out Loud가 사용되어 이야기의 감정선을 부드럽게 이끈다. 사고로 전신 마비가 된 윌 트레이너는 삶의 의욕을 잃고 세상과 거리를 두지만, 밝고 따뜻한 성격의 간병인 루이자를 만나면서 다시 감정을 느끼기 시작한다. 두 사람은 함께 시간을 보내며 서로에게 큰 위로가 되지만, 윌은 끝내 장애로 인한 상실감을 극복하지 못하고 삶을 스스로 마무리하기로 결정한다. Photograph는 두 사람이 여행을 떠나거나 작은 순간을 함께 기록하는 장면에 삽입되어, 짧은 시간이더라도 그 기억이 오래도록 마음속에 남는다는 점을 강조한다. 반면 Thinking Out Loud는 신체적 한계를 넘어 서로의 마음이 진심으로 닿는 순간에 흐르며, 사랑이 외형이나 조건에 의해 규정되지 않는다는 메시지를 전달한다.
