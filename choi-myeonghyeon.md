@@ -12,6 +12,7 @@ Ludwig van Beethoven (1770–1827) was a composer who expressed the power of hum
 
 Beethoven expressed the suffering of hearing loss in Piano Sonata No. 14 “Moonlight”, yet presented a narrative of transcendence in [Symphony No. 9 in D minor, Op. 125 “Choral.”](choi-hyunseok.md) Rather than directly depicting his deafness, the symphony stands as an act of ultimate resistance — a radiant, cohesive, and powerful vision of sound that transcends physical silence. In the fourth movement, Beethoven set Friedrich Schiller’s “Ode to Joy” to music, celebrating unity, brotherhood, and hope. Ultimately, Moonlight portrays the pain of deafness, while Choral transcends it — demonstrating how the same composer depicted a single disability in profoundly contrasting ways.
 
+<img src="./choi-myeonghyeon.png" alt="Beethoven is depicted composing Moonlight while suffering from hearing loss." style="width:45%;" />
 
 # 피아노 소나타 "월광"
 
