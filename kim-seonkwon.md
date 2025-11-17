@@ -28,6 +28,7 @@ Maddalena’s story of losing everything parallels Beckett’s loss of career, d
 The aria shifts the perspective from disease to humanity.  
 Through music, Andrew is no longer seen as a patient or legal case—but as a person who still feels, loves, and insists on being alive.
 
+Whereas Philadelphia borrows the opera aria 'La Mamma Morta' to powerfully express an inner voice of dignity and love amidst illness, Giuseppe Verdi's opera [La Traviata](kim-seongjun.md).which similarly tackles the theme of illness—more directly depicts the tragedy of its protagonist wasting away from consumption through the music itself. The thin, delicate string melodies of the Act 3 Prelude, standing in stark contrast to the brilliant waltzes of Act 1, vividly evoke Violetta's labored breath and weakened body, while the faltering song of the "Addio, del passato" aria allows the audience to aurally experience the desperation and tragedy of a patient whose life is fading
 ---
 
 # 필라델피아 (1993)
@@ -56,3 +57,5 @@ Through music, Andrew is no longer seen as a patient or legal case—but as a pe
 > 고통 속에서도 인간은 사랑하고, 느끼고, 살아있다.
 
 앤드류는 환자가 아니라 **존재 그 자체로 사랑할 수 있는 인간**임을 음악이 증명한다.
+
+이처럼 <필라델피아>가 'La Mamma Morta'라는 오페라 아리아를 차용해 질병 속에서도 인간의 존엄과 사랑을 지키려는 내면의 목소리를 강렬하게 표현했다면, 이와 유사하게 질병이라는 주제를 다룬 주세페 베르디의 오페라 [라 트라비아타](kim-seongjun.md)는 결핵으로 스러져가는 주인공의 비극을 음악을 통해 더욱 직접적으로 묘사합니다. 1막의 화려한 왈츠와는 극명한 대조를 이루는 3막 전주곡의 가늘고 섬세한 현악기 선율은 비올레타의 거친 숨결과 쇠약해진 육체를 생생하게 그려내며, "Addio, del passato" 아리아의 끊어질 듯한 노래는 생명이 꺼져가는 환자의 절박함과 비극을 청각적으로 체험하게 합니다.

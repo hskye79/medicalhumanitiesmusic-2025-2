@@ -13,3 +13,7 @@ A Beautiful Mind is a biographical drama that tells the story of John Nash, a br
 # 뷰티풀 마인드
 
 영화 뷰티풀 마인드는 천재 수학자 존 내쉬가 조현병과 함께 살아가는 과정을 담은 작품이다. 현실과 환각 사이에서 흔들리던 그는 사랑을 통해 자신을 받아들이고 다시 삶의 균형을 찾아간다. 제임스 호너가 만든 주제곡 A Kaleidoscope of Mathematics는 반복되는 리듬과 대칭적인 선율로 수학적인 질서와 내면의 혼란을 함께 표현한다. 피아노와 현악이 엇갈리며 만들어내는 불안한 화성은 천재성과 광기의 경계를 드러내고, 여성 보컬의 허밍은 머릿속을 스치는 환청처럼 투명하고 가볍게 퍼져나간다. 이 음악은 질병을 두려움으로 그리기보다 한 인간의 마음속에서 일어나는 복잡한 감정과 존엄을 따뜻하게 보여준다.
+
+전쟁 속 트라우마와 인간의 존엄을 다루는 또 다른 영화 [The Pianist](jang-daehyeok.md)가 있다. 이 작품에서 쇼팽 발라드의 극적인 대비와 흔들리는 연주는 스필만의 공포, 상실, 그리고 인간으로 남기 위한 마음의 중심을 음악으로 드러낸다. 이는 ‘뷰티풀 마인드’에서 반복적이고 불협적인 선율이 내쉬의 현실과 환각 사이의 불안정한 균형을 표현하는 방식과 비슷하다. 두 작품 모두 음악을 단순한 배경이 아니라, 주인공의 심리 상태를 직접 설명하지 않고도 관객이 자연스럽게 느끼도록 만드는 감정적 장치로 활용한다는 점에서 공통점을 가진다.
+
+There is another film that talks about war trauma and human dignity,[The Pianist](jang-daehyeok.md). In this movie, the strong contrasts and shaky flow of Chopin’s ballade show Spilman’s fear, loss, and his effort to stay human. This is similar to A Beautiful Mind, where the repeating and tense music shows Nash’s unstable state between reality and his visions. Both films use music not just as background, but as a way for the audience to feel what the main character is going through without directly saying it.
