@@ -20,5 +20,5 @@ The influence of his disability is also evident in another one of Beethoven's wo
 
 베토벤의 또 다른 작품인 [피아노 소나타 월광](choi-myeonghyeon.md)에서도 장애가 미친 영향을 보여준다.
 
-<img src="./choi-hyunseok.png" alt="description" style="width:50%;" />
+<img src="./choi-hyunseok.png" alt="This image dramatically portrays the grand and triumphant spirit of Beethoven's 'Ode to Joy,' depicting the composer with his hands over his ears on a cliff as golden musical notes surge around him, while a vast, ecstatic crowd in a golden glow reaches towards the sky, symbolizing his overcoming of deafness and the unity of humanity. 이 그림은 청력을 상실한 채 귀를 막고 절벽에 서 있는 베토벤 주변으로 금빛 악보가 솟아오르고, 그 뒤로 황금빛 광채 속에서 환희에 찬 수많은 군중이 하늘을 향해 팔을 뻗고 있는 모습을 통해, 베토벤의 난청 극복과 인류의 화합을 노래하는 '환희의 송가'의 웅장하고 승리감 넘치는 분위기를 드라마틱하게 표현하고 있습니다." style="width:50%;" />
 
