@@ -15,6 +15,8 @@ In the climactic scene, when a German officer discovers Szpilman and, instead of
 
 In the musical [I Dreamed a Dream (Les Misérables)] (ki-hayoon.md), physical illness serves as a medium to reveal social pathology and psychological collapse, expressed through music as a nonverbal language. It conveys a spiritual testimony and artistic survival that transcend physical death.
 
+<img src="./yun-jueun.png" alt="The image abstractly expresses the inner suffering of the protagonist in the movie The Pianist." style="width:45%;" />
+
 # 피아니스트
 
 로만 폴란스키 감독의 영화 '피아니스트' (2002)는 나치의 유대인 박해, 즉 홀로코스트 속에서 피아니스트 블라디슬라프 스필만이 겪는 신체적 쇠약, 심리적 트라우마, 그리고 극도의 고독을 사실적으로 그려낸 작품이다. 1939년 바르샤바를 배경으로, 스필만과 그의 가족은 나치 침공으로 인해 바르샤바 게토에 강제로 수용된다. 그는 가까스로 강제수용소 이송을 피하지만, 이후 폐허가 된 도시 속에서 굶주림과 추위,죽음의 공포 속에 홀로 생존을 이어간다. 
