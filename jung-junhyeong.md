@@ -30,6 +30,11 @@ In another interpretation of the [film Forrest Gump](baek-seungjae.md), the Feat
 
 -------------------------------------
 
+<img src="./jung-junhyeong.jpg" alt="description" style="width:25%;" />
+
+
+[feather theme](https://youtu.be/bOvuwNyhcqI?si=NBpkNTUUvVIhzPSi)
+
 # 포레스트 검프 (Forrest Gump, 1994)
 
 1. 예술 작품
