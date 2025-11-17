@@ -10,7 +10,7 @@ ICD: F43.1
 
 This piece delicately captures the protagonist’s profound sense of psychological isolation and anxiety. The slow tempo mirrors the stillness and introspection of Szpilman’s solitude, while the pauses between notes evoke his emotional distance from others. The plaintive melody reflects his desperate longing to hold onto art amid despair, and the subtle dissonances symbolize both the instability of his reality and the fragility of his mental state. In the scene where Szpilman performs this piece before a German officer amidst the ruins of Warsaw, the dissonance musically embodies the extreme tension and fear of facing death, while also exposing the precarious balance of the human psyche. Within the violence of war, the piece’s delicate and fragile melodic line audibly conveys the vulnerability of the human spirit, suggesting that war itself operates as a kind of “collective disease.” Szpilman’s personal trauma, akin to PTSD, extends beyond the individual to represent the collective affliction of a society ravaged by violence. Ultimately, through this music, the film bears witness to both the suffering and the irreparable wounds of humanity.
 
-<img src="./kim-yoonah.jpg" alt="The scene where the pianist plays the piano in front of a German officer in the ruins of Warsaw." style="width:25%;>
+<img src="./kim-yoonah.jpg" alt="The scene where the pianist plays the piano in front of a German officer in the ruins of Warsaw." style="width:25%;" />
 
 # 피아니스트
 
