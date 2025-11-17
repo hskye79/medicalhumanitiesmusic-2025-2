@@ -13,7 +13,7 @@ ICD: 8D20.10
 
 [*Numb* (2016) by Max Jury](https://youtu.be/eNznPGirzfg?si=wC2rl-UHJJzpmmrL) is a soft and minimal song built on gentle piano and calm vocals. It conveys feelings of emptiness and emotional isolation. In Me Before You, the song is used when Will loses the will to live after his accident. The lyrics *“Honey, here I go again / Down that crooked road of sin… / I am numb”* reflect Will’s state of being — physically unable to move and emotionally detached from the world around him. The quiet and slow melody mirrors not only his physical immobility but also his inability to feel. Before meeting Louisa, Will keeps his emotions locked away, and the song captures his profound loneliness and the deep emotional disconnection brought on by his disability.
 
-In the same film, [Ed Sheeran's *Photograph*](lee-inhye.md) gently shapes the emotional line from loss of will to the process of recovering the emotion after the accident, and shows how memory supports emotions even under physical constraints.
+In the same film, [Ed Sheeran's *Photograph*](lee-inhye.md) gently shapes the emotional line from loss of will to the process of recovering the emotion after the accident, and shows how memory supports emotions even under physical constraints. The song revolves around a warm acoustic guitar and a repetitive melody line, which, unlike Numb's expression of "isolation and emotional paralysis," depicts the hope of recovering emotions by holding on to memories. In particular, the vocal and harmony progression, which increases toward the second half of the song, emphasizes the warmth left by his time with Louisa, suggesting that he can "move" emotions again, although his physical limitations remain.
 
 <img src="./kim-nayoung.png" alt="Abstract image of quadriplegic" style="width:35%;" />
 
@@ -23,4 +23,4 @@ In the same film, [Ed Sheeran's *Photograph*](lee-inhye.md) gently shapes the em
 
 [맥스 주리(Max Jury)의 *Numb* (2016)](https://youtu.be/eNznPGirzfg?si=wC2rl-UHJJzpmmrL)은 부드러운 피아노와 잔잔한 보컬이 어우러진 미니멀한 곡으로, 내면의 공허함과 감정적 마비를 섬세하게 표현한다. 이 음악은 윌이 사고 이후 세상과 단절한 채 살아가는 장면에서 사용된다. 가사 중 *“Honey, here I go again / Down that crooked road of sin… / I am numb.”*은 윌이 사고 이후 육체적으로는 움직일 수 없고, 정서적으로는 세상과 단절된 채 살아가는 모습을 보여준다. 느리고 조용한 선율은 장애로 인해 신체적으로 '움직일 수 없음'뿐 아니라 '느낄 수 없음'의 상태를 반영한다. 특히 루이자를 만나기 전까지 윌이 감정의 문을 닫아두고 살아가는 모습과 맞물리며, 장애로 인한 깊은 외로움과 단절된 내면 세계를 섬세하게 담아낸다.
 
-같은 영화에서 [에드 시런(Ed Sheeran)의 *Photograph*](lee-inhye.md)는 사고 이후 '의욕 상실 -> 감정 회복 시도 -> 결정'으로 이어지는 감정선을 다독이며, 신체적 제약 속에서도 기억이 감정을 지탱하는 방식을 보여준다.
+같은 영화에서 [에드 시런(Ed Sheeran)의 *Photograph*](lee-inhye.md)는 사고 이후 '의욕 상실 -> 감정 회복 시도 -> 결정'으로 이어지는 감정선을 다독이며, 신체적 제약 속에서도 기억이 감정을 지탱하는 방식을 보여준다. 이 곡은 따뜻한 어쿠스틱 기타와 반복적인 멜로디 라인을 중심으로 전개되는데, 이는 Numb이 표현한 ‘고립과 정서적 마비’와 달리 추억을 붙잡으며 감정을 회복하려는 희망을 그려낸다. 특히 곡 후반부로 갈수록 고조되는 보컬과 화성 진행은 루이자와 함께한 시간들이 윌에게 남긴 온기를 강조하며, 비록 신체적 한계는 여전하지만 감정만큼은 다시 ‘움직일 수 있음’을 암시한다.
