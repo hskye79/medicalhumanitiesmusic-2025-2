@@ -12,6 +12,8 @@ The musical [“Notre-Dame de Paris”](https://www.youtube.com/watch?v=3AnTqOIg
 
 Physical deformity, which symbolizes both human vulnerability and inner beauty, is portrayed in [The Phantom of the Opera](jang-ayeong.md) in a way similar to Notre-Dame de Paris. While Quasimodo’s hunched back represents the pain of rejection, the Phantom’s facial deformity reflects his struggle between genius and isolation. His song, “The Music of the Night,” transforms his disfigurement into the source of his artistic passion and emotional depth. Through haunting melodies and tender longing, the work redefines physical difference not as tragedy, but as a profound expression of humanity’s desire to be loved and understood.
 
+<img src="./shin-sejong.jpg" alt="Picture of Quasimodo" style="width:35%;" />
+
 # 노트르담 드 파리
 
 뮤지컬 [「노트르담 드 파리(Notre-Dame de Paris)」](https://www.youtube.com/watch?v=3AnTqOIgPr0&list=RD3AnTqOIgPr0&start_radio=1) 는 빅토르 위고의 동명 소설을 바탕으로, 선천적 기형으로 인해 외모적 장애를 지닌 콰지모도의 고독과 사회적 편견을 다룬 작품이다. 리카르도 코치안테(1953~현재)가 작곡한 대표곡 「Belle」 과 「Ave Maria Païen」 은 종소리 기반의 리듬과 불협화음을 통해 콰지모도의 왜곡된 신체 이미지와 고립된 내면을 음악적으로 표현하며, 서정적인 선율은 사회적 편견과 인간 내면의 순수함을 대비시킨다. 특히 「Belle」은 콰지모도, 프롤로, 페뷔스 세 남자가 에스메랄다를 향한 서로 다른 욕망을 동시에 드러내는 앙상블 곡으로, 사랑과 욕망, 도덕적 갈등의 복합성을 보여준다. 음악은 콰지모도의 내면적 고통을 표현하는 데 그치지 않고 작품의 사회적 메시지를 확장시켜, 관객이 차별과 장애에 대한 공감을 느끼도록 이끈다. 특히 대성당을 배경으로 종소리가 울려 퍼지는 장면에서 반복되는 벨 모티프와 「Ave Maria Païen」의 애절한 선율은 콰지모도의 신체적 결함과 정신적 순수함이 공존하는 긴장을 극적으로 부각시킨다.
