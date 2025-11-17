@@ -14,6 +14,8 @@ In *The Theory of Everything* (2014), directed by James Marsh, music contrasts S
 
 Another track from the same film, ["Domestic Pressures"](yoon-youngsik.md), focuses on the relational dimension of living with ALS. The piece begins as a 3/4 waltz and gradually modulates from major to minor, shifting from serene strings to greater harmonic tension. This musical progression expresses the strain of caregiving while simultaneously revealing Hawking's continuing agency and resilience within domestic life. While "Arrival of the Birds" emphasizes the individual mind's triumph over physical limitation, "Domestic Pressures" captures moments of intellectual vitality, humor, and tenderness as disability reshapes family life.
 
+<img src="./kim-yeongseong.png" alt="The image shows a fragmented human body, with fading limbs suggesting physical constraints, while the head is depicted as open and luminous to symbolize a mind that remains active and unconfined despite ALS." style="width:35%;" />
+
 # 사랑에 대한 모든 것
 
 제임스 마쉬(James Marsh) 감독의 《사랑에 대한 모든 것》(2014)은 음악을 통해 스티븐 호킹의 신체적 쇠퇴와 무한한 지적 탐구를 대조적으로 보여준다. 요한 요한슨(Jóhann Jóhannsson, 1969-2018)이 작곡한 "Arrival of the Birds"는 음악 구조를 활용해 수의근을 점진적으로 마비시키는 신경퇴행성 질환, 루게릭병(근위축성측삭경화증, ALS)의 진행 과정을 표현한다. 곡에서 반복되는 피아노 선율은 ALS로 인한 신체적 제약, 즉 점차 몸의 움직임과 통제력을 잃어가는 과정을 은유한다. 그러나 곡이 진행되면서 현악기들이 겹겹이 쌓이며 광활하고 상승하는 소리를 만들어내는데, 이는 호킹의 꺾이지 않는 정신과 지성을 상징한다. 피아노는 바닥에 머물며 반복되지만 현악은 자유롭게 비상하며, 이는 호킹의 몸이 점점 더 갇혀가는 동안에도 그의 사유는 우주를 향해 뻗어나갔음을 음악적으로 묘사한다. 요한슨의 음악은 ALS를 단순히 신체적 상실의 비극으로만 그리지 않는다. 육체적 퇴화의 무게를 인정하면서도, 동시에 신체적 경계를 넘어서는 의식, 사랑, 기억, 지적 호기심의 지속성을 드러낸다.
