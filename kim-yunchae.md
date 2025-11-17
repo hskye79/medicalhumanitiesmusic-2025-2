@@ -14,7 +14,7 @@ I checked another sentence dealing with the movie [영화 <코다>](byeon-hyejun
 
 <img src="./kim-yunchae.jpg" alt="Description of singing through language of hearing person and deaf" style="width:25%;" />
 
-# 영화 <코다>
+# <코다>
 
 영화의 내용은 이렇다. 청각장애인인 아버지, 어머니, 오빠와 다르게 듣고 말할 수 있는 주인공 "루비"는 그들을 세상과 연결해주는 역할을 하며 살아간다. 그러던 어느 날, 친구 마일스를 따라 간 합창단에서 루비는 자신의 숨겨진 재능과 노래하는 즐거움을 깨닫게 된다. 베르나르도 선생님은 루비의 재능을 발견하고, 버클리 음대 오디션을 돕고자 한다. 가족들과 음악 사이에서 갈등하던 루비는 자신의 꿈을 좇기로 결심하고, 오디션 장소에서 수어와 함께 노래를 부르며 자신의 마음을 담은 이야기를 들려준다. 그 노래의 제목이 [Both Sides, Now](https://www.youtube.com/watch?v=GKevHTbVsbQ&list=RDGKevHTbVsbQ&start_radio=1)이다.
 
