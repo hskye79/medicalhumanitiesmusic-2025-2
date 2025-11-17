@@ -10,7 +10,7 @@ ICD: F20.0
 
 James Horner's score focuses on John Nash's 'A Beautiful Mind' itself, rather than portraying schizophrenia merely as chaotic or frightening sounds. In the film, this 'Beautiful Mind' is a complex concept encompassing not only Nash's wondrous genius in seeing patterns others cannot, but also his human values—his social awkwardness yet deep longing for love and recognition—and the delusions that manifest inseparably from that genius.
 
-The music, much like director Ron Howard’s analogy of mathematics to a 'kaleidoscope,' uses constantly shifting and evolving short piano motifs or melodic fragments in the strings. When Nash applies his genius to decrypt complex codes, these melodies overlap and develop (kaleidoscopic development), building an intelligent and beautiful order. This allows us to see his schizophrenia not just as an 'illness,' but as a 'characteristic' intertwined with the expression of his genius.
+[The music](https://youtu.be/eamiiuUmVz8), much like director Ron Howard’s analogy of mathematics to a 'kaleidoscope,' uses constantly shifting and evolving short piano motifs or melodic fragments in the strings. When Nash applies his genius to decrypt complex codes, these melodies overlap and develop (kaleidoscopic development), building an intelligent and beautiful order. This allows us to see his schizophrenia not just as an 'illness,' but as a 'characteristic' intertwined with the expression of his genius.
 
 In particular, the seductive and unreal nature of the hallucinations visible only to Nash (like Marcee and Charles) is auditory-lized through a dreamlike female solo vocal. This voice, sung without specific lyrics using humming or vocalise techniques, is layered with rich reverb effects to maximize its ethereal, source-less quality. The melody itself sounds mysterious and beautiful rather than threatening, persuasively depicting the early stages where Nash perceives his hallucinations as a 'seduction'.
 
@@ -24,7 +24,7 @@ This method of using music to depict the boundaries and conflicts between intern
 
 제임스 호너의 스코어는 조현병을 단순히 혼란스럽거나 무서운 소리로 묘사하는 대신, 존 내시의 '아름다운 정신(A Beautiful Mind)' 그 자체에 집중합니다. 영화에서 이 '아름다운 정신'이란, 남들이 보지 못하는 패턴을 읽어내는 내시의 경이로운 천재성과 더불어, 사회적으로 서툴지만 사랑과 인정을 갈구하는 그의 인간적인 가치관, 그리고 그 천재성과 분리되지 않은 채 발현되는 망상까지 포함하는 복합적인 개념입니다.
 
-음악은 론 하워드 감독이 수학을 '만화경(kaleidoscope)'에 비유했듯, 끊임없이 변화하고 진화하는 짧은 피아노 모티프(motif)나 현악기의 선율 파편들을 사용합니다. 내시가 천재성을 발휘하여 복잡한 암호를 해독할 때, 이 선율들은 서로 겹치고 발전하며(kaleidoscopic development) 지적이고 아름다운 질서를 구축합니다. 이는 조현병을 단순한 '병'이 아닌, 그의 천재성이 발현되는 방식과 연결된 '특성'으로 보게 합니다.
+[음악](https://youtu.be/eamiiuUmVz8)은 론 하워드 감독이 수학을 '만화경(kaleidoscope)'에 비유했듯, 끊임없이 변화하고 진화하는 짧은 피아노 모티프(motif)나 현악기의 선율 파편들을 사용합니다. 내시가 천재성을 발휘하여 복잡한 암호를 해독할 때, 이 선율들은 서로 겹치고 발전하며(kaleidoscopic development) 지적이고 아름다운 질서를 구축합니다. 이는 조현병을 단순한 '병'이 아닌, 그의 천재성이 발현되는 방식과 연결된 '특성'으로 보게 합니다.
 
 특히 내시에게만 보이는 환각(마시, 찰스 등)의 유혹적이고 비현실적인 속성은 몽환적인 여성 솔로 보컬로 청각화됩니다. 이 목소리는 구체적인 가사 없이 허밍이나 보칼리제(vocalise) 기법으로 불리며, 풍부한 잔향(reverb) 효과가 더해져 그 출처를 알 수 없는 비현실성을 극대화합니다. 선율 자체는 위협적이기보다 신비롭고 아름답게 들리기 때문에, 내시가 환각을 '유혹'으로 받아들이는 초기 단계를 설득력 있게 묘사합니다.
 
