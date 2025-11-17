@@ -18,6 +18,8 @@ The film 'Keys to the Heart' tells the story of 'Jin-tae,' a pianist with savant
 
 In the film '[Marathon](rho-taegang.md)', music functions as a rhythmic device that expresses the repetitive and regular world of Cho-won, who has autism. The music flowing alongside the steady beat of running acoustically embodies Cho-won's orderly way of communicating with the world, and particularly, the repetition of children's songs or simple melodies he enjoys presents autistic characteristics not as deficits but as a unique sensory world. While Jin-tae in 'Keys to the Heart' explosively reveals his inner depth through complex classical music, Cho-won in 'Marathon' constructs his own stable world through simple yet consistent rhythms. Both films share the commonality of portraying autism through music not as a 'deficiency' but as a 'different way of being'.
 
+<img src="./yoo-minwoo.png" alt="피아노를 연주하는 자폐 스펙트럼의 청년, 그 위로 보이는 베토벤의 얼굴, 그리고 달리는 소년이 어우러진 음악적이고 환상적인 그림입니다." style="width:45%;" />
+
 # 그것만이 내 세상
 
 제목: 월광 소나타 3악장
