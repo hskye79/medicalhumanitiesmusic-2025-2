@@ -22,8 +22,6 @@ This method of using music to depict the boundaries and conflicts between intern
 
 <img src="./kim-nayeon.JPG" alt="The hallucinations of mathematician John Nash are depicted in a seductive and precarious manner. John Nash's mind, unfolding like a kaleidoscope, is portrayed as a fierce struggle between beautiful mind and chaotic delusion." style="width: 50%;" />
 
-
-
 # 뷰티풀 마인드
 
 제임스 호너의 스코어는 조현병을 단순히 혼란스럽거나 무서운 소리로 묘사하는 대신, 존 내시의 '아름다운 정신(A Beautiful Mind)' 그 자체에 집중합니다. 영화에서 이 '아름다운 정신'이란, 남들이 보지 못하는 패턴을 읽어내는 내시의 경이로운 천재성과 더불어, 사회적으로 서툴지만 사랑과 인정을 갈구하는 그의 인간적인 가치관, 그리고 그 천재성과 분리되지 않은 채 발현되는 망상까지 포함하는 복합적인 개념입니다.
