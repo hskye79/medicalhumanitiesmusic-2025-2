@@ -12,7 +12,7 @@ Dear Evan Hansen is a story that revolves around Evan Hansen, a high school stud
 
 Similarly, there is [Winterreise](kim-chanmi.md) as a musical piece dealing with depression and anxiety. This work also resembles a Waving Through A Window in that the rhythm of the monotonous and mechanical piano accompaniment expresses compulsive thoughts. However, in the 5th song, Bari-su, there are some differences in the musical method of expressing anxiety, such as intersecting major and minor and expressing an unstable mental state.
 
-<img scr="./kwon-dohyun.png" alt="Abstract image of Social anxiety made by GPT-5.1" style="width:25%;" />
+<img src="./kwon-dohyun.png" alt="Abstract image of Social anxiety made by GPT-5.1" style="width:40%;" />
 
 # 디어 에반 핸슨
 
