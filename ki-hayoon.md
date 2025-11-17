@@ -13,7 +13,7 @@ There is another work that shares the tragic situation of a heroine with tubercu
 
 In terms of musical expression, while Fantine’s song directly depicts the pain of illness through unstable breaths and a trembling vibrato, [La Traviata](choi-issac.md) metaphorically expresses the gradually fading vitality through gentle rhythms and a subdued string accompaniment. Both songs, in this way, share the commonality of closely reflecting the physical limitations and despair caused by the disease in the music's tempo and melodic flow.
 
-<img src="./ki-hayoon.png" alt="Abstract image of Tuberculosis" style="width:25%;" />
+<img src="./ki-hayoon.png.png" alt="Abstract image of Tuberculosis" style="width:25%;" />
 
 # 레미제라블
 
