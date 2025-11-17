@@ -11,6 +11,8 @@ ICD: MB5Z
 
 Another music expressing disability in 'Me Before You' is Ed Sheeran's [Photograph](chang-minha.md).
 
+<img src="./youn-songmin.png" alt="Abstract image of general paralysis" style="width:25%;" />
+
 # 미 비포 유
 
 '미 비포 유'는 실직한 루이자와 전신마비 환자 윌이 간병인과 환자로 만나 서로 마음을 열어가는 내용을 담고 있는 영화입니다. 이 영화의 OST 중 하나인 [Unsteady](https://youtu.be/V0lw3qylVfY?si=kJ4-8kWCpsL8PlSD)는 Sam Nelson Harris , Adam Levin , Casey Harris , Noah Feldshuh , 그리고 A. Grant이 작곡한 곡입니다. 이 음악은 윌 트레이너의 사지마비 장애를 개인의 존엄성과 고립이라는 주제를 중심으로 깊이 있게 묘사합니다. "Because I'm a little steady, a little steady"와 같은 가사는 윌의 장애, 그로 인한 고통, 삶에 대한 자신감 상실 상태를 상징적으로 보여줍니다. 웅장하고 비극적인 오케스트라 멜로디를 통해 깊은 감정 동요를 전달합니다. 윌의 불안정한 신체적, 정신적 상태와 누군가에게 의지하려는 인간적 욕망을 호소력 있게 표현한 작품입니다.
