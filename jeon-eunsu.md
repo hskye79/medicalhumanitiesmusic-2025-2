@@ -12,7 +12,7 @@ In "Wonder" (2017), directed by Stephen Chbosky, Marcelo Zarvos’s score plays 
 
 The drama [Daily Dose of Sunshine](choi-junwon.md) follows Jung Da-eun, the protagonist who works in a psychiatric department and encounters a wide range of people and events. As she meets patients with diverse backgrounds and stories, she learns to understand and empathize with them, and in doing so begins to face the emotional wounds and psychological struggles she has long avoided, gradually growing through the process. The series not only depicts Jung Da-eun’s personal development but also challenges the tendency to portray mental illness as a tragedy, instead offering a warm and respectful perspective that counters common prejudices. This aspect resonates with the message conveyed by the film "Wonder" because just as the film portrays a child who is initially fearful of the world because of his appearance but slowly opens himself to others and undergoes inner growth, the drama shows someone who has been held back by fear and hurt yet begins to step into the world through connection and understanding. Both works avoid framing disability or mental illness merely as misfortune to be overcome.
 
-<img src="./jeon-eunsu.jpg" alt="The image of Auggie's hesitant encounter in a crowded hallway" style="width:25%;" />
+<img src="./jeon-eunsu.png" alt="The image of Auggie's hesitant encounter in a crowded hallway" style="width:25%;" />
 
 # 원더
 
