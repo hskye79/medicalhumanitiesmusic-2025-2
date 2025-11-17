@@ -6,7 +6,7 @@ Disease: Dissociative Identity Disorder (DID)
 ICD: 6B64
 ---
 
-# OMORI
+# OMORI/오모리
 1. Artwork Depicting Illness or Disorder: OMORI
 After experiencing a terrible past trauma (the death of his sister 'Mari'), the protagonist 'Sunny' confines himself to his room and escapes into a dream world called 'Headspace' as an alter-ego named 'Omori'. In this dream world, he goes on adventures with his friends, but when his real-world friend 'Kel' knocks on his door, he begins to confront the reality and truth he desperately wanted to forget.
 
@@ -24,6 +24,10 @@ This musical contrast culminates in "My Time". The song features a seemingly fas
 6. 11th Week PBL Activity-1
 The movie [Perfect Blue](bae-minseok.md), much like the game OMORI, is a work centered on the theme of Dissociative Identity Disorder. A notable characteristic, similar to OMORI, is its use of dissonance to portray the disorder.
 
+7. 12th week PBL Activity
+From bright and dreamy chiptune to dissonant and ambient sounds, it contrasts the bright dream world with the dark reality.
+
+<img src ="./woo-seunghun.png" alt = "description" style="width:35%"/>
 
 
 1. 질병 또는 장애가 묘사된 예술 작품
@@ -41,4 +45,7 @@ The movie [Perfect Blue](bae-minseok.md), much like the game OMORI, is a work ce
 이러한 음악적 대비는 "My Time"에서 절정에 이릅니다. 이 곡은 겉보기에는 빠르고 경쾌한 일렉트로닉 팝 멜로디를 가졌지만, 이는 주인공이 트라우마를 이기지 못하고 자살하는 절망적인 순간에 재생됩니다. "Close your eyes... Oyasumi" (눈을 감아... 잘 자)와 같은 가사는 죽음을 '휴식'으로 포장하는 '왜곡된 긍정'을 상징합니다. 또한, "Ichi ni san shi go fun" (하나 둘 셋 넷 다섯)처럼 아이같이 숫자를 세는 일본어 가사와 영어가 혼재하며, 곡의 멜로디는 점차 글리치(glitch) 노이즈처럼 깨지고 무너지는 전개를 보입니다. 이처럼 밝은 멜로디와 어두운 가사, 그리고 사운드의 붕괴가 충돌하는 방식은, 주인공이 현실을 감당하지 못하고 자아가 완전히 파괴되는 '혼란'과 '내면 붕괴'의 상태를 청각적으로 완벽하게 구현해낸 것입니다.
 
 6. 11주차 PBL 활동-1
-영화 [퍼펙트 블루](bae-minseok.md)는 게임 OMORI와 같은 병, 해리성 정체성 장애를 주제로 하여 작품을 만들었다. OMORI와 유사하게 불협화음을 이용하여 해리성 정체성 장애를 표현한 것이 특징이다. 
+영화 [퍼펙트 블루](bae-minseok.md)는 게임 OMORI와 같은 병, 해리성 정체성 장애를 주제로 하여 작품을 만들었다. OMORI와 유사하게 불협화음을 이용하여 해리성 정체성 장애를 표현한 것이 특징이다.
+
+7. 12주차 PBL 활동
+밝고 몽환적인 칩튠애서 불협화음.앰비언트 사운드로 변화하여 밝은 꿈 속의 세계와 암울한 현실의 내용을 대비하여 표현하였다.
