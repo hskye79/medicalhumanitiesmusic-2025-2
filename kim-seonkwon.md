@@ -32,7 +32,7 @@ Through music, Andrew is no longer seen as a patient or legal case—but as a pe
 Whereas Philadelphia borrows the opera aria 'La Mamma Morta' to powerfully express an inner voice of dignity and love amidst illness, Giuseppe Verdi's opera [La Traviata](kim-seongjun.md).which similarly tackles the theme of illness—more directly depicts the tragedy of its protagonist wasting away from consumption through the music itself. The thin, delicate string melodies of the Act 3 Prelude, standing in stark contrast to the brilliant waltzes of Act 1, vividly evoke Violetta's labored breath and weakened body, while the faltering song of the "Addio, del passato" aria allows the audience to aurally experience the desperation and tragedy of a patient whose life is fading
 ---
 
-<img src="./kim-seonkwon.jpeg" alt="Abstract image of AIDS" style="width:25%;" />
+<img src="./kim-seonkwon.jpg" alt="Abstract image of AIDS" style="width:25%;" />
 
 # 필라델피아 (1993)
 
