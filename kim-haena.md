@@ -8,7 +8,7 @@ Similarly, “My Time,” the ending theme of [OMORI](woo-seunghun.md) (2020), i
 Similarly, “My Time,” the ending theme of [OMORI](woo-seunghun.md) (2020), is a piece that sonically embodies trauma and psychological collapse. On the surface, the song features a bright and cheerful electronic pop melody, yet it plays during the scene in which the protagonist fails to overcome his past wounds and guilt, ultimately falling into despair. “My Time” uses a deceptively upbeat synth tone layered with a repetitive, almost mechanical beat that gradually destabilizes; this rhythmic disintegration foreshadows the breakdown that later erupts into glitch noise. The lyric “Close your eyes... Oyasumi” symbolizes a distorted sense of comfort that frames death as a form of rest, while the gradual breakdown of the melody into glitch-like noise in the latter half of the track audibly represents the process of the self being destroyed by trauma. Both works portray an inner journey of confronting or evading trauma through music; however, while Yoon Seo-jung’s story moves toward healing and recovery, OMORI concludes with collapse and hopelessness, presenting a starkly contrasting emotional trajectory.
 
 
-<img src="./kim-haena.jpg" alt="Abstract image of PTSD" width="300" height="400" />
+<img src="./kim-haena.png" alt="Abstract image of PTSD" width="300" height="400" />
 
 
 # 낭만닥터 김사부
