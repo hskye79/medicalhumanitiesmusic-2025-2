@@ -13,6 +13,8 @@ After being discovered in an attic hideout, Szpilman must prove he is a pianist 
 
 The overall storyline shifts from negativity and sadness to overcoming and positivity, which is similar to the film [Marathon](ji-dain.md). In Marathon, the protagonist Cho-won, who has autism spectrum disorder, is portrayed in a positive light through the sport of marathon running. The film also uses major key music to create a warm emotional tone. Likewise, in The Pianist, the protagonist Szpilman, who suffers from PTSD, regains his sense of human dignity through playing the piano, with music illustrating the moment of restored humanity. Both films ultimately use music as a medium through which their protagonists reclaim themselves, converging on the shared theme of human dignity restored through artistic or emotional resilience. While Marathon expresses everyday hope through lively major-key melodies, The Pianist employs Chopin’s nocturne to reveal the enduring flame of humanity amid devastation, showing that the two films take different paths toward the same thematic destination.
 
+<img src="./park-jeongeun.png" alt="Abstract image of PTSD" style="width:35%;" />
+
 # 피아니스트
 
 제2차 세계대전 중 유대인 게토 생활과 은신 기간을 거치면서 주인공은 극심한 굶주림과 영양실조를 겪습니다. 영화 후반부, 독일군 장교 앞에서 피아노를 연주할 때 그의 모습은 수척하고 비위생적이며, 손가락은 경련을 일으킬 정도로 굳어 있습니다. 이는 전쟁과 고립이 육체에 가한 극한의 장애 상태를 시각적으로 보여줍니다. 녹턴 올림다단조 (Nocturne in C-sharp minor, Op. posth), 프레데리크 쇼팽 (Fryderyk Chopin), 1810년 (폴란드) ~ 1849년 (프랑스), 기악곡으로 가사는 없습니다. 이 곡은 영화의 도입부와 결말 부분, 그리고 가장 극적인 순간인 독일군 장교 빌름 호젠펠트와의 만남에서 사용됩니다. 영화의 대부분은 1940~1943년 바르샤바 게토를 배경으로 합다.
