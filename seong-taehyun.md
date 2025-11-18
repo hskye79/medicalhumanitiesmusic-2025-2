@@ -16,7 +16,7 @@ Title: Symphony No. 7 in A major, Op. 92 - II. Allegretto
 
 Composer: Ludwig van Beethoven (1770–1827)
 
-Context in the Work: This piece is featured in the film's climax, [when King George VI ("Bertie") delivers a crucial radio address to the nation at the immediate onset of World War II](https://youtu.be/PPLIw64rLJc?si=1vMZiqmAM2e5Rrx-). He suffered from a severe stammer (speech impediment) his entire life, making this speech his greatest personal challenge. (Link to scene)
+Context in the Work: This piece is featured in the film's climax, [when King George VI ("Bertie") delivers a crucial radio address to the nation at the immediate onset of World War II](https://youtu.be/PPLIw64rLJc?si=1vMZiqmAM2e5Rrx-). He suffered from a severe stammer (speech impediment) his entire life, making this speech his greatest personal challenge.
 
 Reflection on How the Music Portrays the Disability:
 
