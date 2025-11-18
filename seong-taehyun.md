@@ -16,7 +16,7 @@ Title: Symphony No. 7 in A major, Op. 92 - II. Allegretto
 
 Composer: Ludwig van Beethoven (1770–1827)
 
-Context in the Work: This piece is featured in the film's climax, when King George VI ("Bertie") delivers a crucial radio address to the nation at the immediate onset of World War II. He suffered from a severe stammer (speech impediment) his entire life, making this speech his greatest personal challenge.
+Context in the Work: This piece is featured in the film's climax, [when King George VI ("Bertie") delivers a crucial radio address to the nation at the immediate onset of World War II](https://youtu.be/PPLIw64rLJc?si=1vMZiqmAM2e5Rrx-). He suffered from a severe stammer (speech impediment) his entire life, making this speech his greatest personal challenge.
 
 Reflection on How the Music Portrays the Disability:
 
@@ -30,6 +30,8 @@ Ultimately, this music completes the process of confrontation, transforming his 
 In [Forrest Gump](baek-seungjae.md), another film about overcoming disability, the protagonist, Forrest Gump, has borderline intellectual functioning. Despite this disability, he overcomes it on his own, becoming a war hero who receives the Medal of Honor—a difficult honor to earn in the United States—and by the end of the work, he becomes a wealthy tycoon and celebrity. Similarly, King George VI, the protagonist of 'The King's Speech,' has a speech impediment, but he successfully delivers a speech driven by his sense of duty to give courage to his people after the outbreak of World War II.
 In this way, the protagonists of both films share the commonality of overcoming their disabilities to achieve success on their own.
 
+ <img src="./image_file.jpg" alt="description" style="width:25%;" />
+
 # 킹스 스피치
 
 질병 또는 장애가 묘사된 예술 작품: 영화 <킹스 스피치> (The King's Speech, 2010)
@@ -40,7 +42,7 @@ In this way, the protagonists of both films share the commonality of overcoming 
 
 작곡가: 루트비히 판 베토벤 (Ludwig van Beethoven, 1770–1827)
 
-작품 속 사용: 이 곡은 영화의 클라이맥스 장면, 즉 조지 6세("버티")가 2차 세계대전 발발 직후 대국민 라디오 연설을 하는 장면에 삽입됩니다. 그는 평생 심각한 말더듬(언어 장애)으로 고통받았으며, 이 연설은 그의 가장 큰 도전이었습니다.
+작품 속 사용: 이 곡은 영화의 클라이맥스 장면, 즉 [조지 6세("버티")가 2차 세계대전 발발 직후 대국민 라디오 연설을 하는 장면](https://youtu.be/PPLIw64rLJc?si=1vMZiqmAM2e5Rrx-)에 삽입됩니다. 그는 평생 심각한 말더듬(언어 장애)으로 고통받았으며, 이 연설은 그의 가장 큰 도전이었습니다.
 
 음악이 장애를 묘사하는 방식에 대한 고찰:
 
