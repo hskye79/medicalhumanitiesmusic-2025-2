@@ -30,7 +30,7 @@ Ultimately, this music completes the process of confrontation, transforming his 
 In [Forrest Gump](baek-seungjae.md), another film about overcoming disability, the protagonist, Forrest Gump, has borderline intellectual functioning. Despite this disability, he overcomes it on his own, becoming a war hero who receives the Medal of Honor—a difficult honor to earn in the United States—and by the end of the work, he becomes a wealthy tycoon and celebrity. Similarly, King George VI, the protagonist of 'The King's Speech,' has a speech impediment, but he successfully delivers a speech driven by his sense of duty to give courage to his people after the outbreak of World War II.
 In this way, the protagonists of both films share the commonality of overcoming their disabilities to achieve success on their own.
 
- <img src="./image_file.jpg" alt="description" style="width:25%;" />
+ <img src="./king's speech.png" alt="description" style="width:30%;" />
 
 # 킹스 스피치
 
