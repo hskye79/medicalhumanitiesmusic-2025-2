@@ -12,6 +12,8 @@ The film A Beautiful Mind follows the story of genius mathematician John Nash an
 
 Works that describe related diseases include similar psychological disorders, [dissociative identity disorder](han-junryul.md ). The ost of this drama depicts the inner side of a patient with a psychological disability, while the above film depicts the social life of a mentally ill patient and the influence of people around him. Through this, it includes the anxiety and constant inner side of the psychological patient. You can think that such music might have been playing inside John Nash, the genius mathematician who is the protagonist of Beautiful Mind.
 
+<img src="./kim-gunwoo.png" alt="Abstract image of hallucinations" style="width:25%;" />
+
 # 뷰티풀마인드 (A Beautiful Mind)
 
 영화 뷰티풀 마인드는 천재 수학자 존 내쉬의 시점에서 조현병 환자의 환각을 보여준다. 초반에 등장하는 윌리엄 파처와 그의 조카는 실제 인물처럼 보이지만, 후반부에 내쉬의 환영으로 밝혀진다. 이 장면은 조현병의 핵심 증상인 현실과 상상의 혼동을 잘 표현한다. 내쉬는 병을 숨기려 하고, 아내 앨리샤와 갈등을 겪는다. 이를 통해 조현병이 환자뿐 아니라 가족에게도 큰 부담을 준다는 점을 보여준다. 결말에서는 완치보다 주변의 도움과 꾸준한 관리가 중요하다는 메시지를 전한다. [OST](https://www.youtube.com/watch?v=kG4MKyq6jOU&t=518s)은 제임스 호너가 맡았다. 대표 곡 수학의 만화경은 규칙적인 리듬으로 내쉬의 논리적인 사고를 표현하지만, 병이 심해질수록 그 규칙이 무너진다. 불협화음과 리듬의 흔들림은 내쉬의 혼란스러운 정신 상태를 나타낸다. 환각 장면에서는 긴장감 있는 음이, 현실을 되찾는 장면에서는 따뜻한 선율이 흐른다. 이처럼 영화는 시각과 음악을 함께 사용해 조현병의 복잡한 내면을 생생하게 전달한다.
