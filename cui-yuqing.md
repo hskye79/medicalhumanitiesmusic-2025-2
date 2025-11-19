@@ -10,7 +10,7 @@ ICD: G82.5
 
 Will was a successful financier who led an active life before the accident, but after becoming quadriplegic due to a car crash, he loses his will to live and falls into depression. However, through his relationship and communication with his caregiver Louisa, he gradually begins to rediscover the meaning of life. The music used in this film is Ed Sheeran’s [“Photograph"](https://youtu.be/H_z63kWV-80?si=pPBD1DRg_yokUPzy). The lyrics, “We keep this love in a photograph, we made these memories for ourselves,” emphasize the permanence of love, standing in contrast to Will’s decision that his relationship with Louisa cannot continue due to his physical limitations. Within a relationship where physical contact is restricted, the song highlights how emotional connection becomes all the more important. The idea of love that can exist only within a photograph conveys the sincerity of Will’s desire to preserve their love through memory and feeling. This emotional tone allows the audience to deeply empathize with Will’s pain and his enduring love.
 
-<img src="./cui-yuqing.md.png" alt="description" style="width:30%;" />
+<img src="./cui-yuqing.md.png" alt="description" style="width:31%;" />
 
 # 미 비포 유
 
