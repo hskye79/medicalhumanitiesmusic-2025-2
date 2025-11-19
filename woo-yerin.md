@@ -14,6 +14,8 @@ Given Violetta's thin build, pale skin, coughing, hemoptysis, and general weakne
 
 Violeta in the opera La Traviata and Mimi in [La Bohème](xu-yangyang.md) are both tragic heroines who die of tuberculosis, but their diseases have different social meanings and emotional colors. Violeta's disease symbolizes the tragedy of a woman who has been sacrificed for the emptiness and love of the colorful social world, while Mimi's disease reveals the fleetingness of pure love that blooms in the reality of poor artists. If Violeta's death is a "moral tragedy" that shows both social hypocrisy and redemption of love, Mimi's death is a "sentimental tragedy" where t ideals of youth and the brutality of reality intersect. Eventually, both characters reveal the truth of love through illness, but Violeta completes the love in the sacrifice of the world and Mimi in the purity of youth.
 
+<img src="./woo-yerin.png" alt="description" style="width:40%;" />
+
 # 라 트라비아타
 오페라 라 트라비아타는 주세페 베르디(1813~1901)가 작곡한 오페라이다. 비올레타는 사교계의 인기 있는 무희로, 알프레도와 진정한 사랑에 빠진다. 두 사람은 사회적 편견과 알프레도의 아버지의 반대 때문에 갈등을 겪는다. 결국 비올레타는 알프레도의 가족을 위해 희생적으로 그와 이별하고, 마지막에는 폐병으로 생을 마감한다. 이들은 다시 재회하지만 그녀의 죽음 앞에 알프레도는 뒤늦게 진심을 깨닫는다.
 
