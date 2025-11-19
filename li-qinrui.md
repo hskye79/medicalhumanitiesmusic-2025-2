@@ -26,6 +26,8 @@ Based on the novel by Robert Louis Stevenson, the musical tells the story of sci
 
 In analyzing “The Confrontation” from Jekyll & Hyde, it becomes clear that music functions not only as a narrative device but also as a medium of psychological expression. To deepen our understanding of how composers depict mental imbalance through musical form, it is useful to compare this piece with another work employing a similar technique—the score of the film [Joker](noh-hyunwoo.md) (2019).Belong to different musical realms—the former being a dramatic Broadway musical and the latter a minimalist, atmospheric score—they share a striking similarity in their musical portrayal of psychological breakdown and duality.
 
+<img src="./li-qinrui.png" alt="Abstract image of DID" style="width:35%;" />
+
 # 지킬앤하이드
 
 선택한 작품은 뮤지컬 《지킬 앤 하이드》이며, 그 중에서도 〈The Confrontation〉이라는 곡을 살펴보고자 합니다.
