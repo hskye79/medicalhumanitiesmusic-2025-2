@@ -14,7 +14,7 @@ expression of his inner despair and fear of death, unable to find complete peace
 
 Both works reveal the theme of fear and anxiety through sensory expression. In [Sound of Metal](jeon-junwoo.md), the distorted sounds and silence experienced by Ruben after losing his hearing symbolize his fear and confusion. In Sibelius’s Symphony No. 4, the persistent tritone and unresolved harmonies create a tense and unstable atmosphere that reflects the composer’s inner turmoil and fear of death. "Sound of Metal" uses realistic and direct alterations of auditory perception to draw the audience into the protagonist’s sensory world, conveying emotional change with a documentary-like authenticity. In contrast, Sibelius’s Symphony No. 4 employs abstract musical structures and tonal instability to express personal psychological suffering through a symbolic and internalized musical language.
 
-‹img src="./an-yeeun.PNG" alt="A psychological abstraction expressing the fear of death" style="width:25%;" />
+<img src="./an-yeeun.PNG" alt="A psychological abstraction expressing the fear of death" style="width:35%;" />
 
 # 교향곡 4번 가단조, 작품번호 63
 
