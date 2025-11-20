@@ -5,9 +5,8 @@ Genre: Music
 Disorder: Generalized Anxiety Disorder
 ICD: F41.1
 ---
-
 # Ureureung Kwak-Kwak-Kwak
-Stella Jang’s “Ureureung Kwak-Kwak-Kwak” is said to have been inspired by the childhood imagination of the ceiling disappearing and rain pouring down just before falling asleep. However, when I looked closely at the lyrics, I felt that the scene was not entirely romantic.
+[Stella Jang’s “Ureureung Kwak-Kwak-Kwak”](https://youtu.be/MXY08fPiqdA?si=bTlbg0R_cUfy24B_) is said to have been inspired by the childhood imagination of the ceiling disappearing and rain pouring down just before falling asleep. However, when I looked closely at the lyrics, I felt that the scene was not entirely romantic.
 
 “Rain pouring down into my room<br>
 My blanket soaked completely<br>
@@ -22,7 +21,7 @@ The word “anxiety” never appears directly in the lyrics. However, the imager
 [🔗](jung-yunjin.md) This way of portraying emotion not as a medical diagnosis but as a quiet, internal sensation is also found in other works. It reflects a shared perspective that understands psychological pain not through clinical categories, but as a lived and felt human experience.
 
 # 우르릉 쾅쾅쾅
-스텔라장의 <우르릉 쾅쾅쾅>이라는 곡은 어렸을 때 잠들기 전 천장이 사라지고 비가 쏟아지는 낭만적인 상상을 했던 경험에서 만들어진 곡이라고 한다. 그러나 가사를 자세히 본 후, 그 장면이 마냥 낭만적이지만은 않다고 느꼈다.
+[스텔라장의 <우르릉 쾅쾅쾅>](https://youtu.be/MXY08fPiqdA?si=bTlbg0R_cUfy24B_)이라는 곡은 어렸을 때 잠들기 전 천장이 사라지고 비가 쏟아지는 낭만적인 상상을 했던 경험에서 만들어진 곡이라고 한다. 그러나 가사를 자세히 본 후, 그 장면이 마냥 낭만적이지만은 않다고 느꼈다.
 
 “내 방을 덮치는 소나기<br>
 흠뻑 다 젖어버린 이부자리<br> 
