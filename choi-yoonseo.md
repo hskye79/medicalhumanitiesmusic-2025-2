@@ -14,7 +14,7 @@ The film A Beautiful Mind (2001) is based on the life of the real-life genius ma
 
 [“A Kaleidoscope of Mathematics”](https://www.youtube.com/watch?v=eamiiuUmVz8&list=RDeamiiuUmVz8&start_radio=1) is the main theme of A Beautiful Mind, composed by James Horner, and it uses repeating piano and string patterns that gradually grow more complex to reflect John Nash’s mathematical way of perceiving the world. Charlotte Church’s clear, ethereal vocals add a sense of both brilliance and fragility, capturing the tension between Nash’s genius and his vulnerable inner life. The piece ultimately symbolizes the film’s blend of intellectual elegance and emotional depth.
 
-<img src="./choi-yoonseo.png" alt="The world through the eyes of someone with schizophrenia" style="width:25%;" />
+<img src="./choi-yoonseo.png" alt="The world through the eyes of someone with schizophrenia" style="width:40%;" />
 
 # 뷰티플마인드
 
