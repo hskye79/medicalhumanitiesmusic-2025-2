@@ -8,9 +8,11 @@ ICD: 6B64
 
 # Kill me heal me
 
-In Kill me heal me (2015), The song “Auditory Hallucination” shows the confusion and fear of someone with dissociative identity disorder. The lyrics describe hidden voices inside oneself and the repeating melody shows a sense of being trapped in one’s own mind. The overlapping vocals blur the line between reality and illusion, expressing the struggle to understand him(her)self. In the chorus, the gradually intensifying drum sound disrupts the listener’s immersion and functions as a device that exposes the character’s inner turmoil, mirroring the growing chaos within the mind.
+In Kill me heal me (2015), The song “[Auditory Hallucination](https://www.youtube.com/watch?v=tVoE9_eN8TE&list=RDtVoE9_eN8TE&start_radio=1)” shows the confusion and fear of someone with dissociative identity disorder. The lyrics describe hidden voices inside oneself and the repeating melody shows a sense of being trapped in one’s own mind. The overlapping vocals blur the line between reality and illusion, expressing the struggle to understand him(her)self. In the chorus, the gradually intensifying drum sound disrupts the listener’s immersion and functions as a device that exposes the character’s inner turmoil, mirroring the growing chaos within the mind.
 
 [Perfect blue](bae-minseok.md) centers on the protagonist’s rapid loss of a stable sense of identity under intense external pressure and internal conflict. The symptoms depicted in the story use dissociation as a psychological phenomenon expressed in a visual and symbolic manner. As the protagonist faces a career shift from idol to actress, the scrutiny of the public, and the threat of stalking, her self-concept becomes destabilized, leaving her unable to maintain a coherent sense of self.
+
+<img src="./han-junryul.png" alt="The Abstract image that show Dissociative identity disorder" style="width:30%;" />
 
 # 킬 미 힐 미
 
