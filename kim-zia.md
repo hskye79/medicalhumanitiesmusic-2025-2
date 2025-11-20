@@ -14,7 +14,7 @@ Another film that deals with early-onset Alzheimer’s, [Still Alice](kim-yongbi
 
 Watching [the music video that reconstructs scenes from the film to match the mood of the song](https://youtu.be/9tk6j8PUzD4?si=nCqatBd3lrpB6czx) allows viewers to understand the flow of the track more clearly. The creator carefully arranges the sequence of scenes according to the song’s emotional progression, composing them so that the rise and fall of feelings connect naturally. This type of video goes beyond simply listing scenes from the film; it functions as a device that visually reinforces the emotions conveyed by the song. Because the music and imagery complement each other and flow like a small narrative, the viewer is able to recall not only the song but also the emotional texture of the film.
 
-<img src="./kim-zia.png" alt="Abstract image of early-onset Alzheimer’s disease" style="width:25%;" />
+<img src="./kim-zia.png" alt="Abstract image of early-onset Alzheimer’s disease" style="width:50%;" />
 
 # 내 머리 속의 지우개
 
