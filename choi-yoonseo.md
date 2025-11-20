@@ -14,6 +14,8 @@ The film A Beautiful Mind (2001) is based on the life of the real-life genius ma
 
 [“A Kaleidoscope of Mathematics”](https://www.youtube.com/watch?v=eamiiuUmVz8&list=RDeamiiuUmVz8&start_radio=1) is the main theme of A Beautiful Mind, composed by James Horner, and it uses repeating piano and string patterns that gradually grow more complex to reflect John Nash’s mathematical way of perceiving the world. Charlotte Church’s clear, ethereal vocals add a sense of both brilliance and fragility, capturing the tension between Nash’s genius and his vulnerable inner life. The piece ultimately symbolizes the film’s blend of intellectual elegance and emotional depth.
 
+<img src="./choi-yoonseo.png" alt="The world through the eyes of someone with schizophrenia" style="width:25%;" />
+
 # 뷰티플마인드
 
 영화 〈뷰티풀 마인드〉(2001)는 천재 수학자 존 내쉬의 삶을 바탕으로, 뛰어난 업적에도 불구하고 조현병으로 환각과 망상 속에서 현실과 환상을 구분하지 못하며 고통받는 내쉬를 그린다. 제임스 호너의 음악 「A Kaleidoscope of Mathematics」는 오케스트라와 여성 합창을 규칙적인 리듬과 불규칙한 멜로디로 조화시켜, 내쉬의 천재성과 정신적 혼란을 동시에 표현한다. 이 음악은 조현병을 단순한 질환이 아닌 이성과 환상이 교차하는 내면 세계로 묘사하며, 관객이 주인공의 정신적 혼란을 간접적으로 체험하도록 돕는다. 결국 내쉬는 아내의 헌신적인 사랑과 자신의 의지로 병을 극복하고 노벨상을 수상하며, 음악은 혼란 속에서도 인간의 의지와 회복력을 강조하는 중요한 장치로 작용한다.
