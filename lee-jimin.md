@@ -1,0 +1,19 @@
+---
+Title: Symphony No. 9 in D minor, Op. 125
+Year: 1822 to 1824
+Genre: Music
+Disease: hearing impairment
+ICD: H91.90
+---
+
+# Music
+
+It introduces Ludwig van Beethoven's "Symphony No. 9 in D minor, Op. 125". The song was produced between 1822 to 1824. Beethoven gradually lost his hearing and did not give up on music even in despair, so he drew music in his heart, transcending the limits of the human mind. Completed in a state of complete deafness, the work sang about peace and harmony of mankind based on Friedrich Schiller's poem "Ode to Joy." For example, violent rhythms that symbolize darkness, struggle, and agony and unstable harmony are used in movements 1 to 3 to express the inner conflict that humans fight in trials. In movement 4, the melody of "Ode to Joy" emerged to overcome this pain and to declare victory and universal love of the human spirit by harmonizing not only orchestral music but also chorus and solos, and the lyrics "Alle Menschen werden Brüder (Everyone will be a brother) show that Beethoven did not lose his faith in harmony with mankind even after losing his hearing. In other words, even in the midst of inaudible despair, he continued to have hope and tried to pass it on to the public. The song was used in many movies. For example, the movie A Clockwork Orange, released in 1971, was used to symbolically express the inner good and evil duality of human beings and the emotional power of music. Others include "Die Hard" and "Mr. Holland's Opus." Beethoven's Symphony No. 9 shows the strong will of human beings and the power of art overcoming hearing impairments. He expressed joy and hope through music even in the midst of inaudible pain.
+
+It is used in a different way in another film [Coda] (byeon-hyejung.md ), which deals with hearing impairments. In this film, all of the family members except the main character have hearing impairments, so the main character has been acting as an interpreter and spokesperson for the family. One day, the main character wanted to get out of the house because he had a dream, but the family objected, saying that they could not live without the main character. The main character invites the family to a school concert, so the family reads the expressions and lips of the audience and supports the main character's dream. I think what these two works have in common is an attitude of not giving up even in difficult situations.[YouTube link](https://www.youtube.com/watch?v=7-a1d0VY6NA&list=RD7-a1d0VY6NA&start_radio=1)
+
+<img src="./lee-jimin.png" alt="Abstract image of hearing impairment" style="width:35%;" />
+
+루트비히 판 베토벤이 만든 교향곡 제9번 「합창」을 소개한다. 이 곡은 1822에서 1824년 사이에 제작되었다. 베토벤은 점차 청력을 잃어가며 절망 속에서도 음악을 포기하지 않아 마음 속에서 음악을 그려내 인간 정신의 한계를 초월한 인물이다. 완전한 청각 상실 상태에서 완성된 이 작품은 프리드리히 실러의 시 〈환희의 송가〉를 바탕으로 인류의 평화와 화합을 노래했다. 예를 들어 1~3악장에서는 어둠과 투쟁, 고뇌를 상징하는 격렬한 리듬과 불안정한 화성이 사용되어 인간이 시련 속에서 싸우는 내적 갈등을 표현하며 4악장에서는 이러한 고통을 뚫고 나와 ‘환희의 송가’(Ode to Joy) 선율을 등장시켜 관현악뿐 아닌 합창과 독창이 함께 어우러져 인간 정신의 승리와 보편적 사랑을 선언하거나  “Alle Menschen werden Brüder(모든 사람은 형제가 되리라)”라는 가사는 베토벤이 청력을 잃고도 인류의 화합을 향한 신념을 잃지 않았음을 보여준다. 즉, 들리지 않는 절망 속에서도 그는 계속 희망을 가지며 대중들에게 전하려고 노력하였다. 이 곡은 많은 영화에서 사용되었다. 예를 들면 1971년에 개봉한 "A Clockwork Orange"라는 영화에서 인간 내면의 선악 이중성과 음악의 감정적 힘을 상징적으로 표현하기 위해 사용되었다. 이 외에도 "Die Hard", "Mr. Holland’s Opus" 등이 있다. 베토벤의 9번 교향곡은 청각 장애를 극복한 인간의 강한 의지와 예술의 힘을 보여준 곡이다. 그는 들리지 않는 고통 속에서도 환희와 희망을 음악으로 표현했다. [유튜브 링크](https://www.youtube.com/watch?v=7-a1d0VY6NA&list=RD7-a1d0VY6NA&start_radio=1)
+
+청각장애를 다루는 또 다른 영화 [코다](byeon-hyejung.md)에서는 다른 방식으로 사용된다. 이 영화에는 주인공을 제외한 가족들이 모두 청각 장애를 가지고 있어 주인공은 가족의 통역 및 대변자의 역할을 맡고 왔다. 어느 날, 주인공은 자신의 꿈이 생겨 집에서 나가고 싶었지만 가족들은 주인공없이는 못 살아간다며 반대했다. 주인공은 학교 음악회에 가족들을 초대하여 가족들은 관객들의 표정, 입술의 모양을 읽어내며 주인공의 꿈을 응원하게 된다. 이 두 작품의 공통점은 힘든 상황에서도 포기하지 않는 태도라고 생각한다. 
