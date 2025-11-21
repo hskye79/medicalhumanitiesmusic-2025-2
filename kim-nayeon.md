@@ -20,7 +20,7 @@ Another insert song, ["All Love Can Be,"](jang-hyojin.md) conveys a message of h
 
 This method of using music to depict the boundaries and conflicts between internal reality and unreality (or delusion) can be found in other works dealing with different psychiatric conditions. For instance, the music from the series 'Kill Me, Heal Me,' which deals with Dissociative Identity Disorder (DID), also alternates between dreamlike and unstable sounds. Just as the music in 'A Beautiful Mind' expresses both Nash's genius and his chaos, the score for 'Kill Me, Heal Me' aurally conveys the blurring of boundaries between multiple identities and the resulting internal confusion in a similarly persuasive manner. "Kill Me, Heal Me" depicts another psychiatric condition, dissociative identity disorder, and [the music used in this work](han-junryul.md) also creates a sense of blurring the line between reality and imagination, effectively portraying the character's inner turmoil.
 
-<img src="./kim-nayeon.JPG" alt="The hallucinations of mathematician John Nash are depicted in a seductive and precarious manner. John Nash's mind, unfolding like a kaleidoscope, is portrayed as a fierce struggle between beautiful mind and chaotic delusion." style="width: 50%;" />
+<img src="./kim-nayeon.jpg" alt="The hallucinations of mathematician John Nash are depicted in a seductive and precarious manner. John Nash's mind, unfolding like a kaleidoscope, is portrayed as a fierce struggle between beautiful mind and chaotic delusion." style="width: 50%;" />
 
 # 뷰티풀 마인드
 
