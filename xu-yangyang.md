@@ -1,0 +1,28 @@
+---
+Title: La Boheme
+Year: 1896
+Genre: Opera
+Disease: TB
+---
+
+# La Bohème
+
+La Bohème is a classic four-act opera composed in 1896 by the Italian composer Giacomo Puccini. The libretto, adapted from the novel Scènes de la vie de bohème by French author Henri Murger, was written by Luigi Illica and Giuseppe Giacosa. Giacomo Puccini (1858–1924) is regarded as one of Italy's greatest opera composers. He is considered a master of the Bel canto style, renowned for his beautiful and moving melodies, and is credited with perfecting the genre of verismo (realist) opera. His works, including La Bohème, Tosca, Madama Butterfly, and Turandot, are beloved operas performed worldwide. La Bohème depicts the lives and loves of a group of four impoverished artists in Paris. The poet Rodolfo and his neighbour, the seamstress Mimì, fall in love at first sight. However, Mimì suffers from tuberculosis, and their love endures both sweet moments and hardships. Due to poverty and jealousy, they argue and separate. When spring arrives, and as the friends seek solace in their sorrows, Mimì returns in a critical condition. In Rodolfo's arms, she reminisces about the beautiful memory of their first meeting and eventually passes away, leaving Rodolfo in endless grief. The vocal parts Puccini composed for Mimì feature many delicate, ethereal high notes, suggesting her weak breathing and frail body due to tuberculosis. Furthermore, Mimì's frail health is emphasized repeatedly in the libretto. For instance, in the scene of the protagonists' first meeting, a line from Rodolfo's aria "Che gelida manina" – "In the moonlight, her little hand is frozen cold" – hints at Mimì's serious illness.Mimì's illness plays a crucial central role in the work. The love between Rodolfo and Mimì shines with greater purity, selflessness, and tragedy under the shadow of disease and death. Furthermore, Mimi's illness serves as poignant evidence of how fragile ideals and love become under the pressure of survival. Rodolfo's talent and poetry could neither afford medicine for the ailing Mimi nor provide her with a stable life. Her suffering profoundly exposes the harsh realities faced by 19th-century artists living in poverty. Additionally, in Romantic art, tuberculosis was often portrayed with a poetic aesthetic. Mimì's character is influenced by this tradition. Her beauty is perceived as more poignant due to the fragility caused by her illness, and her life feels more precious because of its brevity.
+
+[My favorite and most impressive aria in the opera is “Mi chiamano Mimì”.](https://youtu.be/yTagFD_pkNo?si=zfZpub63CcuJfvRq)
+
+Another introduction to the opera La Bohème.[La Bohème](kwon-doyeon.md).
+
+Another opera in which the heroine suffers from tuberculosis. In La Traviata, the heroine Violetta also suffers from tuberculosis and eventually dies of it.[La Traviata](woo-yerin.md).
+
+<img src="./xu-yangyang.png" alt="Abstract image of TB" style="width:33%;" />
+
+# 라 보엠
+
+<라 보엠>(La Bohème)은 이탈리아 작곡가 자코모 푸치니(Giacomo Puccini)가 1896년 작곡한 고전 4막 오페라로, 프랑스 작가 앙리 뮈르제(Henri Murger)의 소설<보헤미안의 생활 풍경>을 루이지 일리카(Luigi Illica)와 주세페 자코사(Giuseppe Giacosa)가 대본으로 각색한 작품이다. 자코모 푸치니(Giacomo Puccini, 1858-1924)는 이탈리아의 가장 위대한 오페라 작곡가 중 한 명이다. 그는 아름답고 감동적인 선율로 유명한 '벨 칸토(Bel canto)'의 대표 작곡가이며, 사실주의 오페라를 완성한 인물로 평가받았다. 《라 보엠》, 《토스카》, 《나비 부인》, 《투란도트》 등 그의 작품들은 전 세계에서 사랑받는 오페라다. <라 보엠>은 파리의 가난한 예술가 4인방의 삶과 사랑을 그린 이야기다. 시인 로돌포와 이웃인 자수공녀 미미는 첫눈에 사랑에 빠졌다. 그러나 미미는 결핵을 앓고 있었고, 그들의 사랑은 달콤함과 시련을 겪었다. 가난과 질탓으로 인해 둘은 다툰 후 헤어지게 됐다. 봄이 찾아오고, 친구들이 괴로움 속에서 위안을 찾을 때, 미미는 위독한 상태로 돌아왔다. 로돌포의 품에서 그녀는 처음 만났을 때의 아름다운 기억을 회상하고, 결국 세상을 떠나 로돌포에게 끝없는 비탄을 남겼다. 푸치니가 미미를 위해 쓴 파트에는 섬세하고 공기처럼 가벼운 고음이 많이 등장하는데, 이는 미미가 결핵으로 인해 숨이 약하고 몸이 허약하다는 것을 암시한다. 또한 가사 속에서도 여러 차례 미미의 병약함이 강조된다. 예를 들어 남녀 주인공이 처음 만나는 장면에서 로돌포가 부르는 아리아 〈그대의 찬 손(La gelida manina)〉의 가사 “달빛 아래 그녀의 작은 손은 차갑게 얼어 있다”라는 구절은 미미가 심하게 병들어 있음을 암시한다. 미미의 병은 작품 속에서 매우 중요한 중심적 역할을 한다. 로돌포와 미미의 사랑은 질병과 죽음의 그림자 속에서 더욱 순수하고 헌신적이며 비극적으로 빛난다. 그리고 미미의 병통은 생존의 압박 앞에서 이상과 사랑이 얼마나 취약한지 측면에서 증명하고 있다. 로돌포의 재능과 시구는 병든 미미를 위한 약값을 마련해 주지 못했고, 그녀에게 안정된 생활을 보장해 주지도 못했다. 병통은 19세기 하층 예술가들이 직면한 현실적인 고난을 통찰 있게 드러내는 역할을 한다. 또한 낭만주의 예술작품에서 결핵은 종종 시적인 미학으로 표현되곤 한다. 미미의 모습도 그런 영향을 받았다. 그녀의 아름다움은 병으로 인한 연약함 때문에 더욱 애잔하게 느껴지고, 그녀의 생명은 짧기에 더욱 소중하게 다가온다.
+
+[오페라에서 가장 인상적이고 좋아하는 아리아 하나 "내 이름은 미미".](https://youtu.be/yTagFD_pkNo?si=zfZpub63CcuJfvRq)
+
+<라 보엠> 이 오페라에 대해 다른 소개. [라 보엠](kwon-doyeon.md).
+
+여주인공이 결핵에 걸린 다른 오페라. [라 트라비아타](woo-yerin.md).에서 여주인공 비올레타도 결핵을 앓다가 결국 결핵으로 죽게 된다.
