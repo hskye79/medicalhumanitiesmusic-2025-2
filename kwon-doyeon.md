@@ -12,7 +12,7 @@ Giacomo Puccini’s opera La Bohème portrays the lives and loves of impoverishe
 
 Both La Bohème and [La Traviata](choi-issac.md) depict heroines who die of tuberculosis, portraying the fragility of love and the transience of human life in the Romantic era. In both operas, illness serves not merely as a tragic element but as an artistic device that deepens emotional expression. However, while Verdi’s La Traviata presents death as an inner confession of faith and acceptance of divine forgiveness, Puccini’s La Bohème portrays it as a tender and realistic farewell between lovers. Thus, although both share the same disease, Verdi expresses it as a path toward spiritual salvation, whereas Puccini conveys it as the lingering warmth of human life and love.
 
-<img src="./kwon-doyeon.png" alt="Abstract images of death from tuberculosis" style="width:25%;" />
+<img src="./kwon-doyeon.png" alt="Abstract images of death from tuberculosis" style="width:35%;" />
 
 # 라 보엠
 
