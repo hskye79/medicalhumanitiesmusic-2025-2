@@ -16,6 +16,7 @@ Schizophrenia and autism spectrum disorder (ASD) have distinct clinical characte
 
 Meanwhile, the drama Extraordinary Attorney Woo focuses on the daily life and growth of its protagonist on the autism spectrum, encouraging greater social understanding of neurodiversity. The protagonist, Woo Young-woo, possesses exceptional memory and logical reasoning skills but struggles with interpreting social norms and nonverbal expressions, thereby realistically depicting the prejudice and structural barriers faced by autistic individuals. Furthermore, her gradual expansion of relationships and communication in her own way shows that autism spectrum disorder is not a deficit but a unique form of cognitive diversity, highlighting the importance of a society that embraces such diversity.
 
+<img src="./jang-hyojin.png" alt="abstract image of Schizophrenia" style="width:25%;" />
 
 # 뷰티풀 마인드 
 
