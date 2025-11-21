@@ -17,6 +17,7 @@ ICD: 8A45.0Y
     * *In the film:* Andrew Beckett (Tom Hanks), wrongfully fired after his AIDS diagnosis, plays this aria for his lawyer, Joe Miller (Denzel Washington). As he translates the lyrics —  
       *"They killed my mother at my door… And yet I still live. I am love."* —  
       Andrew projects Maddalena’s suffering onto his own experience of illness and societal rejection.
+* **LINK:** [Philadelphia].(www.youtube.com/watch?v=DwRHwKZSu-w).
 
 ### Reflection: How the Music Depicts the Illness
 In *Philadelphia*, *La Mamma Morta* is not just background music—it becomes Andrew Beckett’s emotional voice.  
@@ -31,6 +32,8 @@ Through music, Andrew is no longer seen as a patient or legal case—but as a pe
 Whereas Philadelphia borrows the opera aria 'La Mamma Morta' to powerfully express an inner voice of dignity and love amidst illness, Giuseppe Verdi's opera [La Traviata](kim-seongjun.md).which similarly tackles the theme of illness—more directly depicts the tragedy of its protagonist wasting away from consumption through the music itself. The thin, delicate string melodies of the Act 3 Prelude, standing in stark contrast to the brilliant waltzes of Act 1, vividly evoke Violetta's labored breath and weakened body, while the faltering song of the "Addio, del passato" aria allows the audience to aurally experience the desperation and tragedy of a patient whose life is fading
 ---
 
+<img src="./kim-seonkwon.jpg" alt="Abstract image of AIDS" style="width:25%;" />
+
 # 필라델피아 (1993)
 
 ### 작품에 사용된 주요 음악 정보
@@ -42,6 +45,7 @@ Whereas Philadelphia borrows the opera aria 'La Mamma Morta' to powerfully expre
     * *영화 <필라델피아>:* 에이즈로 부당 해고된 앤드류 베켓은 변호사 조 밀러에게 아리아를 들려주며 가사를 번역한다.  
       *“그들은 내 어머니를 문 앞에서 죽였어요… 그래도 나는 살아 있어요. 나는 사랑이에요.”*  
       이 가사는 앤드류의 내면과 고통을 그대로 대변한다.
+* **링크:** [필라델피아].(www.youtube.com/watch?v=DwRHwKZSu-w).
 
 ### 음악이 질병/장애를 묘사하는 방식 (단상)
 <필라델피아>에서 이 아리아는 단순한 배경음이 아니라 **앤드류 베켓의 내면의 목소리**이다.
