@@ -14,6 +14,8 @@ In the end, Pierrot Lunaire embodies the fragmentation and madness of the human 
 
 The music of [Bolero](baek-jaehyuk.md) and Clair de Lune both directly affect the audience’s mind through the modern musical languages of “repetition” and “radicalism”. One evokes emotional release through gradual crescendo (Bolero), while the other manifests direct expression of anxiety and tension (Clair de Lune), musically depicting psychological buildup and release. Both pieces share a significant commonality in offering an experience beyond simple music listening—serving as a “psychological experiment” by enabling listeners to undergo a spectrum of psychological phenomena such as anxiety, focus, immersion, and release through their musical structure and timbre. Thus, Bolero and Clair de Lune integrate music and psychology in distinct ways, intensely stimulating the complex layers of human spirit through repetition, tension, release, anxiety, and inner expression.
 
+<img src="./IMG_9934.jpeg" alt="Abstract image of Pierrot Lunaire" style="width:25%;" />
+
 # 달에 홀린 피에로
 
 [달에 홀린 피에로](https://youtu.be/F6nyy7G9MDA?si=BsyegibzP8PLLIwi)는 아르놀트 쇤베르크(1874–1951)가 1912년에 작곡한 곡으로, 벨기에 상징주의 시인 알베르 지로의 동명 시집을 바탕으로 만든 연가곡이다. 전곡은 세 개의 부로 구성되며 각 부는 7개의 시로 이루어져 있다. 첫 번째 부에서는 사랑, 성, 종교의 주제를 다루며 인간의 내면 깊숙한 욕망과 신성 사이의 불안한 균형을 보여준다. 두 번째 부는 폭력, 범죄, 신성모독으로 이어지며 광기가 점차 외부로 폭발하는 양상을 드러낸다. 세 번째 부에서는 광기를 경험한 후의 피에로가 고향과 과거를 회상하며 현실로의 귀환을 시도하지만, 끝내 그 혼란 속에서 벗어나지 못한다. 이처럼 세 부는 모두 ‘광기’라는 공통 정서를 중심으로 전개되며, 그 광기가 내면에서 시작해 폭발하고 다시 황량한 정신의 공간으로 되돌아가는 과정을 변주하듯 확장시킨다.
