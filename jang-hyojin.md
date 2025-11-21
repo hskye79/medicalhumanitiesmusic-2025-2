@@ -8,7 +8,7 @@ ICD: F20-F29
 
 # A beautiful Mind
 
-The song “All Love Can Be” from A Beautiful Mind does not depict schizophrenia through direct description; instead, it conveys the light of love and humanity that persists even within a distorted reality. The gentle piano and repeating string motifs symbolize Nash’s internal confusion and anxiety, while Charlotte Church’s clear, ethereal voice feels like a distant thread of reason—an intimate gesture of healing reaching through the noise. As the film progresses, the music gradually shifts into a calmer and more grounded tone, subtly mirroring Nash’s recovery and his deliberate choice to return to reality despite the presence of lingering hallucinations.
+The song [“All Love Can Be”](https://youtu.be/tICApgIuotw?si=9T2ILaQQ33Q6VY73) from A Beautiful Mind does not depict schizophrenia through direct description; instead, it conveys the light of love and humanity that persists even within a distorted reality. The gentle piano and repeating string motifs symbolize Nash’s internal confusion and anxiety, while Charlotte Church’s clear, ethereal voice feels like a distant thread of reason—an intimate gesture of healing reaching through the noise. As the film progresses, the music gradually shifts into a calmer and more grounded tone, subtly mirroring Nash’s recovery and his deliberate choice to return to reality despite the presence of lingering hallucinations.
 
 Rather than approaching the illness from a pathological perspective, the song expresses it through the language of emotion and redemption, sketching the dignity and warmth a person can still hold even in the midst of suffering. For example, the sustained low string drone represents a trembling inner landscape, while the transparent timbre of the vocal line layered above it sonically illustrates how love seeps through the cracks of fear. This contrast in textures gives persuasive musical form to the message of the title—“All Love Can Be”—allowing the song to embody the quiet power of love as something that steadies, consoles, and ultimately guides.
 
@@ -16,6 +16,7 @@ Schizophrenia and autism spectrum disorder (ASD) have distinct clinical characte
 
 Meanwhile, the drama Extraordinary Attorney Woo focuses on the daily life and growth of its protagonist on the autism spectrum, encouraging greater social understanding of neurodiversity. The protagonist, Woo Young-woo, possesses exceptional memory and logical reasoning skills but struggles with interpreting social norms and nonverbal expressions, thereby realistically depicting the prejudice and structural barriers faced by autistic individuals. Furthermore, her gradual expansion of relationships and communication in her own way shows that autism spectrum disorder is not a deficit but a unique form of cognitive diversity, highlighting the importance of a society that embraces such diversity.
 
+<img src="./jang-hyojin.png" alt="abstract image of Schizophrenia" style="width:25%;" />
 
 # 뷰티풀 마인드 
 
