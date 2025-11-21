@@ -18,6 +18,10 @@ The film 'Keys to the Heart' tells the story of 'Jin-tae,' a pianist with savant
 
 In the film '[Marathon](rho-taegang.md)', music functions as a rhythmic device that expresses the repetitive and regular world of Cho-won, who has autism. The music flowing alongside the steady beat of running acoustically embodies Cho-won's orderly way of communicating with the world, and particularly, the repetition of children's songs or simple melodies he enjoys presents autistic characteristics not as deficits but as a unique sensory world. While Jin-tae in 'Keys to the Heart' explosively reveals his inner depth through complex classical music, Cho-won in 'Marathon' constructs his own stable world through simple yet consistent rhythms. Both films share the commonality of portraying autism through music not as a 'deficiency' but as a 'different way of being'.
 
+The scene where Jin-tae performs Moonlight Sonata 3rd Movement in the film 'Keys to the Heart' is a pivotal moment of the work, [capturing how Jin-tae, who has autism, explosively expresses his inner world through the piano](https://www.youtube.com/watch?v=jiQyA9bMHjc). Particularly, the competition scene and the duet performance with his brother Jin-ho are impressive moments that demonstrate how music becomes a tool for communication beyond disability.
+
+<img src="./yoo-minwoo.png" alt="피아노를 연주하는 자폐 스펙트럼의 청년, 그 위로 보이는 베토벤의 얼굴, 그리고 달리는 소년이 어우러진 음악적이고 환상적인 그림입니다." style="width:45%;" />
+
 # 그것만이 내 세상
 
 제목: 월광 소나타 3악장
@@ -30,3 +34,4 @@ In the film '[Marathon](rho-taegang.md)', music functions as a rhythmic device t
 
 영화 '[말아톤](rho-taegang.md)'에서 음악은 자폐를 가진 초원이의 반복적이고 규칙적인 세계를 표현하는 리듬적 장치로 기능합니다. 달리기의 일정한 박자와 함께 흐르는 음악은 초원이가 세상과 소통하는 그만의 질서정연한 방식을 청각적으로 구현하며, 특히 그가 좋아하는 동요나 단순한 멜로디의 반복은 자폐의 특성을 부정적으로 그리지 않고 하나의 고유한 감각 세계로 제시합니다. '그것만이 내 세상'의 진태가 복잡한 클래식 음악을 통해 내면의 깊이를 폭발적으로 드러낸다면, '말아톤'의 초원이는 단순하지만 일관된 리듬을 통해 자신만의 안정적인 세계를 구축합니다. 두 작품 모두 음악을 통해 자폐를 '결핍'이 아닌 '다른 방식의 존재'로 그려낸다는 점에서 공통점을 지닙니다.
 
+영화 '그것만이 내 세상'에서 진태가 월광 소나타 3악장을 연주하는 장면은 작품의 핵심적인 순간으로, [자폐를 가진 진태가 피아노를 통해 자신의 내면을 폭발적으로 표출하는 모습](https://www.youtube.com/watch?v=jiQyA9bMHjc)을 담고 있습니다. 특히 콩쿠르 장면이나 형 진호와의 연탄곡 연주 장면은 음악이 어떻게 장애를 넘어 소통의 도구가 되는지를 보여주는 인상적인 장면입니다.
