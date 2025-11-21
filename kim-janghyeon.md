@@ -8,10 +8,30 @@ ICD: H90.3
 
 # Fidelio
 
-One of the most celebrated examples of disability being depicted in a classical music work is Ludwig van Beethoven’s opera Fidelio (1805). The opera’s music was composed by Beethoven, who was born in Bonn, Germany in 1770 and passed away in Vienna in 1827; by the time he composed Fidelio, Beethoven was already grappling with significant hearing loss that would eventually lead to his complete deafness. The opera’s libretto was written by Joseph Sonnleithner, and the plot centers around Leonore, who, disguised as a man named Fidelio, bravely works to rescue her unjustly imprisoned husband Florestan from political tyranny. The lyrics (originally in German) focus on themes of hope, resilience, freedom, and love in the face of oppression and despair. Notably, Florestan’s famous Act II aria, sung from deep within a dungeon, expresses both agony and unwavering hope: “Gott! Welch Dunkel hier!” (“God! What darkness here!”). The opera’s narrative, set to Beethoven’s stirring and emotionally charged score, resonates all the more powerfully given the composer’s own struggles with physical impairment; Beethoven’s hearing loss profoundly influenced the opera’s musical textures, use of silence, and emotional tension. In Fidelio, music powerfully mirrors both suffering and the triumph of human will, with Beethoven using dynamic contrasts, abrupt silences, and transcendent choral writing to symbolize not only the darkness of imprisonment but also the light of liberation and the indomitable spirit that overcomes adversity—showing how disability, both in art and in life, can inspire courage and create new possibilities for musical and human expression.
+**Plot Summary**
+One of the most celebrated depictions of disability in classical music is Ludwig van Beethoven’s opera Fidelio (1805). The story follows Leonore, who disguises herself as a man named Fidelio to rescue her husband, Florestan, a nobleman unjustly imprisoned for exposing government corruption. In the dark depths of his cell, Florestan endures isolation and despair but clings to hope for justice and reunion with his wife. His Act II aria, “Gott! Welch Dunkel hier!” (“God! What darkness here!”), powerfully conveys both agony and an unbroken spirit of faith.
+
+**Musical Interpretation**
+Beethoven composed Fidelio while struggling with severe hearing loss that would soon lead to total deafness. His personal experience with suffering and perseverance deeply shaped the opera’s sound world—its sharp dynamic contrasts, moments of silence, and emotionally charged choral passages. Through these musical elements, Beethoven transforms pain into resilience and despair into triumph. For both the composer and his audience, Fidelio becomes more than a story of rescue; it is a testament to how music can offer healing and courage, illuminating the human capacity to overcome adversity and affirm freedom.
+
+This contrast is particularly evident in their musical expression. In Coda, the texture and rhythm of sound delicately portray the protagonist’s discovery of identity and emotional communication, whereas in Fidelio, powerful choral writing and dramatic orchestration majestically depict oppression, resistance, and the restoration of justice. In other words, emotional liberation arising from one’s inner world is conveyed through a subtle musical language, while the struggle for spiritual freedom against social prejudice is expressed through more heroic and dramatic musical elements. Thus, the two works reveal different forms of “liberation” within their music.
 
 # 피델리오(*Fidelio)
 
-질병이나 장애가 묘사된 예술작품의 사례로, 베토벤의 오페라 「피델리오」(Fidelio, 1805)를 들 수 있습니다. 이 작품의 음악은 1770년 독일 본에서 태어나 1827년 비엔나에서 생을 마감한 루트비히 판 베토벤이 작곡하였으며, 그 자신은 이 오페라를 완성할 당시 청각장애로 고통 받고 있었습니다. 「피델리오」의 줄거리는 18세기 스페인을 배경으로, 억울하게 감옥에 갇힌 남편 플로레스탄을 구하기 위해 아내 레오노레가 남장을 하고 ‘피델리오’란 가명으로 감옥 간수 조수로 들어가 목숨을 건 구출을 시도하는 이야기입니다. 주요 아리아 ‘Gott! Welch Dunkel hier!’(신이시여, 이 얼마나 어둠인가)는 주인공의 고통과 희망이 교차되는 순간을 표현합니다. 이 오페라는 사랑, 자유, 고난과 구원의 메시지를 담고 있으며, 가사와 음악 모두 진실한 감정을 섬세하게 그려냅니다. 특별히 베토벤은 청력을 거의 완전히 상실한 상태에서 이 곡을 작곡하였고, 그로 인해 음악에는 침묵과 고요, 극적인 감정의 변화 등 자신이 겪은 내면의 고통과 희망, 장애의 극복의지가 강하게 반영되어 있습니다. 「피델리오」에서는 음악이 어둠과 절망, 그 속에서 피어나는 인간의 의지와 해방의 기쁨을 극적으로 묘사함으로써, 장애(청각장애)가 결핍이 아닌 예술적 영감과 인간성 고양의 계기가 될 수 있음을 여실히 보여줍니다.
+**줄거리 요약 (Plot Summary)**
+
+고전음악에서 장애를 주제로 한 가장 유명한 작품 중 하나는 루트비히 판 베토벤의 오페라 **『피델리오(Fidelio, 1805)』**이다. 이 작품은 정부의 부패를 폭로했다는 이유로 부당하게 투옥된 귀족 플로레스탄(Florestan) 을 구하기 위해, 그의 아내 레오노레(Leonore) 가 남자로 변장해 ‘피델리오’라는 이름으로 감옥에 잠입하는 이야기를 다룬다. 깊은 지하 감옥에서 플로레스탄은 절망과 고독 속에서도 정의와 아내에 대한 희망을 잃지 않는다. 제2막의 유명한 아리아 「Gott! Welch Dunkel hier! (오, 신이여! 이 얼마나 어두운 곳인가!)」 는 그의 고통과 동시에 꺾이지 않는 의지를 강렬하게 표현한다.
+
+**음악적 해석 (Musical Interpretation)**
+
+베토벤은 『피델리오』를 작곡할 당시 이미 심각한 청각 손실로 고통받고 있었으며, 곧 완전한 청각 상실에 이르게 된다. 이러한 신체적 고통과 내면적 투쟁은 오페라의 음악적 질감에 깊게 스며들었다. 강렬한 다이내믹 대비, 갑작스러운 정적의 사용, 그리고 합창의 고양된 선율은 억압의 어둠과 해방의 빛, 인간 의지의 승리를 상징한다.
+베토벤에게 이 작품은 단순한 구출극이 아니라, 음악을 통한 치유와 용기의 서사였다. 그의 음악은 자신과 청중 모두에게 역경을 이겨낼 수 있는 힘을 일깨워주며, 예술이 인간의 한계를 넘어 자유와 희망을 노래할 수 있음을 보여준다.
+
+내가 참고한 학우의 작품은 [Coda](@kim-yunchae.md)이다. 두 작품 모두 청각장애에 대한 내용을 담았고, 코다에서의 주인공은 음악을 통해 개인의 성장을 이루고 Fidelio는 사회적 정신적 해방을 이룬다. 즉 Coda는 음악을 통해 감정의 언어적 한계를 극복하고, Fidelio는 음악을 통해 사회적 억압과 부정의를 초월한다. 두 작품 모두 “음악 = 해방”이라는 공통점을 지니며, 하나는 감정의 해방(Coda), 다른 하나는 정신의 해방(Fidelio) 으로 귀결된다.
+
+특히 이러한 차이는 음악적 표현에서도 뚜렷하게 드러난다. Coda에서는 소리의 질감과 리듬이 인물의 정체성 발견과 정서적 소통을 섬세하게 드러내는 반면, 『Fidelio』에서는 강렬한 합창과 극적인 오케스트레이션이 억압과 저항, 정의의 회복을 웅장하게 표현한다. 즉 개인의 내면에서 비롯된 감정의 해방은 섬세한 음악적 언어로, 사회적 편견에 맞서는 정신적 해방은 보다 영웅적이고 드라마틱한 음악으로 구현된다는 점에서 두 작품은 음악 속에서도 서로 다른 방식의 ‘해방’을 보여준다. 
+다음은 베토벤-피델리오의 오페라 영상이다. 
+[Beethoven- Fidelio, OP 72](https://www.youtube.com/watch?v=sm7hGCSkhTE&list=RDsm7hGCSkhTE&start_radio=1)
+
 
 
