@@ -12,7 +12,9 @@ The chosen work is the movie Twilight (2008), which centers around the love betw
 
 [My favorite movie part of the series.](https://youtu.be/0spuYf3xHjw?si=o-zZowlDeaCkvUfz)
 
-In another film about depression [pianist](yun-jueun.md ), music is used in a different way
+In another film about depression [pianist](yun-jueun.md ), music is used in a different way.
+
+<img src="./luo-cuiyao.PNG" alt="Abstract image of Depression" style="width:33%;" />
 
 # 트와일라잇(Twilight)
 
