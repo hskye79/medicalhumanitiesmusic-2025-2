@@ -12,7 +12,7 @@ The film Joker (2019) portrays the psychological collapse of a man marginalized 
 
 In Joker, psychological symptoms similar to those experienced by Arthur Fleck can also be observed in the film Shine. [philadelphia](park-hyungjin.md)
 
-<img src="./leejehyeon.jpg" alt="description" style="width:25%;" />
+<img src="./lee-jehyeon.jpg" alt="description" style="width:25%;" />
 
 # 조커 (2019)
 
