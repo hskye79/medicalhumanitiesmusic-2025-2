@@ -12,6 +12,7 @@ The musical Jekyll & Hyde (1990), composed by Frank Wildhorn (1958~ ) with lyric
 
 In another film that depicts a personality disorder [Joker(2019)](yu-jonghun.md), the protagonist Arthur Fleck suffers from uncontrollable laughter and a personality disorder, gradually becoming detached from reality and transforming into “Joker.” At first he is a socially marginalized and wounded individual, but as his inner fragmentation and violent impulses emerge, he reaches a turning point where he liberates himself through crime. The piece Bathroom Dance symbolizes his uncontrollable symptoms through music, beginning with a low cello solo, then gradually adding instruments and increasing complexity, musically portraying both his mental collapse and the simultaneous birth of “Joker.”
 
+<img src="./kim-lanhee.png" alt="Abstract image of Dissociative Identity Disorder" style="width:25%;" />
 
 # 지킬앤하이드
 
