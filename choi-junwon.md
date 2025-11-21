@@ -29,7 +29,6 @@ Music Awards at the 20th Buil Film Awards in 2013 ("Berlin")
 
 Music Award at the 11th Asian Film Awards in 2016 (DONGJU)
 
-# 정신병동에도 아침이 와요
 
 One of the most common [mental disorders](bae-minseok.md) among modern people is panic disorder. Panic disorder is a condition in which intense fear and anxiety occur suddenly, even without any external threat, often accompanied by physical symptoms such as rapid heartbeat or shortness of breath. The film Perfect Blue effectively captures this state of panic through its use of dissonance and noise, vividly conveying the protagonist’s confusion and fear as she loses her grip on the boundary between reality and illusion.
 
