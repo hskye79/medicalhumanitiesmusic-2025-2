@@ -34,3 +34,31 @@ The distorted lullaby in *Maleficent* parallels the psychological depiction in [
 Maleficent's musical distortion resonates with [*Kill Me Heal Me*](../filename.md). Both works make internal conflicts audible—Maleficent through ironic lullaby, Kill Me Heal Me through overlapping vocal layers.
 
 《말레피센트》의 음악적 왜곡은 《킬미힐미》와 공명한다. 두 작품 모두 내부 갈등을 가청화한다—말레피센트는 아이러니한 자장가로, 킬미힐미는 겹쳐지는 보컬로.
+
+ Multimedia Resources / 멀티미디어 자료
+
+YouTube Links / 유튜브 링크
+
+- [《말레피센트》 공식 예고편 (Lana Del Rey 버전 "Once Upon a Dream" 포함)](https://www.youtube.com/watch?v=cgCj8kC1o84)
+  - 말레피센트 예고편에서 사용된 아이러니한 자장가 버전. 친숙한 선율이 어둡고 불길한 분위기로 변모하는 과정을 시각적으로 확인할 수 있습니다.
+
+- [Lana Del Rey - "Once Upon a Dream" (공식 오디오)](https://www.youtube.com/watch?v=SjBfT4g-nSY)
+  - 영화에서 사용된 완전한 음악 버전. 차이콥스키의 원곡을 현대적으로 재해석하면서도 어두운 정서를 유지합니다.
+
+ AI Generated Image / AI 생성 이미지
+![8528d449a70306e2828993913a80832](https://github.com/user-attachments/assets/1f8dca4c-8512-4273-9e68-bb109c2ccc11)
+
+Image Description / 이미지 설명:
+The AI-generated visual represents Maleficent's psychological transformation, depicting the "wounded heart" theme through dark fantasy aesthetics. The artwork shows the emotional trauma and broken trust using melancholic color palette and symbolic elements that mirror the distorted lullaby's emotional impact.
+
+AI 생성 시각 자료는 말레피센트의 심리적 변형을 나타내며, 어두운 판타지 미학을 통해 "상처받은 마음" 주제를 묘사합니다. 이 작품은 우울한 색채 팔레트와 왜곡된 자장가의 정서적 영향을 반영하는 상징적 요소를 사용하여 정서적 트라우마와 무너진 신뢰를 보여줍니다.
+
+AI Prompt Used / 사용된 AI 프롬프트:
+"Maleficent's wounded heart and emotional trauma, dark fantasy art style, melancholy, broken trust, digital painting."
+
+"말레피센트의 상처받은 마음과 정서적 트라우마, 어두운 판타지 아트 스타일, 멜랑꼴리, 무너진 신뢰, 디지털 페인팅"
+
+Thematic Connection / 주제적 연결:
+This visual representation directly correlates with the musical analysis - both the distorted lullaby and this image convey the same emotional journey from innocence to betrayal, and from trust to psychological damage.
+
+이 시각적 표현은 음악 분석과 직접적으로 연관됩니다 - 왜곡된 자장가와 이 이미지 모두 순수함에서 배신으로, 신뢰에서 심리적 손상으로의 동일한 정서적 여정을 전달합니다.
