@@ -13,8 +13,7 @@ ICD: 6A00.0
 [One of the most impressive scenes] (https://youtu.be/lTcIZ8z1eVA?si=AdWWlIt5fVvRvcqt) was when the white feather at his feet floated back up into the sky after he sent his son off on the school bus; it was deeply memorable as it seemed to illustrate the journey of life.
 
 [Perfect Blue](bae-minseok.md) employs dissonant harmonies, distorted everyday noises, and abrupt silences to intensify Mima’s identity confusion and psychological collapse. These musical techniques externalize her inner turmoil as auditory anxiety, allowing the audience to directly experience her unstable psychological state. This approach stands in sharp contrast to, yet also complements, the musical methodology used in Forrest Gump. In Forrest Gump, the simplicity and clarity of the Feather Theme symbolize the protagonist’s purity and his unclouded perspective on life, enabling the score to metaphorically express emotional calm and sincerity. Whereas Perfect Blue exposes psychological breakdown through discordant soundscapes, Forrest Gump conveys emotional stability and human resilience through a gentle, minimalist piano melody. Although the two works employ opposing musical languages, both offer distinct answers to the shared question of how music can reveal a character’s inner world and emotional structure. In doing so, they broaden the understanding of how disability or psychological conditions can be represented through film music.
-
-<img scr="./baek-seungjae.jpg" alt="description" style="width:25%;" />
+ 
 
 # 포레스트검프 (1994)
 
