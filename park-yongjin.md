@@ -7,7 +7,7 @@ ICD: F84.0
 ---
 
 # Mal-aton
-The film Mal-aton (2005) depicts 'Cho-won', a young man with autism spectrum disorder, challenging a full marathon. Autism Spectrum Disorder (ASD) is a neurodevelopmental condition characterized by difficulties in social communication and interaction, as well as restricted, repetitive patterns of behavior, interests, or activities. In the film, Cho-won exhibits this through his fixation on zebras and Choco Pies, and his immersion in his own world.
+The film Mal-aton (2005) depicts 'Cho-won', a young man with autism spectrum disorder, challenging a full marathon. The film was inspired by the true story of the real-life marathon runner, Bae Hyeong-jin. Autism Spectrum Disorder (ASD) is a neurodevelopmental condition characterized by difficulties in social communication and interaction, as well as restricted, repetitive patterns of behavior, interests, or activities. In the film, Cho-won exhibits this through his fixation on zebras and Choco Pies, and his immersion in his own world.
 
 Cho-won begins running marathons after his mother, 'Kyung-sook', discovers his exceptional running ability. She hopes it will become a path to independence and a unique channel for him to connect with the world, bypassing the limits of verbal communication.
 
@@ -22,7 +22,7 @@ This analysis focuses on how film music positively reinterprets the inner world 
 <img src="./park-yongjin.png" alt="an image that expresses the pain of leukemia" style="width:25%;" />
 
 # 말아톤(Mal-aton)
-영화 <말아톤>(2005)은 자폐 스펙트럼 장애를 가진 '초원'의 마라톤 완주 도전을 그린 작품입니다. 자폐 스펙트럼 장애(ASD)는 사회적 의사소통 및 상호작용의 어려움, 그리고 제한적이고 반복적인 행동, 관심, 또는 활동을 특징으로 하는 신경발달장애입니다. 영화 속 초원은 얼룩말과 초코파이에 집착하고, 자신만의 세계에 몰두하는 모습으로 이를 보여줍니다.
+영화 <말아톤>(2005)은 자폐 스펙트럼 장애를 가진 '초원'의 마라톤 완주 도전을 그린 작품입니다. 이 영화는 실제 인물인 배형진 씨를 모티브로 제작되었습니다. 자폐 스펙트럼 장애(ASD)는 사회적 의사소통 및 상호작용의 어려움, 그리고 제한적이고 반복적인 행동, 관심, 또는 활동을 특징으로 하는 신경발달장애입니다. 영화 속 초원은 얼룩말과 초코파이에 집착하고, 자신만의 세계에 몰두하는 모습으로 이를 보여줍니다.
 
 초원은 어머니 '경숙'이 그의 남다른 달리기 능력을 발견하고, 언어적 소통의 한계를 넘어 세상과 연결될 유일한 통로이자 자립의 길이 되기를 바라면서 마라톤을 시작하게 됩니다.
 
