@@ -32,6 +32,9 @@ Music Award at the 11th Asian Film Awards in 2016 (DONGJU)
 
 One of the most common [mental disorders](bae-minseok.md) among modern people is panic disorder. Panic disorder is a condition in which intense fear and anxiety occur suddenly, even without any external threat, often accompanied by physical symptoms such as rapid heartbeat or shortness of breath. The film Perfect Blue effectively captures this state of panic through its use of dissonance and noise, vividly conveying the protagonist’s confusion and fear as she loses her grip on the boundary between reality and illusion.
 
+
+<img src="./choi-junwon.png" alt="an image of the inner side of a patient with panic disorder" style="width:25%;" />
+
 # 정신병동에도 아침이 와요
 [티저](https://youtu.be/rMaeNxPsDm8?si=r5CPP0Yqebbz6uhB)
 '정신병동에도 아침이 와요'는 내과에서 3년간 근무하던 간호사 정다은(박보영)이 정신건강의학과로 처음 발령받아 정신병동에서 근무하게 되면서 벌어지는 이야기를 다룬 드라마입니다. 다은은 정신병동 안에서 다양한 정신질환을 앓고 있는 환자들을 만나며 그들의 마음 시린 이야기를 경험하고, 그 과정에서 간호사로서, 그리고 정신 질환을 극복해 나가는 사람으로서 성장해 나갑니다. 드라마는 양극성 장애, 망상장애, 사회불안장애, 공황장애, 우울증 등 다양한 정신질환을 현실감 있게 묘사하며, 정신질환에 대한 편견을 넘어 환자들의 인간적인 면모와 그들이 겪는 고통을 따뜻한 시선으로 조명합니다. 원작은 정신병동에서 6년간 실제로 근무했던 이라하 작가의 동명 웹툰으로, 현장의 생생한 경험이 담겨 있습니다.
