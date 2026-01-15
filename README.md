@@ -63,6 +63,29 @@ Each database entry (`*.md`) includes:
 
 ---
 
+## 📈 Analysis Tools
+
+The `analysis/` folder contains tools for exploring and visualizing the database:
+
+| File | Description |
+|------|-------------|
+| `db_analysis.py` | Python script for statistical analysis of DB entries |
+| `medical-humanities-db-dashboard.jsx` | Interactive React dashboard for data exploration |
+| `medical_humanities_db.csv` | All DB entries in CSV format for easy import |
+| `network_data.json` | Cross-reference network data for visualization |
+
+### Running the Analysis
+
+```bash
+# Install dependencies
+pip install pandas matplotlib
+
+# Run analysis
+python analysis/db_analysis.py
+```
+
+---
+
 ## 🎯 Learning Objectives
 
 This course was designed as an **IC-PBL (Industry-Coupled Project-Based Learning)** and **AI × HYQ (Hanyang Questions)** class, applying the Compass QBL (Question-Based Learning) model.
